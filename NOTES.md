@@ -31,8 +31,6 @@ This project tracks and monitors regulatory websites across **all 50 U.S. states
 
 ---
 
-### 🗂️ Directory Structure
-
 ## 🗂️ Project Directory Structure
 
 custom-gpt-monitor-goe-states/
@@ -59,7 +57,7 @@ custom-gpt-monitor-goe-states/
 │
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Ignore cache/results, etc.
-└── README.md 
+└── README.md
 
 ---
 
