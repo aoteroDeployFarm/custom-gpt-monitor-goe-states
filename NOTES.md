@@ -33,32 +33,7 @@ This project tracks and monitors regulatory websites across **all 50 U.S. states
 
 ## 🗂️ Project Directory Structure
 
-custom-gpt-monitor-goe-states/
-├── app/
-│ ├── init.py # Makes app a package
-│ ├── scraper.py # Main scraper logic (CLI & importable)
-│ └── api.py # FastAPI app for GPT Action integration
-│
-├── config/
-│ └── state_urls.json # JSON config with 50-state regulatory URLs
-│
-├── results/
-│ ├── last_run.json # Latest results in JSON format
-│ ├── last_run.csv # Optional CSV export
-│ └── last_run.md # Optional Markdown export
-│
-├── .cache/ # SHA256 hashes of previously seen content
-│
-├── openapi/
-│ └── openapi.yaml # OpenAPI 3.1.0 spec for GPT Action
-│
-├── scripts/
-│ └── setup.sh # Bash script to scaffold this structure
-│
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore cache/results, etc.
-└── README.md
-
+<pre lang="nohighlight"><code> ``` custom-gpt-monitor-goe-states/ ├── app/ │ ├── __init__.py # Makes app a package │ ├── scraper.py # Main scraper logic (CLI & importable) │ └── api.py # FastAPI app for GPT Action integration │ ├── config/ │ └── state_urls.json # JSON config with 50-state regulatory URLs │ ├── results/ │ ├── last_run.json # Latest results in JSON format │ ├── last_run.csv # Optional CSV export │ └── last_run.md # Optional Markdown export │ ├── .cache/ # SHA256 hashes of previously seen content │ ├── openapi/ │ └── openapi.yaml # OpenAPI 3.1.0 spec for GPT Action │ ├── scripts/ │ └── setup.sh # Bash script to scaffold this structure │ ├── requirements.txt # Python dependencies ├── .gitignore # Ignore cache/results, etc. └── README.md ``` </code></pre>
 ---
 
 ### 🧪 How to Run
