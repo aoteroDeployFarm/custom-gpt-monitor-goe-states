@@ -16,7 +16,7 @@ A modular Python project that tracks and monitors regulatory data across oil, ga
 
 ## 🗂️ Project Directory Structure
 
-regulatory-monitor/
+custom-gpt-monitor-goe-states/
 ├── app/
 │ ├── init.py # Makes app a package
 │ ├── scraper.py # Main scraper logic (CLI & importable)
