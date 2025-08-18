@@ -1,0 +1,45 @@
+## https://dps.mn.gov/divisions/ops
+- Updated: False
+- Last Checked: 2025-08-18T04:42:35.783330Z
+- Summary: No change detected
+
+## https://www.pca.state.mn.us/business-with-us/air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:36.057485Z
+- Summary: No change detected
+
+## https://www.pca.state.mn.us/business-with-us/e-service-air-permit-applications
+- Updated: False
+- Last Checked: 2025-08-18T04:42:36.496995Z
+- Summary: No change detected
+
+## https://www.pca.state.mn.us/business-with-us/air-permit-types
+- Updated: False
+- Last Checked: 2025-08-18T04:42:36.842856Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/clean-air-act-permitting-minnesota
+- Updated: False
+- Last Checked: 2025-08-18T04:42:36.955848Z
+- Summary: No change detected
+
+## https://www.pca.state.mn.us/get-engaged/public-comments
+- Updated: False
+- Last Checked: 2025-08-18T04:42:37.206137Z
+- Summary: No change detected
+
+## https://www.pca.state.mn.us/business-with-us/wastewater-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:37.499827Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/minnesota-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:38.618697Z
+- Summary: No change detected
+
+## https://www.dnr.state.mn.us/waters/lakesuperior/federal.html
+- Updated: False
+- Last Checked: 2025-08-18T04:42:38.831719Z
+- Summary: No change detected
+
