@@ -1,0 +1,40 @@
+## https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas.html
+- Updated: False
+- Last Checked: 2025-08-18T04:47:17.026490Z
+- Summary: No change detected
+
+## https://www.pa.gov/agencies/dep/programs-and-services/business/air-quality-permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:47:17.393349Z
+- Summary: No change detected
+
+## https://www.pa.gov/services/dep/water/clean-water/apply-for-national-pollutant-discharge-elimination-system-npdes-permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:47:17.684214Z
+- Summary: No change detected
+
+## https://www.puc.pa.gov/pipeline-safety/jurisdiction-regulations/
+- Updated: False
+- Last Checked: 2025-08-18T04:47:18.436804Z
+- Summary: No change detected
+
+## https://www.puc.pa.gov/pipeline-safety/act-127-pipeline-act/
+- Updated: False
+- Last Checked: 2025-08-18T04:47:19.028456Z
+- Summary: No change detected
+
+## https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/natural-gas-drilling-impact.html
+- Updated: False
+- Last Checked: 2025-08-18T04:47:19.377938Z
+- Summary: No change detected
+
+## https://www.alleghenycounty.us/Services/Health-Department/Air-Quality/Air-Quality-Permitting
+- Updated: True
+- Last Checked: 2025-08-18T04:47:19.597653Z
+- Summary: Updated
+
+## https://www.phila.gov/documents/air-management-services-permits-and-licenses/
+- Updated: False
+- Last Checked: 2025-08-18T04:47:19.676455Z
+- Summary: None
+

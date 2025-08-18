@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:08.266450Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/business/air-quality-permits.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:09.304079Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.pa.gov/services/dep/water/clean-water/apply-for-national-pollutant-discharge-elimination-system-npdes-permits.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:09.826027Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.puc.pa.gov/pipeline-safety/jurisdiction-regulations/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:10.940203Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.puc.pa.gov/pipeline-safety/act-127-pipeline-act/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:11.524649Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/natural-gas-drilling-impact.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:12.322194Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.alleghenycounty.us/Services/Health-Department/Air-Quality/Air-Quality-Permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:47:12.983331Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.phila.gov/documents/air-management-services-permits-and-licenses/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:47:13.131067Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.phila.gov/documents/air-management-services-permits-and-licenses/"
+  }
+]
