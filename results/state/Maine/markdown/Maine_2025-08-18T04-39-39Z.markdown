@@ -1,0 +1,35 @@
+## https://www.maine.gov/mpuc/safety/natural-gas-safety
+- Updated: False
+- Last Checked: 2025-08-18T04:39:38.122026Z
+- Summary: No change detected
+
+## https://www.maine.gov/dep/air/permits/index.html
+- Updated: False
+- Last Checked: 2025-08-18T04:39:38.227050Z
+- Summary: No change detected
+
+## https://www.maine.gov/dep/air/permits/major.html
+- Updated: True
+- Last Checked: 2025-08-18T04:39:38.323546Z
+- Summary: Updated
+
+## https://www.epa.gov/caa-permitting/caa-permitting-maine
+- Updated: False
+- Last Checked: 2025-08-18T04:39:38.431861Z
+- Summary: No change detected
+
+## https://www.maine.gov/dep/water/wd/general.html
+- Updated: False
+- Last Checked: 2025-08-18T04:39:38.764667Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/maine-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:39:38.919693Z
+- Summary: No change detected
+
+## https://www.maine.gov/dmr/programs/maine-coastal-program/federal-consistency-review
+- Updated: False
+- Last Checked: 2025-08-18T04:39:39.079334Z
+- Summary: No change detected
+
