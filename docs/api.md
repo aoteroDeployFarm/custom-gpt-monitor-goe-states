@@ -30,6 +30,84 @@ Check if the API is running.
 | `export` | string | optional | Format: `json` (default), `csv`, or `markdown`      |
 | `token`  | string | optional | API key (required only if `API_KEY` env var is set) |
 
+### Example
+
 ```
 GET /check?url=https://www.commerce.alaska.gov/web/aogcc/&export=markdown&token=your_key
 ```
+
+### Response:
+```
+{
+  "url": "https://www.commerce.alaska.gov/web/aogcc/",
+  "updated": true,
+  "lastChecked": "2025-08-17T17:00:00Z",
+  "diffSummary": "AOGCC homepage content changed"
+}
+```
+
+### 🔹 POST /batch-check — Batch Check Multiple URLs
+    Send a JSON array of URLs to check multiple regulatory pages in one request.
+    Query Parameters:
+
+| Name     | Type   | Required | Description                                         |
+| -------- | ------ | -------- | --------------------------------------------------- |
+| `export` | string | optional | Format: `json` (default), `csv`, or `markdown`      |
+| `token`  | string | optional | API key (required only if `API_KEY` env var is set) |
+
+### Request Body (JSON):
+```
+{
+  "urls": [
+    "https://www.commerce.alaska.gov/web/aogcc/",
+    "https://www.epa.gov/npdes-permits/alaska-npdes-permits"
+  ]
+}
+```
+
+### Example:
+```
+curl -X POST "http://localhost:8000/batch-check?export=json&token=your_key" \
+     -H "Content-Type: application/json" \
+     -d '{"urls": ["https://site1.com", "https://site2.com"]}'
+```
+
+### Response:
+```
+{
+  "results": [
+    {
+      "url": "https://site1.com",
+      "updated": false,
+      "lastChecked": "2025-08-17T17:00:00Z",
+      "diffSummary": "No change detected"
+    },
+    {
+      "url": "https://site2.com",
+      "updated": true,
+      "lastChecked": "2025-08-17T17:00:00Z",
+      "diffSummary": "Content changed"
+    }
+  ]
+}
+```
+
+### 🔐 Authentication (Optional)
+    If you set an environment variable:
+```
+export API_KEY=your_secret_key
+```
+Then all endpoints require ?token=your_secret_key as a query parameter.
+If API_KEY is not set, authentication is disabled.
+
+---
+
+### ⚙️ Export Formats
+  * json: Standard JSON response
+  * csv: Also writes to results/last_run.csv
+  * markdown: Also writes to results/last_run.md
+
+---
+
+### 🧪 Local Testing
+Start the server:
