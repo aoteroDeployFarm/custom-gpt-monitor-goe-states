@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://psc.mo.gov/NaturalGas/Missouri_Pipeline_Safety_Authority",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:42:59.351860Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/air/business-industry/technical-assistance/construction-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:42:59.744329Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/air/business-industry/technical-assistance/operating-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:00.029074Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/air/business-industry/permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:00.366649Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/air/what-were-doing/public-notices",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:00.628193Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/air/business-industry/permits/issued",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:00.863523Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:01.123614Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/missouri-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:01.251790Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.mo.gov/water/data-e-services/electronic-permitting-epermitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:43:02.578704Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:43:02.697793Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/"
+  },
+  {
+    "url": "https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:43:02.865535Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications"
+  }
+]

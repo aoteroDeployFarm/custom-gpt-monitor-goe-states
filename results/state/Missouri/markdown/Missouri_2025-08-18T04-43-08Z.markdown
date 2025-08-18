@@ -1,0 +1,55 @@
+## https://psc.mo.gov/NaturalGas/Missouri_Pipeline_Safety_Authority
+- Updated: False
+- Last Checked: 2025-08-18T04:43:06.033704Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/air/business-industry/technical-assistance/construction-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:43:06.296687Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/air/business-industry/technical-assistance/operating-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:43:06.542513Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/air/business-industry/permits
+- Updated: False
+- Last Checked: 2025-08-18T04:43:06.782312Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/air/what-were-doing/public-notices
+- Updated: False
+- Last Checked: 2025-08-18T04:43:07.049352Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/air/business-industry/permits/issued
+- Updated: False
+- Last Checked: 2025-08-18T04:43:07.291619Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater
+- Updated: False
+- Last Checked: 2025-08-18T04:43:07.595845Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/missouri-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:43:07.698830Z
+- Summary: No change detected
+
+## https://dnr.mo.gov/water/data-e-services/electronic-permitting-epermitting
+- Updated: False
+- Last Checked: 2025-08-18T04:43:07.918037Z
+- Summary: No change detected
+
+## https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/
+- Updated: False
+- Last Checked: 2025-08-18T04:43:08.009584Z
+- Summary: None
+
+## https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications
+- Updated: False
+- Last Checked: 2025-08-18T04:43:08.090744Z
+- Summary: None
+
