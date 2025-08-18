@@ -1,0 +1,35 @@
+## https://ripuc.ri.gov/utility-information/natural-gas/ridpuc-pipeline-safety
+- Updated: False
+- Last Checked: 2025-08-18T04:47:28.460834Z
+- Summary: No change detected
+
+## https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:47:28.673446Z
+- Summary: No change detected
+
+## https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits/operating-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:47:28.887781Z
+- Summary: No change detected
+
+## https://dem.ri.gov/environmental-protection-bureau/water-resources/permitting/ripdes
+- Updated: False
+- Last Checked: 2025-08-18T04:47:29.147312Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/rhode-island-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:47:29.258153Z
+- Summary: No change detected
+
+## https://www.crmc.ri.gov/applicationforms.html
+- Updated: False
+- Last Checked: 2025-08-18T04:47:29.603614Z
+- Summary: No change detected
+
+## https://www.crmc.ri.gov/aboutcrmc.html
+- Updated: False
+- Last Checked: 2025-08-18T04:47:29.953135Z
+- Summary: No change detected
+
