@@ -1,0 +1,55 @@
+## https://www.tn.gov/environment/mineral-geologic.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:25.542818Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/permit-permits/mineral-geologic.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:25.832155Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/about-tdec/fin-financial-responsibility/financial-assurance/fin-financial-instruments-home/fin-oil-gas.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:26.091890Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/permit-permits/air-permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:26.373508Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/permit-permits/air-permits/operating/title5-operating.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:26.655031Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits1/national-pollutant-discharge-elimination-system--npdes--permit.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:26.939717Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:27.236073Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/tennessee-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:48:27.350074Z
+- Summary: No change detected
+
+## https://www.tn.gov/tpuc/divisions/gas-pipeline-safety-division.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:27.625797Z
+- Summary: No change detected
+
+## https://primis.phmsa.dot.gov/comm/FactSheets/States/TN_State_PL_Safety_Regulatory_Fact_Sheet.htm
+- Updated: False
+- Last Checked: 2025-08-18T04:48:27.984907Z
+- Summary: No change detected
+
+## https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-tennessee-board-of-water-quality--oil-and-gas.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:28.285284Z
+- Summary: No change detected
+

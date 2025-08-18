@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.tn.gov/environment/mineral-geologic.html",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:48:16.853701Z",
+    "error": "[ERROR] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "url": "https://www.tn.gov/environment/permit-permits/mineral-geologic.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:17.147108Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.tn.gov/environment/about-tdec/fin-financial-responsibility/financial-assurance/fin-financial-instruments-home/fin-oil-gas.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:17.425557Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.tn.gov/environment/permit-permits/air-permits.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:17.690576Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.tn.gov/environment/permit-permits/air-permits/operating/title5-operating.html",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:48:17.753313Z",
+    "error": "[ERROR] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "url": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits1/national-pollutant-discharge-elimination-system--npdes--permit.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:18.047833Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:18.327284Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/tennessee-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:18.424307Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.tn.gov/tpuc/divisions/gas-pipeline-safety-division.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:18.696713Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://primis.phmsa.dot.gov/comm/FactSheets/States/TN_State_PL_Safety_Regulatory_Fact_Sheet.htm",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:19.110864Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-tennessee-board-of-water-quality--oil-and-gas.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:48:19.424314Z",
+    "diffSummary": "Updated"
+  }
+]
