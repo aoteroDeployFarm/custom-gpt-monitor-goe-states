@@ -28,11 +28,13 @@ custom-gpt-monitor-goe-states/
 Option A — Use system Python (simplest)
 Run:
 ```
-python3 -m pip install --upgrade pip
+python3 -m ensurepip --upgrade
+python3 -m pip install --upgrade pip setuptools wheel
+
 python3 -m pip install -r requirements.txt
 ```
 
-    Option B — Use a virtual environment (recommended)
+Option B — Use a virtual environment (recommended)
 
 ```
 python3 -m venv .venv
@@ -51,7 +53,8 @@ Ensure the first line of app/scraper.py contains:
 chmod +x app/scraper.py
 ```
 
-    Now you can run it directly:
+Now you can run it directly:
+
 ```
 ./app/scraper.py
 ```
@@ -62,7 +65,8 @@ Run with default URL in script:
 ./app/scraper.py
 ```
 
-    OR check a specific URL:
+OR check a specific URL:
+
 ```
 python3 app/scraper.py https://www.commerce.alaska.gov/web/aogcc/
 ```
