@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://energy.virginia.gov/gas-oil/gasoil.shtml",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:33.635908Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://energy.virginia.gov/gas-oil/PermitRequirements.shtml",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:33.940238Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:34.370151Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://energy.virginia.gov/gas-oil/OwnerRights.shtml",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:34.682002Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.deq.virginia.gov/permits/air",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:34.964241Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.virginia.gov/permits/air"
+  },
+  {
+    "url": "https://www.deq.virginia.gov/permits/air/forms",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:35.051890Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.virginia.gov/permits/air/forms"
+  },
+  {
+    "url": "https://www.deq.virginia.gov/permits/air/issued-title-v-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:35.178697Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.virginia.gov/permits/air/issued-title-v-permits"
+  },
+  {
+    "url": "https://www.deq.virginia.gov/permits/water/surface-waters-vpdes",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:35.244635Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.virginia.gov/permits/water/surface-waters-vpdes"
+  },
+  {
+    "url": "https://www.deq.virginia.gov/permits/water/ms4",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:35.318489Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.virginia.gov/permits/water/ms4"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/virginia-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:35.421816Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.scc.virginia.gov/regulated-industries/utility-railroad-safety/pipeline-safety/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:35.973519Z",
+    "diffSummary": "Updated"
+  }
+]

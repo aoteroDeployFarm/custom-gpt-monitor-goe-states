@@ -1,0 +1,55 @@
+## https://energy.virginia.gov/gas-oil/gasoil.shtml
+- Updated: False
+- Last Checked: 2025-08-18T04:49:38.816948Z
+- Summary: No change detected
+
+## https://energy.virginia.gov/gas-oil/PermitRequirements.shtml
+- Updated: True
+- Last Checked: 2025-08-18T04:49:39.112248Z
+- Summary: Updated
+
+## https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:49:39.394494Z
+- Summary: Updated
+
+## https://energy.virginia.gov/gas-oil/OwnerRights.shtml
+- Updated: False
+- Last Checked: 2025-08-18T04:49:39.709017Z
+- Summary: No change detected
+
+## https://www.deq.virginia.gov/permits/air
+- Updated: False
+- Last Checked: 2025-08-18T04:49:39.785857Z
+- Summary: None
+
+## https://www.deq.virginia.gov/permits/air/forms
+- Updated: False
+- Last Checked: 2025-08-18T04:49:39.857465Z
+- Summary: None
+
+## https://www.deq.virginia.gov/permits/air/issued-title-v-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:49:39.929941Z
+- Summary: None
+
+## https://www.deq.virginia.gov/permits/water/surface-waters-vpdes
+- Updated: False
+- Last Checked: 2025-08-18T04:49:40.018814Z
+- Summary: None
+
+## https://www.deq.virginia.gov/permits/water/ms4
+- Updated: False
+- Last Checked: 2025-08-18T04:49:40.098231Z
+- Summary: None
+
+## https://www.epa.gov/npdes-permits/virginia-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:49:40.210482Z
+- Summary: No change detected
+
+## https://www.scc.virginia.gov/regulated-industries/utility-railroad-safety/pipeline-safety/
+- Updated: False
+- Last Checked: 2025-08-18T04:49:40.300410Z
+- Summary: No change detected
+

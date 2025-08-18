@@ -1,0 +1,148 @@
+
+
+
+
+Gas and Oil Data Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Gas and Oil Data Information System
+Welcome to the Virginia Department of Energy's
+				Gas and Oil Data Information System.
+
+Troubleshooting Guide
+
+
+
+All location coordinates are in State Plane feet, Virginia South Zone, NAD 83; gas volumes are in thousand cubic feet (MCF); and oil volumes are in barrels.
+
+
+
+
+
+
+
+Client Services 
+
+Appeal Director's Decision
+Objection to New Permit/Modification
+Submit a Complaint
+Instructions on how to file an Appeal
+Instructions on how to file Objection
+Instructions on submitting a Complaint
+
+
+
+Well Records
+
+Annual Report
+Completion Report
+Drilling Report
+Geophysical Logs
+Permitted Applications/File Scans
+Plugging Affidavits
+
+
+
+Gas and Oil Board
+
+Hearing Docket Files
+Latest Agenda
+Minutes
+Escrow Agent Summaries
+Transcripts/Meeting Video Link
+Escheatment Information
+Current Docket
+Escrow Estimator
+
+
+
+
+Database Search
+
+Active Companies Listing
+Chemical Disclosure Report
+Complaints in a Date Range 
+Completions in a Date Range
+Drilling Reports in a Date Range
+File Detail Long Report
+Monitoring Point Location Map
+
+Monthly Gas Production
+Monthly Gas Production Summary
+Monthly Gas Production by Well
+Monthly Oil Production
+Pending Eforms Applications
+ Permit Issuance
+Permit Issuance Statistics
+Permit Listing
+Weekly Rigs Report
+Well Location Download
+
+
+
+
+The data available on this website portal are derived from information submitted to the Virginia Gas and Oil Program by permitted gas and oil operators as required by statute and regulation. The Commonwealth of Virginia, Virginia Department of Energy, and Gas and Oil Program provide the data “as is”, and provide no warranty, expressed, implied or statutory with respect to the contents of this website, including but not limited to warranty that the information is correct, complete, current, free of computer virus or fit for any particular purpose. By accessing this site, the user agrees to hold the Commonwealth of Virginia, Virginia Department of Energy and Gas and Oil Program and their employees harmless for any damages, including economic and consequential damages, arising from use of the website or its contents.
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+                    Questions or Comments about using this site? Please contact the Gas and Oil e-Forms Center
+
+
+Virginia Department of Energy. All Rights Reserved.
+                    
+Web Policy
+
+
+
+
+
+
