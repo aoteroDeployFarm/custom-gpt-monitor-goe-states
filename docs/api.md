@@ -45,6 +45,7 @@ GET /check?url=https://www.commerce.alaska.gov/web/aogcc/&export=markdown&token=
   "diffSummary": "AOGCC homepage content changed"
 }
 ```
+---
 
 ### 🔹 POST /batch-check — Batch Check Multiple URLs
     Send a JSON array of URLs to check multiple regulatory pages in one request.
@@ -91,6 +92,7 @@ curl -X POST "http://localhost:8000/batch-check?export=json&token=your_key" \
   ]
 }
 ```
+---
 
 ### 🔐 Authentication (Optional)
     If you set an environment variable:
@@ -110,4 +112,46 @@ If API_KEY is not set, authentication is disabled.
 ---
 
 ### 🧪 Local Testing
-Start the server:
+* Start the server:
+```
+uvicorn app.api:app --reload
+```
+* Try:
+```
+curl "http://localhost:8000/check?url=https://www.commerce.alaska.gov/web/aogcc/"
+```
+
+* Or:
+```
+curl -X POST http://localhost:8000/batch-check \
+     -H "Content-Type: application/json" \
+     -d '{"urls": ["https://site1.com", "https://site2.com"]}'
+```
+
+### 🐳 Docker Testing
+    Use docker-compose.yml:
+```
+docker-compose up --build
+```
+
+    Then access the API at:
+```
+http://localhost:8000
+
+```
+---
+
+### ✅ Status Summary
+| Endpoint       | Method | Description          |
+| -------------- | ------ | -------------------- |
+| `/`            | GET    | Health check         |
+| `/check`       | GET    | Single URL check     |
+| `/batch-check` | POST   | Batch check for URLs |
+
+---
+
+### 🧩 Built With
+  * FastAPI
+  * Uvicorn
+  * Requests
+  * BeautifulSoup4
