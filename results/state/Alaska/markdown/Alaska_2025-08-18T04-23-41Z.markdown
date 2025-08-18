@@ -1,0 +1,40 @@
+## https://www.commerce.alaska.gov/web/aogcc/
+- Updated: False
+- Last Checked: 2025-08-18T04:23:36.691351Z
+- Summary: No change detected
+
+## https://dog.dnr.alaska.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:23:37.463475Z
+- Summary: No change detected
+
+## https://dog.dnr.alaska.gov/LeaseSale
+- Updated: True
+- Last Checked: 2025-08-18T04:23:38.282622Z
+- Summary: Updated
+
+## https://dec.alaska.gov/air/air-permit/
+- Updated: True
+- Last Checked: 2025-08-18T04:23:38.622256Z
+- Summary: Updated
+
+## https://dec.alaska.gov/water/wastewater/
+- Updated: True
+- Last Checked: 2025-08-18T04:23:38.946092Z
+- Summary: Updated
+
+## https://www.epa.gov/npdes-permits/alaska-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:23:39.064666Z
+- Summary: No change detected
+
+## https://dec.alaska.gov/spar/ppr/contingency-plans/
+- Updated: True
+- Last Checked: 2025-08-18T04:23:39.386103Z
+- Summary: Updated
+
+## https://rca.alaska.gov/RCAWeb/home.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:23:41.991730Z
+- Summary: Updated
+
