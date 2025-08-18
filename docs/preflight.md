@@ -48,7 +48,7 @@ Ensure the first line of app/scraper.py contains:
 #!/usr/bin/env python3
 ```
 
-    Then run:
+Then run:
 ```
 chmod +x app/scraper.py
 ```
@@ -99,12 +99,14 @@ Then add ?token=your_secret_key to each request.
 
 6. 📄 Generate Tree Structure (Optional)
 If you want to verify the directory structure:
+
 ```
 tree -I '__pycache__|.venv' > tree.md
 ```
 
 7. 🐳 Docker Option (Optional)
 Build and run with Docker:
+
 ```
 docker-compose up --build
 ```
