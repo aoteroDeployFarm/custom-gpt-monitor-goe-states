@@ -1,0 +1,35 @@
+## https://www.rrc.texas.gov/oil-and-gas/
+- Updated: False
+- Last Checked: 2025-08-18T04:48:54.223287Z
+- Summary: No change detected
+
+## https://www.rrc.texas.gov/pipeline-safety/
+- Updated: False
+- Last Checked: 2025-08-18T04:48:54.571219Z
+- Summary: No change detected
+
+## https://www.tceq.texas.gov/permitting/air
+- Updated: False
+- Last Checked: 2025-08-18T04:48:54.842650Z
+- Summary: No change detected
+
+## https://www.tceq.texas.gov/permitting/wastewater/pretreatment/tpdes_definition.html
+- Updated: False
+- Last Checked: 2025-08-18T04:48:55.160048Z
+- Summary: No change detected
+
+## https://www.glo.texas.gov/energy/mineral-leasing/leasing
+- Updated: False
+- Last Checked: 2025-08-18T04:48:55.601940Z
+- Summary: No change detected
+
+## https://www.glo.texas.gov/coastal/oil-spill-prevention-and-response
+- Updated: False
+- Last Checked: 2025-08-18T04:48:56.075173Z
+- Summary: No change detected
+
+## https://www.puc.texas.gov/
+- Updated: True
+- Last Checked: 2025-08-18T04:48:56.593021Z
+- Summary: Updated
+
