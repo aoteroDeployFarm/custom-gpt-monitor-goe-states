@@ -1,449 +1,1790 @@
 {
-  "414e57553182db8fb51f121d41fed70967ea0716e5cfc782b5533693d58bbf2b": "https://www.gsa.state.al.us/ogb",
-  "072b6bbe4ba23752661940656fe3d0d5d4794ea47d5df5f84bc2f692d70a815b": "https://www.gsa.state.al.us/ogb/wells",
-  "9eaa5d734e98645cc082d1f57c2d76becf706e1633cfe200043db61c507c9f56": "https://adem.alabama.gov/air/air-permitting",
-  "7e5abcd14f81e3bf0fb7f762d529da5fd050701411504dc3ef1ab9dd496c12f7": "https://adem.alabama.gov/air",
-  "2c1e1a54661c10ecac793bd9584034831ba1de77a062a4b5784d27c659405790": "https://adem.alabama.gov/water/npdes-programs/npdes-permits",
-  "1462e688cc56fc2b5fa71e665b8a30e079ef5fee952ecc1e8bcf3c9c478c8b82": "https://adem.alabama.gov/water/npdes-programs/construction-general-permit",
-  "2410b86757d65ec7ec7908ef43b4318d9d44a5f18d65c8fa472be9d36d2cfe64": "https://www.epa.gov/npdes-permits/alabama-npdes-permits",
-  "1323ca2d8b348aa219f81d76e63a3ea1a37188ad538e064af05aaa0166f3b3f6": "https://psc.alabama.gov/gas-pipeline-safety/",
-  "d9869c0759d0901050ad5ac82a7d2668bdb4a84525f6b4bfe65c0d78a1af91cb": "https://apsc.alabama.gov/Energy/GPS/gas_pipeline_safety_section.htm",
-  "61f6029d8af829baafa183761be22f84030cc12e05a2bd35adc8c8f12c979266": "https://www.jcdh.org/SitePages/Misc/TitleVAirPermits.aspx",
-  "235df1fb41c2604de30a8bbfcb99a36bb9feb8d070d5d0e694d87972cf40d69f": "https://www.jcdh.org/SitePages/Programs-Services/EnvironmentalHealth/Air-RadiationProtectionDivision/RegAirFac.aspx",
-  "ae9adffc10fe1c696aa7d628f2fa242415f508cc629be29497530c7343d1fa6f": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/",
-  "216fc2f82f3981f2a7e15ebb9a7cdf84fbcf4d0d097afc40dde78029cb40a61d": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/air-permit/",
-  "55418062ba79fb28685979dacc3d38002bc8ff4ae3e23d7e88cd8c2d9d683455": "https://www.huntsvilleal.gov/business/licensing-permits/environment-licenses/air-permits/",
-  "ce9e53422c9a0265e1cd9f44486fa2a9e938737971f09bc81dd17a607db40426": "https://www.commerce.alaska.gov/web/aogcc/",
-  "95957a8793b9314761aa930965ae022b3c3c4d9e1e077dedd4060b2daf3e92aa": "https://dog.dnr.alaska.gov/",
-  "6e08f410461b0e023f7dd7c5b3b628871be0f23370815cb146ee9e886a795295": "https://dog.dnr.alaska.gov/LeaseSale",
-  "798b84b50f160a5966946ee3065934a6a2aad9b3a1d81e82ea3aed6527c5a94d": "https://dec.alaska.gov/air/air-permit/",
-  "8d2e521a57aa6d14d0881f9a6159bde0fcddeb3a0efe5f3ca5f0db793a53d6e0": "https://dec.alaska.gov/water/wastewater/",
-  "0db8f696f1bfccc4e1094e8e468eddc1ff71fb0129267720a481ef7df63d611e": "https://www.epa.gov/npdes-permits/alaska-npdes-permits",
-  "f7f3f2a48adc0fd3a8cac3f4f2b539324291d347fa488db3f3bb6e019d19b63a": "https://dec.alaska.gov/spar/ppr/contingency-plans/",
-  "849caf432f5d6449610c78ddc9f14c7713dcb77ab192a7dd9c92ff012c46b2cd": "https://rca.alaska.gov/RCAWeb/home.aspx",
-  "72fe837a4de748c8ab11c8213328607825eafbe9cba5b71a10de16217b9b9345": "https://azogcc.az.gov/",
-  "20a65d83e56fc46c79aea3a43f53088541c39d57c1d5ba58d14d57bd0efaded1": "https://azogcc.az.gov/permits",
-  "0dd4f3cf133bfa400e35901676baeb0ef40091db179244dce42a1d676c9166b5": "https://azcc.gov/safety/pipeline-safety/pipeline",
-  "fcc3e16a1594206148db5c63908aebcea2447db6b54e50bd35732f0fc8ffc000": "https://azdeq.gov/air-permits-comp",
-  "05d20e3c7a535f0dab8bdf627599bf59cd94ca520aba931cf97cd476a6ca3687": "https://azdeq.gov/permits/AZPDES/IND",
-  "71f3d79a8eaa3c1fb22a3fb3050d8faaa8b262b95d90f3e0390ae4b265044e90": "https://azdeq.gov/SWPPermitting",
-  "770bf3a48e571732801f2da795dac7c1fd01235c23e97104850f2dd65a57674b": "https://land.az.gov/applications-permits",
-  "82e2249dd909b8fd0e907a12051d960e2a3beea1bac69a3f8a256cdf71fd04d2": "https://www.maricopa.gov/1818/Permits-Forms-and-Payments",
-  "dea25ec080c8a25eabe1bb35d09d0df5853f747b92ad3b59eefaef61bd902fb6": "https://www.pima.gov/439/Air-Quality-Permits",
-  "8e27a7dbda5529cbfaa952cdc77ff3606f73c113c1acd71ae0dce17eb5e1b1c1": "https://www.pinal.gov/1255/Permitting",
-  "eb8d6243566f685e524f9e5ef432c9317cb90c5a086f5229cbda6c983a54218b": "https://ee.arkansas.gov/energy/oil-gas-commission/",
-  "6a747973bdd332a710ece3683aa91eb42824ba49c4d48d23c2982104614b9631": "https://www.aogc.state.ar.us/",
-  "1778bb45b813da5baa1c00dc3132d6830ae22ac7ae06e0b7bd165819b723b6fc": "https://www.adeq.state.ar.us/air/permits/",
-  "3f27e3e9fdebd03000a3d0b2c7ade51f9ab16ab84175291d0b5d777800561206": "https://ee.arkansas.gov/environment/office-of-air-quality/",
-  "1e1c9a5531b2d0a3b7f90968d5eb42813a0b3646c36a3e00bd1f33f614d053a0": "https://www.adeq.state.ar.us/water/permits/npdes/",
-  "d852bed9edb23f7807ea9b85bf5e34b077af5e044d2967997880a92ba3b33f0e": "https://www.epa.gov/npdes-permits/arkansas-npdes-permits",
-  "4cf180b263204c855bafcb832dcef94a70b3f69d20ce6194b3fee4853efc5fdd": "https://apsc.arkansas.gov/utilities/pipeline-safety/",
-  "37903701dbcb8066d59bf078c11e2315055258b3a6bbbf114a68842f20b05fe2": "https://www.conservation.ca.gov/calgem",
-  "d5cd6e2f708fdf4925e62e40a0b65568597c22031add4497f55d7990c0a1eba9": "https://www.energy.ca.gov",
-  "cdddc591775818ae8cb40b3a85156188f2468c1aa8f45adf9ca785087073e928": "https://www.cpuc.ca.gov",
-  "aa1d5789e3e5c7ebe8a89d09b6b5e9f9a263f808f88daf575b3704abed7e5dbb": "https://ww2.arb.ca.gov",
-  "764028fc4bea9bb0cf88966fbcaf9ec5002d42a272c062c5cadb05bb2831d7da": "https://calepa.ca.gov",
-  "6fa115d353f194bd479ee272dc8bf2ad38e10c8478479527f6b1554886a1fb9f": "https://www.slc.ca.gov/oil-gas",
-  "c5ef5041dccc92d21bb44e3e668ec7b74d65f56e7c735df1fe6a1aa34c75c773": "https://www.dir.ca.gov/dosh/",
-  "7d6fb94eca01c084a354e03c507d29fac9962eb303c292dd1e2429a1a16f8e14": "https://www.waterboards.ca.gov",
-  "c9aa03960b02438bee5123fe972caa90597c7b2065ff11c58b6e9bb1a4af2058": "https://osfm.fire.ca.gov/divisions/pipeline-safety-division/",
-  "2c2fed20c60223f8427b7ae12675c04ecb53d3fa4b40b051e2856f24960d19ae": "http://www.aqmd.gov",
-  "5c2ab13dd4e72320446788458ed81b9c9f6f09f7a05e9a363e137645da7b66f6": "https://www.baaqmd.gov",
-  "4b7ad547b74266cc83fc5a3e0c131d8c3383e26ba47e692925a455c81bd8f2bf": "https://www.valleyair.org",
-  "e89135bfb849a8ec6a517a8d688648a482b830c13611195779f0a5c559a80c51": "http://www.airquality.org",
-  "eb3881515464438c5c8713bbf1e26798c31ff1ebe38d1b99c752a1292c961673": "https://www.sdapcd.org",
-  "33997d7b53d1380f5352d75a34359bd7219ee901f3da9a38fd231f05c86978ea": "https://www.vcapcd.org",
-  "7ce03e7bed3378f5df68565a6f43582b52b4b1a2f212921c8e687bd803c593e7": "https://www.ourair.org",
-  "86ff62c82d6a4cd52fadf497870f864cfe913a4e4ff3fd97ce60a6584239a3f7": "https://www.mbard.org",
-  "cab2dccd83d424126e9043f27388f2a79889fe720b6700f0e5e62ccee42eb12c": "https://www.mdaqmd.ca.gov",
-  "751e434195e014f1b30363dfb6ff7cf35804242ba9bfb4a754b36cfbe3379785": "https://ecmc.state.co.us",
-  "6ff9dc8b38cb5bd965e4fce6cf4234bb78ff791af1a455be23000f4dfd681526": "https://cdphe.colorado.gov/apens-and-air-permits",
-  "9bfd72bb1fec7854572061b7c155b28223decdd80aa8b886bdea7d6cc13a9f3b": "https://cdphe.colorado.gov/water-quality",
-  "88e78e3bcb5d4ba49271a1c366ac759e38f0e2ce66c326e8c7e625591fe58e67": "https://puc.colorado.gov",
-  "933869bf30b63e2733c8c1b276f385b4a139bec1f3671077e151481e4b516091": "https://slb.colorado.gov/lease/oil-gas",
-  "e68c7c52d6929f8d09fe75461d657cf20bc0fcccbb10a21043148e2eb3cfe8d7": "https://portal.ct.gov/PURA/Gas-Pipeline-Safety/Gas-Pipeline-Safety",
-  "eb5bac4b54538e067bb8a4e3a73f6e7ce83d242bcb599459630f0da03ad5d8a0": "https://portal.ct.gov/deep/air/permits/air-permits",
-  "497300fdbfd0aac749dab1339f41b76be20277723a016b30cc2fc8c043226128": "https://portal.ct.gov/DEEP/Air/Permits/Title-V-Operating-Permit-Program",
-  "4fd726b9877e89d2b626ec4e0499d7c662148c807803e0b65415897f04cf6bee": "https://portal.ct.gov/DEEP/Air/Permits/Air-Permitting-Assistance",
-  "cd286d5fb37bdfbb98562c60226402130c85bafce5973746e5b9f1f83816a212": "https://portal.ct.gov/deep/permits-and-licenses/water-discharge-permits-and-general-permits",
-  "fd64502b7229870e23de812b48e26d19fd93e3d3b554ac822a415dc317cf7e68": "https://portal.ct.gov/DEEP/Permits-and-Licenses/Factsheets-Water-Discharges/Wastewater-Discharges-Fact-Sheet",
-  "f6d914d3c9506f5982c21214209f2265fa981bd51356c47acfe3a2a0453dc409": "https://www.epa.gov/npdes-permits/connecticut-npdes-permits",
-  "3d33c3628368aee6ad75ef91ab301a6fdd5d6fb19551549889d58588bbc109f3": "https://filings.deep.ct.gov/DEEPPortal/PublicSearch/PSSearchView",
-  "9572976e11896abc373d22807f03c095e143984566cd4478c53e8846f425030c": "https://depsc.delaware.gov/pipeline-safety-program/",
-  "62ad87a85c050c6f5051b58611c2581490510c4146869bd1020454bdafcbbb23": "https://dnrec.delaware.gov/air/permitting/",
-  "26955c599861cf14fe85d00a5204485432cef0f918e81e92f6cdb7d6df94ade2": "https://dnrec.delaware.gov/air/permitting/major-air-sources/",
-  "5dedd26ed20f9e509819d011eac3bd777b263745a4160b4001c75bdc493d6c64": "https://www.epa.gov/caa-permitting/caa-permitting-delaware",
-  "2d87a5d004e33790a0e595eeca13bb81305d02c86bab0aea4d1d45afa479db7c": "https://dnrec.delaware.gov/water/commercial-government/npdes/",
-  "94456d90c1c9ccf198fd598abac760a34481439a3efa0e8e7e87a6ea344c173b": "https://www.epa.gov/npdes-permits/delaware-npdes-permits",
-  "2593ef4281bcf16e1e7585d0ed6456a89f54a2b477cdbe942341415d2d943d56": "https://dnrec.delaware.gov/coastal-programs/coastal-management/federal-consistency/",
-  "0619e0829d852100d7b12c6a9b5259aed4977533569ae220de7eda818194b2d0": "https://dnrec.delaware.gov/dnrec-public-notices/",
-  "d6bb72b6080c1d7d1a3b501024e14f6d4e350754e3acab8eba4b5d48863bf10a": "https://den.dnrec.delaware.gov/",
-  "0a334e49ab47cf8ccbcfaa59312b52f9b26c4b0f723241b186f67ec88ff7437b": "https://www.floridapsc.com/pscfiles/website-files/PDF/Utilities/Electricgas/GasSafety//RuleBookletCh25-2025.pdf",
-  "95314559aef172b07faa8197e5fe4523adb77b7e66b119e09353f3bb09221d4f": "https://www.floridapsc.com/pscfiles/website-files/PDF/Publications/Reports/ElectricGas/Pipeline/2023.pdf",
-  "833e7fc82895d8572d8dd8bd8c98d91dca55f011dccff668b43b1a003c765973": "https://floridadep.gov/air/permitting-compliance/content/air-permit-application",
-  "9421bcebedd46054f9b07114a97734b79fda4537fbaafe941e13067748ee6abb": "https://floridadep.gov/air/permitting-compliance/documents/air-construction-permits",
-  "c57b69c7b34ccfd01bd6f5a629f1539baa79663e20c546b7a99a39199fe47e79": "https://floridadep.gov/air/permitting-compliance/documents/air-operation-permits",
-  "a712c93bd6884589f4bd29a06efbc30f5afebc9a9a856dc6e1cfda153780d0fc": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-florida",
-  "e5a65a499286db93f3746a15aa1e197e4f6ce30f64a80ec5cf4ada0a51da1ed6": "https://floridadep.gov/air/air-director/content/how-find-air-documents-online",
-  "ea3f0ce0c18bc5c1a4d00b6dd4f5c61cbf0c1e0818acd855157ec5b8c8f48e4e": "https://prodenv.dep.state.fl.us/DepNexus/public/searchPortal",
-  "4add6cd8922eea452d398bd1c3b1344f039d92b52c9331d40006d8aa3c47eb97": "https://www.epa.gov/npdes-permits/florida-npdes-permits",
-  "77f5dad656db052bd3274805e16f1da253fff804e1b6bc0a34266e00f5a79ec4": "https://floridadep.gov/water/industrial-wastewater",
-  "2721d6a2fc599f25b9f81bc3049b8d1c3bc10b3cf624c98b17d4589ae7a226dd": "https://floridadep.gov/water/stormwater",
-  "492f79c1ac016bedab407ccef86dbfecad7374980653c390309cb05871b700fb": "https://floridadep.gov/rcp/fcmp/content/federal-consistency-intergovernmental-coordination-and-review",
-  "b3af6fa43675181bd9f391392ae2b2aeeb02b2966bd9ad2ad3c746492cacae1c": "https://floridadep.gov/rcp/fcmp/content/about-florida-coastal-management-program",
-  "f1be9414c3c0121ba6f53a8093a5a5cabdecc0d1e20de075dc2b39a392ec3f72": "https://floridadep.gov/air/air-director/content/local-program-air-contacts",
-  "166590309593b93b84c4705e9669f52eb061df8375b3d3d0d019771f82a3c9d4": "https://epd.georgia.gov/chapter-391-3-13-rules-oil-and-gas-and-deep-drilling",
-  "ebecf3e2262e49094e85b25820e6d56e77727df97375e280525691756ef196fa": "https://rules.sos.ga.gov/gac/391-3-13",
-  "8b4fdcd99f02ccbf4c1684346ee92e81b8223a636267a836bd0413d3fb2ae95a": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits",
-  "420a95f69a6bc9c9610519b62688550425fa3c7ec976a2b2566ac0adf9623004": "https://epd.georgia.gov/air-protection-branch-technical-guidance-0/types-air-quality-permits/title-v-permitting",
-  "82203b9364a159d3c4c54e7ffed440cfaf843234ad2045ecd2f105c40d8d35ee": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits/apply-air-permit",
-  "6829404add4bcdeff1a0b00e9f53bdc839dd18d09cdd7ffe65facaeb2634dc5b": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant",
-  "40e1dee95757d28e28e58b18d5e217fa94179293df4d5e2c2940c7bf1696e151": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting",
-  "4b2baa4f7dbcb2514d4f1eb0a554517419779137d161d683b67266da48a24d20": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant-0",
-  "3389f4d9ad3aa1f802330d759f74501016b8299dfeef6559944023805ff52c50": "https://psc.ga.gov/facilities-protection/pipeline-safety/",
-  "bea53811dc102ad018227a05a9e3ae5af9bfd6166c96438dfdf4dcf3b3fef198": "https://rules.sos.state.ga.us/gac/515-9-3",
-  "a8a7192e05e3b32cc08ecfeff5824b5ac88d64432d843be7155f3c3293e1f350": "https://gspc.georgia.gov/",
-  "4d0b70f48cc563ac8488e4356d10c50eac6b698211571a44e1424c28b176ca8c": "https://law.justia.com/codes/georgia/title-50/chapter-16/article-2/section-50-16-43/",
-  "3dea49124f15be5fb97f4a318b5ca27b6184367091b41c90afc63334c4763493": "https://health.hawaii.gov/cab/permit-application-forms/",
-  "17330d363ce1f35e814385f0cb5f1112792bd6bf979ae88989f798c147e1e85b": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-hawaii-and-pacific-islands",
-  "69fc5b36347bde4086371d9cd2ef64fe119096ce80c4dd11fed81ca2598dd9c4": "https://health.hawaii.gov/cab/public-notices/",
-  "cb7ab0c64699e7897ef859ddd2915901910b1409606f025bdabfe5260425b424": "https://health.hawaii.gov/cwb/npdes-permits-and-how-to-apply/",
-  "8b8ce96b35f33d4f69daca508c4671cc8701aa0f90df531c043efa13f2582d3c": "https://www.epa.gov/npdes-permits/hawaii",
-  "92b21a63a6c466281cbe2cec7c483e080dc41dfe1327f7cfc3b684477926f268": "https://health.hawaii.gov/cwb/clean-water-branch-home-page/public-notices-and-updates/",
-  "66e49397994159bba24d3d01b7bfb06b1beb13bad2d976be7daea9a810042521": "https://planning.hawaii.gov/czm/federal-consistency/",
-  "1c9877222642416e991a0ac66bdc8a8b00cdd541e60bbbe318f89fa72199a229": "https://ogcc.idaho.gov/",
-  "5baffd968e9573b3115ce758e421e01dc793e2c31db9236880beac75db1491f4": "https://www.deq.idaho.gov/permits/air-quality-permitting/",
-  "6bd8cd72c66142b84f170a2674d99b17815b327cda16fcaae07d5cc47019c9e2": "https://www.deq.idaho.gov/water-quality/wastewater/permit-options/",
-  "032babf7dd6bcb115cee516c0bea6d3bbff5838bf94ae9e22b4c0672dae2efef": "https://www.epa.gov/npdes-permits/idaho-npdes-program-authorization",
-  "a0f293d63d282f66b6960cacc1cacd3670b682b95ca6dfac35d9c0baf3c5df48": "https://puc.idaho.gov/Page/Utility/8",
-  "5eb0d7ba93b18c64a95e231a0cfabdd452f5a0842f80a21783f0d94eb1d0b5d9": "https://www.idl.idaho.gov/leasing/oil-gas-leasing/",
-  "3b191ce53b349438e339687673cfdc1a4de6788ce99eac69fece724e597fb066": "https://dnr.illinois.gov/oilandgas.html",
-  "b56cdffad97882f8c86ae48aa8da14f782093b6f9ea05380c7dff31a204387c0": "https://dnr.illinois.gov/oilandgas/programsandregulations.html",
-  "67d13a61cc72059949f30577fdedbf8f7967898bc41c8ed18d356bec86277bb7": "https://epa.illinois.gov/topics/forms/air-permits.html",
-  "66f72f4cdbf37192cd367edc89011cc5131a42fb1fbcc2cca3c6e71eee5ea6e1": "https://epa.illinois.gov/topics/forms/fees/clean-air-title-v.html",
-  "8abdb0f56c233b8f637e17d3dba46f53b97cee3c14cbebd505819201e089a528": "https://epa.illinois.gov/topics/forms/water-permits.html",
-  "6e1efba873e432a43d4d2d22d5e63fae210057349c68976f8c4cfaa4db6540fb": "https://www.epa.gov/npdes-permits/illinois-npdes-permits",
-  "199742115022a4221a3d72c64903515c31d76685e6fd4cafee6a4f20b3823eb0": "https://www.illinois.gov/services/service.icc-pipeline-safety.html",
-  "19aca2ec9d9929fa1e5898cf9b84c0cf27a89b9056bb5d5274b57de599f5193d": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=165&ChapterID=2",
-  "a2fd5f31acbf892d67fca06418533cc79f83704e64c8c390134d615fe7564efa": "https://dnr.illinois.gov/content/dam/soi/en/web/dnr/adrules/documents/62-250.pdf",
-  "08415b354a09790b8a809bd6da912216e67e3b158dafd8f28e2215b1373a3cd2": "https://www.in.gov/dnr/oil-and-gas/",
-  "675e9ea1300d961bc0c2954d7139a73f0f07b237f867b5cc0390a65ae2edd463": "https://www.in.gov/dnr/oil-and-gas/permits-and-forms/permits/",
-  "f39d7b69697376846daa2e4b48ae062339938591fdd1c6a6e33fe47de3208d6f": "https://www.in.gov/dnr/oil-and-gas/oil-and-gas-leasing-of-state-owned-lands/",
-  "0ba1b4521cd4a8e15627308af864fa10ae921bb1be65ed39733567d891fe1616": "https://www.in.gov/idem/airpermit/",
-  "c7b7a8cfb9c97ff8048bcad813d358ad466f8f31dcd20ee4915ae73f7708c460": "https://www.in.gov/idem/airpermit/information-about/operating-permits/",
-  "0a22444515e28ccfbdeed79d804c23c14f3747ddbb6de1c46a06a8dbfe602798": "https://www.in.gov/idem/cleanwater/wastewater-permitting/national-pollutant-discharge-elimination-system-npdes/",
-  "be7aa6dd09094406c0ab71d02247115d5a877d40f516e19558a7b6a34eb855ac": "https://www.epa.gov/npdes-permits/indiana-npdes-permits",
-  "742029e4cc5ee1000914da15a7710bada28be9047d8e90a8f76fad2eb9ced718": "https://www.in.gov/iurc/pipeline-safety-division/",
-  "b1577c3745866c2b343817b2d8e72664935409045de6857cb7287b63a4e0e071": "https://www.in.gov/iurc/pipeline-safety-division/regulation-of-gas-operators/",
-  "94c9d10453a4885749851cc947a6d74622e6470d7e3f65de6cd75fa81f06179c": "https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/pipeline-safety",
-  "0ed201651a9df3eb5f4575cb70fc0e4c43cd59cf700cdbfd2a33a5540e6bed36": "https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/hazardous-liquid-pipeline-permits",
-  "23e6585fc81ba8de9d18602b71da49feeb6268bd0d33279225544c34e51fb1aa": "https://www.iowadnr.gov/environmental-protection/air-quality/air-quality-construction-permits",
-  "9d59052902c977e8efb7c6630fcfa5c03ee807a6854918d270f7e1cf26c40fff": "https://www.iowadnr.gov/environmental-protection/air-quality/operating-permits",
-  "bc8bcb8dd7906f6204caea44c56cbbf25a0f0b70a503715d84373640aa01058c": "https://programs.iowadnr.gov/easyair/Public/GovEnt/Shared/Pages/Main/Login.aspx",
-  "495587b78590118e888d7c75002f5a0ed7ee440e200e7cc83f4bed5a0e02d437": "https://www.iowadnr.gov/environmental-protection/air-quality/eair-services",
-  "f1ba82b2e15fea616119154a80cdc9062c0cbff1dd8e39417c90fd74f2863228": "https://www.iowadnr.gov/environmental-protection/air-quality/local-air-quality-programs",
-  "5102bcb2ae1ab5280df1709e5fcb2da87f4cf4f4dede9fb08da8d3e805557e58": "https://www.linncountyiowa.gov/1429/Air-Quality",
-  "3edeb511252f3a1df0985aed437e31dad69e09beca45f7261e4533ad74dbd83e": "https://www.polkcountyiowa.gov/public-works/air-quality/",
-  "ec94724749307a920ebd838c83a0a6cd610eed9163b887362ebff13b42e3460c": "https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes",
-  "8e1915f19e671d61ed9ab20e0c7b1f03adaa97445493868aef6fb3110c5ab3fe": "https://www.epa.gov/npdes-permits/iowa-npdes-permits",
-  "c55e10942d9bd1d53744be0fced4fe26a9b5abe592ab563f449a55d9fe34edda": "https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes/current-permits",
-  "20a65a7c2ef575e60fda7ba7d3944cc1505f4c2e17088164c3efc847ddbe9553": "https://www.kcc.ks.gov/oil-gas",
-  "3a0fc9769542c78499f0a141380684f928f0241301db2db4a4753de480ba9215": "https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline",
-  "c4461b91fac714d68c79a3988603058a4ed703ba15e52dd3d84897bada1ac01f": "https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline/liquid-pipeline",
-  "9a86c69b50598bcb47c311670be14c519fcb17d91665f3c2231550ca3c0f9282": "https://www.kdhe.ks.gov/313/Permitting",
-  "66ffcbb3d6dc0067d920024903971eeb3af2008021ce599c457afb9368b3386d": "https://www.kdhe.ks.gov/754/Pollution-Control-Wastewater-Programs",
-  "40a4033209c79abd768b23ff112a4bb1ad9618321cf9195dbef3145a161aa548": "https://www.epa.gov/npdes-permits/kansas-npdes-permits",
-  "0562db8b12be727210305d9613bdfe51c93c859af9a04744e19adc05a16a6014": "https://www.wycokck.org/Departments/Health/Clean-Safe-Places/Air-Quality",
-  "1fc5370295e01666e8cba8ed72e690f4dffa72ca73e2e6f168712b9c782c3f03": "https://psc.ky.gov/Home/PipelineSafety",
-  "e07a9041cc850abd89644d7c7230ff10b497a2527f9d0dd6201c95f9dc768112": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx",
-  "7816606576621edc77a66d2b3d5172414fecd9aac6110dc06302a8cf79d47f15": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-kentucky",
-  "75ba86ec859ec926d16fe30eb4742e0ccd58ae3f9b9dda6c002e218b50881abd": "https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville",
-  "42699b7ae14799929668bb6429a8870579d056fea6f808d95ffe673b5f44ca47": "https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees",
-  "151e4852e89444435aea1f0b54f4c71a02382c3a89fad29781b54f3f70f96163": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx",
-  "ddf567615d335bd73b6b8c385d2ec5b6dbba55bb87f50bb1a37d5d71d840893c": "https://www.epa.gov/npdes-permits/kentucky-npdes-permits",
-  "2fbc717d86bf88ca7ca14d981a2d1c28cc9703f3b147f2eeec4aed19550e89da": "https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx",
-  "fc82bad8fd73c317ef125f2df39196b6b8047ea382167c190e35d5ff639e8797": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx",
-  "536b0b05bdeac0c079f70e72054853d532f05395c269e5e4e524efd61f14f4bf": "https://www.dnr.louisiana.gov/page/permit-to-drill-applications",
-  "b16d57c55aa2e34e83ce7c008a3cf0251db01ffbe8803fffa59c563f560467e5": "https://www.dnr.louisiana.gov/page/pd-pipeline-division",
-  "4125f45cd909781be557e2518f155a3000ad44d11f87459a5c054dfebb953f40": "https://deq.louisiana.gov/page/air-permits",
-  "98d1d16683b6fd353014fb7ff61ce0d0186382d019fd79b81ff012bc3450466c": "https://deq.louisiana.gov/page/lpdes",
-  "413019726c002eab2affa598095d35ea9dd15887986b8e8e8ee7881ffd435acd": "https://www.dnr.louisiana.gov/page/office-of-coastal-management-home-page",
-  "996416e0fac12703868e1a62560f71a76114a806281b20285ae5a95877891804": "https://www.dnr.louisiana.gov/page/applying-for-a-coastal-use-permit",
-  "10a89d2abc1630fd630b236e2779bfe8f8eecb33cfd88b6282324435cb16d2b9": "https://www.dnr.louisiana.gov/page/state-mineral-and-energy-board",
-  "4bef301f6c56d8535da3dabcb582691e47b1ce3d97c2a432a828c3e5fc9882bc": "https://www.maine.gov/mpuc/safety/natural-gas-safety",
-  "f8857be9437887f238ee8b7b87f6d5cc0c690a3fe048abc91e4db46b3d0edf86": "https://www.maine.gov/dep/air/permits/index.html",
-  "f1fff109237e0a0cce9f4f8dd9d111416b3d22e437d57c99a7139d0ceb3ee55d": "https://www.maine.gov/dep/air/permits/major.html",
-  "08b1eefff4e5a8e4019c3f459d7e00a3f579035c4cc192f8488819b7eac5c0da": "https://www.epa.gov/caa-permitting/caa-permitting-maine",
-  "a81a047cc4cef7006a3a819bd57350fc3b22aac6f8797860bd8b112ecb10d2d3": "https://www.maine.gov/dep/water/wd/general.html",
-  "ac4f117a6f0ad7cf169f1aa27d89c39f73ec4fca931b3f3ff51a5a0823f03e2a": "https://www.epa.gov/npdes-permits/maine-npdes-permits",
-  "7e95c26d84c3b121909e60b2f5eb176cab835f77c4b9ad031875901cf8623b78": "https://www.maine.gov/dmr/programs/maine-coastal-program/federal-consistency-review",
-  "1c1e8323560b9a6ee7b98ea280aca715bab827ceeae2896051eb0d0716c30992": "https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/",
-  "6d909a2f2d81f14ec0f5463daf4a354803033c5f52015ba68b98a87d5238cb4d": "https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/",
-  "e7555787e600c0ada5af41d35915cc6711fecd07aeb723385ee0f1b5126494c8": "https://mde.maryland.gov/programs/Permits/AirManagementPermits/Pages/index.aspx",
-  "2a652c7c8303ccfb0ff86d0399bf947211c1193e633adcdba6fffdd2d85678a0": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/permitstoconstructandoperate.aspx",
-  "71837499b912d460725eb5ee562d73eb204052940e35b1861582cbd5e52b26df": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/title5_issued_permits.aspx",
-  "fb7e82050862d863c50d9c72d9609dbdae4113f322aeebfb8b150f10d3dac99a": "https://www.epa.gov/caa-permitting/caa-permitting-maryland",
-  "b67212c14a5964a8f1901762f31cf77555cd38f59adb82e5f535b0b357355b96": "https://www.epa.gov/npdes-permits/maryland-npdes-permits",
-  "702ab4bb763ee7a469258e52938c09b89d9081160fb3ca5c190295c67585f391": "https://mde.maryland.gov/programs/permits/watermanagementpermits/pages/waterpermits.aspx",
-  "9f032ae56aa160ac718b3788091e8722ce3d5727b9a8e983b21df00c63efcb7b": "https://mde.maryland.gov/programs/permits/pages/sb47.aspx",
-  "2af1e02fc7e20efddb5cf58d4327fa31ea72d418bfc20634de8f79f4496aa303": "https://mdedataviewer.mde.state.md.us/Public/",
-  "10fe0dde61d7ee70df04da4d69f8196f51d1da151f7f12a5e05e747ee02fbf0b": "https://mde.maryland.gov/programs/water/wetlandsandwaterways/pages/czm.aspx",
-  "0b03ff0aba273c2396836c13a5f309ea56a979f5aeb63492b63991ab96eceda0": "https://dnr.maryland.gov/ccs/pages/md-coastal-zone.aspx",
-  "025828ac162fdcd223ccb0a53fb198043acd51ba1f157e311441ad36e02c431e": "https://www.mass.gov/orgs/pipeline-safety-division",
-  "5c0b7935e5ceb24047b50c6c1ee0d969da501872021e749a02d75fb6a3759f45": "https://www.mass.gov/regulations/220-CMR-10100-massachusetts-natural-gas-pipeline-safety-code",
-  "a54c2c9afff7a633af62015d81f1c2791adf38cf701436ec7790b6d0ff9b95be": "https://www.mass.gov/air-climate-permitting-reporting",
-  "3e76d56e54f94e5309cd3ebcee0457a56645923f7cf7d855af0acb3e4c76df5a": "https://www.mass.gov/guides/massdep-operating-permit-compliance-program",
-  "826a5ccacfbbdb0d1d3f6193a8bd2ef0da8179304e6ef4bca12c3b46f6646b9d": "https://www.mass.gov/guides/massdep-air-plan-applications",
-  "d9cf24f9b2378d41341484d5e481a79a3fe255689fa41541c898f177f0d3cb06": "https://www.epa.gov/npdes-permits/massachusetts-npdes-permits",
-  "321761bd9c96775ca50080ef2f08b102b3e60e3e81da8ccf6cb5870e3681f4c1": "https://www.mass.gov/guides/npdes-permits-what-you-need-to-know",
-  "ddee3173d16b458c1a57f830be0e0b43917921019cf3e875aaab550e5245ca60": "https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management-czm",
-  "e359b7a4eada810323e5b87ca181c37ce505bb50aa4fb6d63c161663ea4eb94a": "https://www.mass.gov/federal-consistency-review-program",
-  "b95fda817b1c0d5ecb5f3bae371c947a8b1144263a548ca6d9851016bb1a76cc": "https://www.mass.gov/orgs/energy-facilities-siting-board",
-  "9dc98df5f16bfaa74053711baab6f8507f7434c24fa297660b92f87767fbda5d": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas",
-  "ee8251d7080899f099fd63f1d81f48a4f0fa9223f408372afc72530377207961": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms",
-  "3f960ff817806d3b51508e3aba125668787478dddc324584fc4f0493e6e19dec": "https://www.deq.state.mi.us/dataminer/",
-  "3d3d5d760e1c771643a60e4baadc93632b5b4227d56a7700ee19abd8142a77ed": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits",
-  "c0f5150b353b53f286bcdd4330d7d9ab79d148ac76635689d14b3e384b74969d": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review",
-  "7516fa8d20fd7827793243ecc0d2d5f4706fbcd0d582d3d78ddf5e80a96d6948": "https://www.egle.state.mi.us/aps/",
-  "6742f20d4e1241c616c93474e1c8b4b7231bcf25ae26dfe6845b8d9834d2913e": "https://www.michigan.gov/egle/about/organization/water-resources/npdes",
-  "4d6a44787cc9ac1d7eb86ec575a0b70397223db8f64e8446fba1feaf659fc406": "https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits",
-  "391b979413a77f112931d78d13497d2728b3e6f26cb06d23c1666b34f2cc3fc7": "https://www.epa.gov/npdes-permits/michigan-npdes-permits",
-  "b25783979ee88cd27e2ec54437197cf33f16990adb73184c1b84172ef8edcd58": "https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety",
-  "a93e5c2a78d8b11a6551e79dc7deeb2fbdcb23caa9b5a0292c2ba61099417141": "https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas",
-  "b8479c358ec88885bae072660e63d98028334de3d24851d2fcea81e5509e3551": "https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing",
-  "d4396a601502f2dbaa85a545c852dcf62b8a8cd9af528879b115af4a5f8392de": "https://dps.mn.gov/divisions/ops",
-  "f822377e1e5f88761f30837315e2f853c14dc8f01352f5f7792917a4f8122f5c": "https://www.pca.state.mn.us/business-with-us/air-permits",
-  "5ab200f5aa4f2c3c4c616fd5b1a349d440f1029e0c828573004779d312853ff5": "https://www.pca.state.mn.us/business-with-us/e-service-air-permit-applications",
-  "31026cac0ffc8ce52371926724a40eefb439058661dfa06c0dfd6ad105339464": "https://www.pca.state.mn.us/business-with-us/air-permit-types",
-  "3359630d16f7cd0bbeeb5f1cd71892f3361484fa490ed2efa6729c07cb50d6cf": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-minnesota",
-  "5e9ffcfe76153bfe458d8cb28b57f49753d574533820a06be9afcf2acd469622": "https://www.pca.state.mn.us/get-engaged/public-comments",
-  "b18bd29bff9a8056b1c488040850fd65d1bff11d880895913f9a9baebc3574e0": "https://www.pca.state.mn.us/business-with-us/wastewater-permits",
-  "33bcc5202109cf51c914b37b09034a8ef3df0b02d021b22682014bc3cb1c609c": "https://www.epa.gov/npdes-permits/minnesota-npdes-permits",
-  "d39d311f8bbe6d60acbcb7a9099837647bc6bb86d0b86a45bbe03fa740c2f2a1": "https://www.dnr.state.mn.us/waters/lakesuperior/federal.html",
-  "a29fccb1b5bd1720ddfaf15207950b0c1313f1502706fd27ab91d082a01dcac6": "https://www.ogb.state.ms.us",
-  "086701b8196e0742e01d2b5a7d05e3a902a66ce9eb2c9437cc99db3ff95c30f0": "https://www.mdeq.ms.gov/air/",
-  "09de3a80a214a758927256df5f371b89a599442b525e651c63fabaecdb178d8c": "https://www.mdeq.ms.gov/permits/",
-  "0c8e2c2c04a1f5a4d46e05e81ec9b2c6aedfdb9bcb679ce30d622fc14245dcf0": "https://www.mdeq.ms.gov/permits/environmental-permits-division/applications-forms/air/",
-  "351f86dc476e46e1d6263ea34079c01f8bfac01fa3856c9aaf5ca5b58cf8c0e7": "https://opcgis.deq.state.ms.us/ensearchonline/default.aspx",
-  "336e7b3a9e78eceaaefe12bbcc08d1b572e17e92168020d6797f669464f5b813": "https://www.psc.ms.gov/pipeline/safety",
-  "e3149c9ee8db11015b7ce1795f68cf177ccc34ec1dfc4ee73298bb5e6ca5467f": "https://www.epa.gov/npdes-permits/mississippi-npdes-permits",
-  "3afa82cc03ca1bad879e803f91041a1eb614a0942387a4c0bab74e235743dedf": "https://psc.mo.gov/NaturalGas/Missouri_Pipeline_Safety_Authority",
-  "3d6f2ca171ea225fd3de0d649b1fd806d35409f5d4de712df4be8cebf7b684fc": "https://dnr.mo.gov/air/business-industry/technical-assistance/construction-permits",
-  "2804aa3459288f07d838fff9e330bf6b4b8a54d6aeecaaadfc563b53e2a9b7ad": "https://dnr.mo.gov/air/business-industry/technical-assistance/operating-permits",
-  "32a08dafe657bca4e55fd6f493d61ec9bf8de5473b22fc164613bcd0a2244939": "https://dnr.mo.gov/air/business-industry/permits",
-  "52178282b4b809ae3f381ca1d260674e656bcf7052ca746af75d20c0b08426ad": "https://dnr.mo.gov/air/what-were-doing/public-notices",
-  "13cd995a1ad704da7b0aec827f16b73a9cdb0a3bc3da6946ea6133e1062632e3": "https://dnr.mo.gov/air/business-industry/permits/issued",
-  "8f8d2bc870c9e27d5052b3acb8f8ddc22689b8b18da2b010cd645f57198f8a69": "https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater",
-  "74c68ad6a2b0b0c1afaa1628b98cdcb88a6c69409231e242c46f7f8705c4211c": "https://www.epa.gov/npdes-permits/missouri-npdes-permits",
-  "005ffa6e6dc67f8900722415826bfe1f6542850c6bf246010df5628b021b808b": "https://dnr.mo.gov/water/data-e-services/electronic-permitting-epermitting",
-  "7b22482df8018c1bcd02fdbc88c0f443a6d69c62bbd50d78c5b1f11ea09af288": "https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/",
-  "05e7237d7551eb0e9e1c7352cb466b2e4c41f8c36884a3c87f4f79efc7773ecc": "https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications",
-  "00e877b2520d9fb0fe6c714b74473216e15c735ad19d1e4da2ceec259206c1ae": "https://dnrc.mt.gov/bogc/",
-  "cf971467b510761df5da1164637a629deafaa1a9ba396cc3658768f244ed0670": "https://bogapps.dnrc.mt.gov/dataminer/",
-  "345ce7f5e87825cbca37b931cce382b11d71e451007a3840c1a8e65ee129d9f3": "https://deq.mt.gov/air/assistance",
-  "9bdbc84cd32857a0afa3c30aa345cf23e30bcfa7704efb27f699210de8555d16": "https://deq.mt.gov/water/assistance",
-  "ddb88a7bd8270b3b007a9c3dc01a4b5a7a093f2d9ba10f39e4916d84f3b48820": "https://www.epa.gov/npdes-permits/montana-npdes-permits",
-  "af1d48beaad94b3ff42b527613d7fa3c3ff7a89dd78bb5bffd8a8165e022a082": "https://psc.mt.gov/Public-Safety/Pipeline-Safety",
-  "a7130b2221bce2ff16fa97770adb391a2e6cd65805e11d3b9b6a7663245232be": "https://dnrc.mt.gov/TrustLand/subsurface-resources/oil-gas-leasing",
-  "7e4de5f728e99a5f17584dfd51d24d2da4c81ec3488f1e9d7ee5216feaca8da2": "https://www.nogcc.ne.gov/",
-  "bbb9efe4a8ec2765fb83b662397324a6a405679ac9b21a1b2eabe22f0341f0b0": "https://dee.nebraska.gov/air/air-permitting/",
-  "b52f272368127d1f60280feb0e274c8515b268dcc4ebd5a4620b7a11980f7bf6": "https://dee.nebraska.gov/water-quality/water-quality-permitting/national-pollutant-discharge-elimination-systems-npdes-program",
-  "77d0c1147ad5bf0fef3149d65a5e305f5e841dc415f061701e068c59e9eb4012": "https://www.epa.gov/npdes-permits/nebraska-npdes-permits",
-  "14841e79d1ba19e3059a92a8d177e8ee924a5a7037e17d88562f555e16f6d3ff": "https://sfm.nebraska.gov/fuels-safety/pipeline-safety",
-  "064213fe02821fc631b123bf2374a5657210332e869e6d90ff9d04e47dda877f": "https://psc.nebraska.gov/",
-  "6a083b84b94456168116913b6d8dec15e6627461b828cd744e1a9b74a0bf0755": "https://psc.nebraska.gov/sites/default/files/doc/administration/Updated_RRs/2024_Updates/Chapter%209%20-%20Natural%20Gas%20and%20Oil%20Pipelines%20Rules%20and%20Regulations_1.pdf",
-  "f61a08685bc3f87e67a9c1cb3ab17d0ac5db6cabbefd5dfec68a2319b27b496c": "https://belf.nebraska.gov/oil_gas_leasing.html",
-  "9e11e61681be23e5c3760bcb9f64a67f047f7e56ae2057e0c594938d7c8d631a": "https://publicworks.cityofomaha.org/oaqc-omaha-air-quality-control/",
-  "8cc54f457b484ca08af547c560b8a24bcf937fc16746fc08ffd9c624e771197b": "https://www.lincoln.ne.gov/City/Departments/Health-Department/Environmental/Air",
-  "80ecd3d863fa317a1ab1d96bf925229a61b3ece09ce5dd4ad33910a6b0497a05": "https://minerals.nv.gov/Programs/OG/OG/",
-  "0817bd74f72f49300805039f6e1c892745557744aa0f6dd243bde8fae60959bb": "https://puc.nv.gov/Safety/Pipeline/",
-  "a765a3679d76e40df0a1abd1c0a56ad95b2ad50f6d7dc8b5789da84618f69f36": "https://ndep.nv.gov/air/permitting",
-  "ddc875d3691aeb8c306d34bda938e613fbc02b121fc8377be071664e36228482": "https://ndep.nv.gov/water/water-pollution-control/permitting",
-  "a76ff8a1acf589459683d4442f4ebe5544a65c3b01bb3d624b0961ba13405bef": "https://lands.nv.gov/",
-  "984a4d51ff84a895a2c6a8e9e74ac785b5995438eeeab980a06ad29ff9a753eb": "https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/",
-  "5c3e6036f51601a86a989623b4be564cf374cc7621ab7ce67a0d82410e1b49aa": "https://www.nnph.org/programs-and-services/air-quality/index.php",
-  "3e546c57fc9739ebb5ba5bbfce4340c3f5c6c004b34ac3ce9a543e6776b292d3": "https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview",
-  "e066ccb4f7fbbd6b8d7e546e440145db433b72dd8f17574e6a8fab0448a7a51c": "https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program",
-  "710258095c2ac361cdd5995338d8a3a62f47cbd69b6e8cbdcec6a898d93eb702": "https://www.des.nh.gov/air/industrial-sources/permit-guidance",
-  "6d63d3bbc4942e0544ec395e2155678710a0696dbb8927d17e405548177c6b83": "https://onlineforms.nh.gov/home/094d9dd2-c1de-4882-9414-c0807677d0ed",
-  "94bd5cf3816502dafaa2fb98343adf663d1b1bdbb5dcb21af7295087511b5c8c": "https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx",
-  "73acf9a53f554609d28f4eaf74a8ec33d2db2deba25aec6e0966d814cfcf2467": "https://www.epa.gov/npdes-permits/new-hampshire-npdes-permits",
-  "588613583f10294799eb5133f885713b67b25a6c61e6a0b25f0277afa42562ad": "https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance",
-  "19592e4c3a9d07d64481e676ea349daac4fa53e849d5fb040100fab34fae862c": "https://www.des.nh.gov/water/coastal-waters/federal-consistency",
-  "e6f9691d4a3ed725bc43277a21717b29e96434c53a973ff485b414f300cfedd1": "https://www.nj.gov/bpu/about/divisions/reliability",
-  "92a91676533eeaec4486b0905996b804d4dcfc2c1611393c6d8ec0162d583f66": "https://dep.nj.gov/boss/air-permitting-guidance/",
-  "74baf469dafea34c94691ceaee34f302b1580508ae65cb9766da594731418fb5": "https://dep.nj.gov/boss/general-permits/",
-  "8dc09f5908ee4088ec2ca899606a58e5dde12b7f3cb11551e666716b2b9cec86": "https://dep.nj.gov/boss/general-permits/general-operating-permits/",
-  "7aeadff6c66be10661531c66d9c202c4803b719f768c67b9f61745f7c889fd49": "https://www.epa.gov/caa-permitting/clean-air-permitting-new-jersey",
-  "2783ad52fae7ab079531126790ec4e223d6bdb33697c4b177a4f0444f31a33f0": "https://dep.nj.gov/dwq/wastewater/",
-  "bedbe68250783d70da79ff207ce361e2571f8b993272e0920c9eb096bb43fa2d": "https://www.epa.gov/npdes-permits/new-jersey-npdes-permits",
-  "c720830979840ad026a2540d4b557402d4dda7859a8d3df9c796db0dd136868c": "https://www.nj.gov/dep/cmp/czm_federal.html",
-  "dff8d8bb2f09aa6fef3f0ffb8bbb1d1ebbf3d4019bb3c625a80589bc6cc6e0f5": "https://njems.nj.gov/DataMiner/Search/SearchByCategory?catName=Air+Quality+Permitting+and+Reporting&getCategory=y&isExternal=y",
-  "4eb7246d85cfffc46c1700e8697589a209ed08908172ce7fadc0c853923d7a3e": "https://njems.nj.gov/DataMiner/Search/SearchByCategory",
-  "728bd43e7bc6ade8c9d811e621e71bfa2ee6846b64ea98d7e3cc410f4bd48c97": "https://www.emnrd.nm.gov/ocd/",
-  "d04f26ef76b489195844ca11cb35d3773653717ec46e45f23ef289637f8fffb0": "https://www.env.nm.gov/air-quality/permitting-section-home-page/",
-  "50337dc791e2220211445f80eda978d2d11bd883443c3fe44ffc741dcad28112": "https://www.env.nm.gov/surface-water-quality/point-source-regulation-section/",
-  "cb08fdbc12203a2182c6018f976e581ee649b15bb2b5ccb99dd8ae1becd74a5d": "https://www.env.nm.gov/gwqb/permits/",
-  "e142c61008a2212504b3524e2a0aadf1f5770041371b6fa4ebb12f4174fbc098": "https://www.prc.nm.gov/pipeline-safety-bureau/pipeline-safety/",
-  "c40fe4b5695381487198d7d88b103cbf8a5120be12db286ad15939ffc5641e9e": "https://www.nmstatelands.org/divisions/oil-gas-and-minerals/lease-information/",
-  "178ce01865bfcc2e1009d23f4cac2f69332ffb083de190e54d6f9c36615033fd": "https://www.cabq.gov/airquality/air-quality-permits",
-  "8f1e5957d5b9bfb506f357b39a939d168d229b4e29d8b62437d0ef63a7f00fe3": "https://dec.ny.gov/environmental-protection/oil-gas",
-  "5b31254214cf421a33e1ebbbba7783b55adcae479caee239a978021f5ea3bfd2": "https://dec.ny.gov/environmental-protection/oil-gas/well-owner-and-applicants-information-center/well-permit-application-process",
-  "bd05f29f43fbab815fe82b6813105355c8488f14cde7abf32d6ce7d8e851ca85": "https://dec.ny.gov/regulatory/permits-licenses/air",
-  "433f484bf5b0251a1cc990e04f37c15583681f7104109623b843c43c769fbcad": "https://dec.ny.gov/environmental-protection/air-quality/controlling-pollution-from-facilities/permits-registrations-fees",
-  "747fc500514099c497c89cdb344c6daedad29baf2a9fd685247f401a5521d696": "https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program",
-  "30cd565a8ef7e3340d67e726c6fb7d76102e283e7df565a8b65478df0c7f598a": "https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program/application-procedures-forms",
-  "2fd65697a33d7f8eb1799d7d37e07a816c3e4f114217000305226c9b2c2e0472": "https://www.epa.gov/npdes-permits/new-york-npdes-permits",
-  "6bce05586a7c4ae85af3b2313ff6e19444ec4ef6fee3cadec83612f30bc5ae38": "https://dps.ny.gov/nys-pipeline-safety-program",
-  "f8aca580145299f037b63f3721d0b615c32a3915635f6617aa39e08a551e2b8e": "https://www.deq.nc.gov/energy-climate/oil-and-gas-program",
-  "81866e1736a59386c0445099af61528df8a4ba6e785f77543b8a8fb379490d5f": "https://www.deq.nc.gov/energy-climate/oil-and-gas-program/nc-oil-and-gas-commission",
-  "d28bd1846919fcfc7fae0d4a11eecfcd0b2b2b53616ea570121cd3f82c48af06": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-permitting",
-  "80ce812d22d3b07c76df8f3670b9c9bdca25dac96e08363b7df50a85d4faf91a": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-planning/air-quality-rules-regulations/rules/section-0500-title-v-procedures",
-  "2400c6a7ecbfd5101e028f14551ec37c4a156bf52e15c8b53b0f9cee50c753b1": "https://www.deq.nc.gov/about/divisions/water-resources/water-quality-permitting/npdes-wastewater",
-  "8307adad7c1c7d14ecceb0783f6c73f8f457fc56c029e8cd8347cab34f3ca991": "https://www.epa.gov/npdes-permits/north-carolina-npdes-permits",
-  "973c371fcb319b8c3f4f2919e060c3333e3cccc3dc2e73f61de693468dbcec5e": "https://www.ncuc.gov/industries/naturalgas/pipelinesafety.html",
-  "c7875dc4e2e69f366b5c25592215b6ab30237062dc427484d358a62860bacb36": "https://airquality.mecknc.gov/",
-  "ec60bad7cd985adea7acd4e8cdd7d06d526229fda93e0059a69ec1def1dafc88": "https://www.forsyth.cc/eap/permitting.aspx",
-  "b685122598cb77ec6db4634d72a120502c319819882fef8bb90a3e4f6f536548": "https://www.dmr.nd.gov/oilgas/",
-  "fb5d0a80724383839f2686b58f194412898cb035dfb02ba471475ebc9b851d3f": "https://deq.nd.gov/aq/permitting/",
-  "0803e46cfb8d4547350a189631c826f988d04b06cd8fc22cc58b2d98fe32d3d4": "https://deq.nd.gov/WQ/2_NDPDES_Permits/",
-  "70f3503e14a181e1f7d5114f3f98be3597453ab028e1befaeef1d3f4262f843d": "https://psc.nd.gov/jurisdiction/pipelines/",
-  "f3e9335f8f27019902911a897236f3f9c7476abb4eeae1a48228ee9c4eb259cb": "https://www.land.nd.gov/minerals-management",
-  "86932c0f71940c657b484eb09a226997536bfea3fa9bbb31ac2e7e9a7ba1f850": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas",
-  "a4fef42bd5fe7eed31bcc165c56c294e254a03b87227c47ae4214b7e669c590a": "https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits",
-  "2e55a564fc2ae94dae7fd172c0c87f87192941d71af996d3e480de055e2130a5": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application",
-  "1479901cce01302aabfa197d2a2b9c458896252f4e7bd38d520cde0215f94078": "https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission",
-  "e2b221405a5a3f0e3b21b2bf710f19e07330f0441047652d7a98145e00c2dd7b": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit",
-  "9dc57d1a6862f098577173d93a5b23cca77fa29eabd54beb3a8e7a9915d794dd": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting",
-  "34ae1357186da79a0a9f211076a59e441ec70e55f7e0b92ad208b83b8bb929fd": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits",
-  "8748c94fdfaae411a9f5d82c62f0cce1aec44e6de6a5f2696835b70e56c97ad0": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits",
-  "d6decc2eb9c552d335502afa83383a5659429ed4fdb373f7ee2591911f62ca49": "https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio",
-  "0b84f692f3cb9bceb3e004b94db3a84ec8cafab7ab3fd06d92963afb16cf07d8": "https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements",
-  "e3b9aa6aa95b9387ae6f4fcad06caece9f2891eddca01971c407dda8e0f57b53": "https://www.southwestohioair.org/special_programs/permits.php",
-  "0afc6c98ba85dfc1a054c0621e78e8a7813a07dc047835ba3789e081b8b9314c": "https://www.clevelandhealth.org/programs/air/permitting/",
-  "9ca63c54278ceec115554a4bb27da6e830240672a7faa5c332c065fefb5c72a1": "https://oklahoma.gov/occ/divisions/oil-gas.html",
-  "2492868107587bc765125ac74804909cacf0181780f80e05736e8d36635ea03d": "https://oklahoma.gov/occ/divisions/public-utility/pipeline-safety.html",
-  "b9584f144d09cd6a973d64a0066f23fb6173ff6e267439a88523b6a8ee5c6319": "https://www.deq.ok.gov/air-quality-division/air-permits/",
-  "feffeceb09e8829769573eaf44cf4c004ee9709ee7eeab8df0c7582ad6bb21ae": "https://www.deq.ok.gov/water-quality-division/permitting/",
-  "bc4952091bbef76fb28a1cf5a28c93f2d500fd6fb0e1c51da94ed41859d4214c": "https://clo.ok.gov/services/minerals-leasing/",
-  "a603102d8fb8774d99fcc81cac8ef55a90e0e610e601e8119b8f75c9b030d21c": "https://www.oregon.gov/puc/safety/pages/gas-pipeline-safety.aspx",
-  "e6439500d7812033ef195e5f4d3dae17dbe8de4e015360a3c792c8b117e55cbd": "https://www.oregon.gov/deq/aq/aqpermits/pages/default.aspx",
-  "f6e5be08fee02317bc1a94636498e6cb1ddf7fa824bc8e07c1d1f484a57c3f84": "https://www.oregon.gov/deq/aq/aqpermits/pages/tvrule.aspx",
-  "9825836ae3cc1854b405040fa1506da430ae150391e9a5653a4d556f75bc1066": "https://www.lrapa-or.gov/air-quality-protection/permitting-lane-county-sources/",
-  "31734480630180e81d14a553763243f0da3d5d760169d9bf7335da4b7ef6e7ed": "https://www.lrapa-or.gov/forms/",
-  "d7be93f76259f6b1e915774712b0802c1098601a2e6cd9b6752505954159c826": "https://www.oregon.gov/deq/wq/wqpermits/pages/default.aspx",
-  "3f43a747e5d7cc7cfba412370448d3bcec1e1eb1263185fe9c7ed45cc9604408": "https://www.oregon.gov/deq/permits/pages/npdeswpcf-in-ydo.aspx",
-  "be318dd161897681250989112982cc1562d798792c9f9978fb7dab065f27fd5b": "https://www.epa.gov/npdes-permits/oregon-npdes-permits",
-  "03855d2e332696a205c14229114a1baf14d9c53130a5ea20044a16d6e12bb22c": "https://www.oregon.gov/deq/get-involved/pages/public-notices.aspx",
-  "b3f2b579259813e214a5008992b6f5c71ef3d03d9ce93ce4f5085c2b3ff463c7": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-authorities-oregon",
-  "335a7918ccee602ae124d7a944692daba25898d0096a5afb741e64f3edac7ee9": "https://www.oregon.gov/lcd/ocmp/pages/federal-consistency.aspx",
-  "a7fa91ce738154f93a4c84073888c2f82ff69eee84fa2c265f1911cab1cbb4e7": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas.html",
-  "35a67e9499be8baaffd50c0b9ba42d18bdb9c24217a100cf10ddf81d7e299449": "https://www.pa.gov/agencies/dep/programs-and-services/business/air-quality-permits.html",
-  "988e3d3426d993e2daf213e232c80735bbbae143047aff0d988c1776c8374cba": "https://www.pa.gov/services/dep/water/clean-water/apply-for-national-pollutant-discharge-elimination-system-npdes-permits.html",
-  "722639d120c5e778996ce47276981cbe75cb08ef8d1320d4d1098da61d5e181b": "https://www.puc.pa.gov/pipeline-safety/jurisdiction-regulations/",
-  "a04ceed1663e677df8623badbf5de98a7e1cbbd370472871b47c3bc05b15145a": "https://www.puc.pa.gov/pipeline-safety/act-127-pipeline-act/",
-  "d61b4ff6c630e9f9abdb6f14f5f2664902209d7f391e3a650f75e6b895f2d416": "https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/natural-gas-drilling-impact.html",
-  "a47e24c4f1a061d0b35ddc3ee6da0b7e284785e40268df8ed05f4b58877383fe": "https://www.alleghenycounty.us/Services/Health-Department/Air-Quality/Air-Quality-Permitting",
-  "12ff38a47b4f7f1d3aea7ed6f4224d02679cf482dc7bb6814676c28f6b01612d": "https://www.phila.gov/documents/air-management-services-permits-and-licenses/",
-  "ffcd4f1e73f4770f72eaeb1f386d5bbd425af2119922e756dc1f798b2cc33796": "https://ripuc.ri.gov/utility-information/natural-gas/ridpuc-pipeline-safety",
-  "e47c5f99f36578c764d3b57d3826c680778d5041671c6c943dfea61d848f0f2e": "https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits",
-  "984da731086d93b106941afd30ecea8f1dc82dab5748cdf7040f6572a16d95fa": "https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits/operating-permits",
-  "325d2837b558ff70ab963e8a965774c2d669b177006768c08f635021da89244e": "https://dem.ri.gov/environmental-protection-bureau/water-resources/permitting/ripdes",
-  "feb2e1a2681eeacfffb74f37fc4e02d4b26af6438c901cb4055ac9b4e8cc07d6": "https://www.epa.gov/npdes-permits/rhode-island-npdes-permits",
-  "2a0c0a0e7e49091c2033eabda8883a8231c80eb838fbe0d5a32507e38ab33779": "https://www.crmc.ri.gov/applicationforms.html",
-  "2532aa14a14c3598542165e03cf52bec1072ba0e3d0e04b35b0cd1778465cb70": "https://www.crmc.ri.gov/aboutcrmc.html",
-  "a72c3b5b992c4fdbf1266d332d090d0a80b7b41a9e651fc25c319f1df1ef6caa": "https://des.sc.gov/regulations/oil-and-gas-exploration-drilling-and-production",
-  "e3e9258a784055f3cef025db4ec600ea5be894d1e7d7d6e37432585486311044": "https://des.sc.gov/sites/des/files/Library/Regulations/R.121-8.0_121-8.28.pdf",
-  "1fb28d39298b2d273b27cbde92ba2c3fa48497c68db80f2622ee1460ca37ea99": "https://www.scstatehouse.gov/code/t48c043.php",
-  "7ffed4df7d18f0bc062292e514a6a595af9eed47fdbd09f2f175c727e5c80e89": "https://des.sc.gov/programs/bureau-air-quality/air-quality-permits",
-  "09f3fbad43e7d7fa97394f82f27995359368a022502b6c8866e60b3f518accc2": "https://des.sc.gov/programs/bureau-air-quality/air-quality-permits/operating-permits-air",
-  "a035faf8952058f714e7da541ac28ba5f4ddf828118b15d05a7eb446ad080272": "https://des.sc.gov/permits-regulations/permit-central/all-forms-applications",
-  "1551fcdc3928bfaf963aff04c850cf191071e8e6848158f30f38db3be84663c0": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes",
-  "d1bc34a434686b8fafcf58868c11f519ca593d69873a2d3a5a5d8c0c01f8fa30": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-overview",
-  "6338f1a0f16badd35b2a7aba504f3e7304bddcd8b11688e9c2c97dc06321e7c4": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-general-permits",
-  "954c5f76fa5bcea1e55981d49de31b85487e266957b6e6871926f4ceb0271185": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-permit-stormwater",
-  "f1f56afdc1676702e79defc861e1f044b23924904331b63e132c5dde27070d79": "https://ors.sc.gov/safety/pipeline-safety",
-  "a144c840f151465fb808937096ffc1b27806b979062ef17c26f0055198f071fe": "https://www.epa.gov/npdes-permits/south-carolina-npdes-permits",
-  "c2da8a5ef0e47b4944ad07503760f4657f3061b8b15fa72d42b6bbd99d4827c4": "https://puc.sd.gov/pipelinesafety/",
-  "4f2b2f17535af30f7a591347fca8d287b78474a4d2d1ad58b08b6e11b1b5a12d": "https://danr.sd.gov/Environment/AirQuality/PermitForms/default.aspx",
-  "587103191eb2d3c18f3407f4951bd7d27b0c50a0a28ed5dedb4034ea40aae6ae": "https://www.epa.gov/caa-permitting/caa-permitting-south-dakota",
-  "800593ae2748d78835accc06752ee379db5245914bebc4a41cd60e25dd9abfa1": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/swdpermitting/swdpermitting.aspx",
-  "868a117e7a3565e5b490097ae8049c3ccb4f92b23334f5bb54efad847450e512": "https://www.epa.gov/npdes-permits/south-dakota-npdes-permits",
-  "6fb8d9f38666815c15a5ad8a9228ebfcd8d0aeab567ae4279c3ee3492b76a6f4": "https://danr.sd.gov/public/",
-  "25acc81d786ee3c5b615ffe6165ece7254d43f48c2fa531ab0f56bbcb4a22dcb": "https://www.tn.gov/environment/mineral-geologic.html",
-  "2a601cc3752305ceb8da7dbef5c5d67934bffb3cda13fd4f65835611b16f86b7": "https://www.tn.gov/environment/permit-permits/mineral-geologic.html",
-  "d53b0e3d35c47eea193e3d031c14c01e2895f757123c21c69f91d2eba6d52556": "https://www.tn.gov/environment/about-tdec/fin-financial-responsibility/financial-assurance/fin-financial-instruments-home/fin-oil-gas.html",
-  "e05d92b9bd08a97d55c4d2a005599f13f2e2d6181bb0b97c0a748719d443b8ee": "https://www.tn.gov/environment/permit-permits/air-permits.html",
-  "df00277e4570909b751ba0b98d6f0a9a5bc544172ed15531965aba8a09e08319": "https://www.tn.gov/environment/permit-permits/air-permits/operating/title5-operating.html",
-  "28538dedc54ca87b680d01ba724a225f2cf75bf5318a9366a42c52922f80cb89": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits1/national-pollutant-discharge-elimination-system--npdes--permit.html",
-  "fa73b97f2aca086006110dcc13fff3ad0226460754628a4a89f953e0997cb0c5": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits.html",
-  "2cf6c8d067a755a553d4e39cd7fe672a576adcee282d454782cc3a64abfd4ab0": "https://www.epa.gov/npdes-permits/tennessee-npdes-permits",
-  "c89b1ae1982a77528cd41bba8af5e11b4e700b9c0abcf9ed54d190c8f8e22ca1": "https://www.tn.gov/tpuc/divisions/gas-pipeline-safety-division.html",
-  "d6073318bd6e6034356ef6fd05e448b5e30b2c6523a8e13bcd4795a4cb2fcec6": "https://primis.phmsa.dot.gov/comm/FactSheets/States/TN_State_PL_Safety_Regulatory_Fact_Sheet.htm",
-  "d37ac06c23da3290bc14fdf5da53eae290501f78da4ad89a0d03fd1fb2db6231": "https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-tennessee-board-of-water-quality--oil-and-gas.html",
-  "99d91879c79272435d3d8d91deb48e7b0f8489a8d99d7b2a4a9f323ff36e33aa": "https://www.rrc.texas.gov/oil-and-gas/",
-  "57b81744e1cf2270045f44a32c96c614d0aead44ac5207aa6eac69fc6f5d7d0c": "https://www.rrc.texas.gov/pipeline-safety/",
-  "57d9bd7c549ab375be8746b33b8ae480b34bffd024c7b9ed62fd09138a0fd499": "https://www.tceq.texas.gov/permitting/air",
-  "1e603672d54816edf852daece3a70c60622a0b9c6ebe0f3db87dfb423563c0a8": "https://www.tceq.texas.gov/permitting/wastewater/pretreatment/tpdes_definition.html",
-  "a5049dc546d50d3811ea01661d12e4335dc40e08f8e40983d208678386c66649": "https://www.glo.texas.gov/energy/mineral-leasing/leasing",
-  "1e77694193a467f92fd223779c3c54eed8950bc3516d922bcd48de41272a8b3f": "https://www.glo.texas.gov/coastal/oil-spill-prevention-and-response",
-  "f8c5b4e040e581c125aeee7550d9288de30dd72dfa40c53f7f7a1f64d617c868": "https://www.puc.texas.gov/",
-  "2e03c842a2e33a1c497f55971626a8cd3539fa3aa7213359c971ec33f6645d97": "https://ogm.utah.gov/",
-  "4a5bc53e2174568738b71213d1a8e5a3fe05419ae29170c93c88efc1599189ae": "https://deq.utah.gov/air-quality/air-quality-permitting",
-  "7489e2ff7d68189b1ad2b5da8213f0250b9905f5933369a0d44fa8b783358de0": "https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program",
-  "b09d5a6b1fb4ad92f2040d1e0b065d0ab624216a812d2180d4f20ba0ed59a358": "https://deq.utah.gov/water-quality/storm-water-permits-updes-permits",
-  "50c980d9a61d94881677c67f9292731db053f9fc734726cfd38262b79845fcbd": "https://dpu.utah.gov/pipeline-safety/",
-  "de4ce84229c8ae7525428acb1aac45ef72a53b9669ed1001c3e4fdf55e6aa3d6": "https://trustlands.utah.gov/work-with-us/energy-minerals/",
-  "610325a0a90d2e1538ef556b8c6105096de6af8faa589b21da1d04f4f1fc1ac5": "https://publicservice.vermont.gov/naturalgas_propane",
-  "55104d35f874b025122a98455ac45963491dbff1a884aadbddc55d13bea12646": "https://www.epa.gov/caa-permitting/caa-permitting-vermont",
-  "09cbcb210cfef5a753501be8f0ffe8d3be76b66b16efc1467403937482039dff": "https://anrweb.vt.gov/DEC/AirFacilities/PublicSearch.aspx",
-  "c403f5df0e1829f0bf8edf293e73db888a01cce562ef88047ad4c10474f4b845": "https://anronline.vermont.gov/Home/db48e104-7c4c-4d80-9d47-e8d05da3f707",
-  "a9412f388694cb1217c860b0133cd95081042bc0257781e1855d0f471c2f7540": "https://www.epa.gov/caa-permitting/title-v-program-evaluations-vermont",
-  "6922ed1e2319f4d2dc3af7b39d6addf09bf9699204da949f986482762d10b60d": "https://www.epa.gov/npdes-permits/vermont-npdes-permits",
-  "9dc5beb2aa22961e0f9e0593b872b6214fb60240d49d01587ba61f952cbcb0dd": "https://anrweb.vt.gov/Pubdocs/DEC/ENB/ENB_V2/16329-VT%20NPDES%20PGP_Factsheet_2022.pdf",
-  "ec57537c7580d34a799d1e0cbe16f20b8a34c564adf3e76e838d8df86f8015ae": "https://enb.vermont.gov/",
-  "431202b0d537b33c631a70fb77a6347feb27f655f26723f4de1674990f4eefb3": "https://energy.virginia.gov/gas-oil/gasoil.shtml",
-  "e0f437071a6a0ec110c4acff4b4ab36bf10f795884b735641429381bd0c40540": "https://energy.virginia.gov/gas-oil/PermitRequirements.shtml",
-  "667a636ece281a7f7db766636f00b1e830a2749e2986657ac5e1c0dc047add58": "https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx",
-  "0f00ce8fb60c6efd4e99cf053251f108adac6654241852003da4efbe5946a6d3": "https://energy.virginia.gov/gas-oil/OwnerRights.shtml",
-  "eedeeed421752d55a621ea6683fdca30a8727c46e0f787196650f8b6b65e90fd": "https://www.deq.virginia.gov/permits/air",
-  "7141f1717f3d7bb66608407e2377fdc8421dfb8ba65ff9d4538b8312f6552e76": "https://www.deq.virginia.gov/permits/air/forms",
-  "fffba3b4fa7fcb6ff2e67c4667200bbbfbda8ba6a4ff2d5c334ce1f43fbd2f8d": "https://www.deq.virginia.gov/permits/air/issued-title-v-permits",
-  "183cb349d915ba74e6bfe81976e834e7a21c015120bd86f616e563e89fea3b2a": "https://www.deq.virginia.gov/permits/water/surface-waters-vpdes",
-  "93fbfbbaffe393f45f65440ac8c60c76c3805c5aa35ef448e709297e10637136": "https://www.deq.virginia.gov/permits/water/ms4",
-  "19dc7faf57ef49ee7daba37f95b09f6f48b287e87942058f8f44e62dda548ebc": "https://www.epa.gov/npdes-permits/virginia-npdes-permits",
-  "f47683c7bb4b4e515528ec0fa15427b0982e534f3ca87bfee6f31341ad021d7a": "https://www.scc.virginia.gov/regulated-industries/utility-railroad-safety/pipeline-safety/",
-  "ec19a8ceced8122a087457bb1a8a0ebe90c9f8fa00b932fd832fd85d17dd2947": "https://www.utc.wa.gov/public-safety/pipeline-safety",
-  "47e60e79a7933735f9c1bab00a400c3c21a0d6382fd410100e2760de813087f0": "https://ecology.wa.gov/regulations-permits/permits-certifications/air-quality-permits",
-  "12dcb715ceb6570b2674cb93f11eec617df257311ff43faea79a1da08aa4d1b8": "https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/clean-air-agencies",
-  "581c60e11c21c0d10c388086976894bbade9f62c4ef93381d05ba1950d1a0ddb": "https://pscleanair.gov/101/Permits-Registration",
-  "8249d967355c347fdf0b6c3496c30146d32aa1f3f2fcea1817ad41e23cf820a6": "https://spokanecleanair.org/for-business/notice-of-construction/",
-  "67e5e99d1a6afcbdd88add9da147b0b0806b913ea6077b83d0ba5a4026ca1d12": "https://www.yakimacleanair.org/services/forms.html",
-  "c09d3e896bc287d148a8753711f03ba4b2da2677401fe3fcbc3b654d774318da": "https://www.orcaa.org/",
-  "008be6a63caddea66b0dd0ec89d2d93fd6b73389525dc3502bf7fdbc86d28a77": "https://nwcleanairwa.gov/permits-and-services/",
-  "64ea544d60defc414fa9b906b49f55189d4dd89d11903909cf11581cabb2a8d1": "https://www.swcleanair.gov/permits/",
-  "290f32b53c2bfbe3d701ee4d8abaeb5e1698e0f5f5c492c50cb91a956714dc2d": "https://bentoncleanair.org/for-business/notice-of-construction/",
-  "ccecdd3ad1cefdfa22951c5c63b343cf0aaddb2b46473c60c1935758f6e9716a": "https://ecology.wa.gov/water-shorelines/water-quality/water-quality-permits",
-  "8a91d4d82427d969e61a2a145f646f380cc0adfc84f875f202d36d99c61f5b34": "https://www.epa.gov/npdes-permits/washington-npdes-permits",
-  "a458df89f877de2cd9de73ca43313d7da3559a537702f9a4cbbb3d5c16ca57b5": "https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/coastal-zone-management/federal-consistency",
-  "d1ab27193a273917e7e752bf43b19d019e5d04e46a4a2aa6ebb9a93fba2bff20": "https://dep.wv.gov/oil-and-gas",
-  "7d7fe49b0663ef882f2c6b5703c6f394fc13bb5d188356010386b6025ae95370": "https://dep.wv.gov/daq/permitting/",
-  "ad2e849927207e6c6daf636e160ce5418425b26648ebdc1ab6054a7d883ab3ed": "https://dep.wv.gov/WWE/permit/npdes/Pages/default.aspx",
-  "a8a65a3ab96d683dab09a1a8471e6afc8f726b004b5cfd2136cb07d93a6a2cfb": "https://www.psc.state.wv.us/div/gaspipelinesafety.htm",
-  "4e4d5954457003254184453cdc9252a2a16fe0be23eb9f41c17380a1a9e1d4cc": "https://ogcc.wv.gov/",
-  "801793e49e0c9c9650d6f84d20b1577839104d92be07c0d3a0af691704182988": "https://wvdnr.gov/lands-waters/office-of-lands-and-streams/",
-  "da751b7bcc61d97b062a105d03aaff97a03910792413271821d98f987fa6c0d6": "https://psc.wi.gov/Pages/ServiceType/Energy/PipelineSafetyProgram.aspx",
-  "a6b323fb3c7828512afc68c88bffb47440eda16e5047821c65b92e1b5b890cca": "https://dnr.wisconsin.gov/topic/AirPermits",
-  "a56d8ac586c0f78c33a585b8d20e4d7fc666bf8d61bbd7d7c8cbd3e0209435cb": "https://dnr.wisconsin.gov/topic/AirPermits/Options.html",
-  "43189196fa367e4b86ecfa8e436f01c38e77375ec53542c97847d641593917d3": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-wisconsin",
-  "1a17de80bcb047972a57df98f212fd0507d01be590d1c1e05f12cd0fb9059af6": "https://dnr.wisconsin.gov/topic/AirPermits/PublicInvolvement",
-  "060fc559328467f765239f3b9825a42404f1374f19acbdbd99289037cd56d1a2": "https://dnr.wisconsin.gov/topic/Wastewater/Permits.html",
-  "022bf004a24c65b8156c22b1b2d192e3b8d1da640dbbce49e292a3c2e5adc671": "https://dnr.wisconsin.gov/topic/Wastewater/PermitLists.html",
-  "a71f29dc2af900b304630d401e6390f82e95f1406e7f1ec2f7bdf6410168916a": "https://www.epa.gov/npdes-permits/wisconsin-npdes-permits",
-  "8b76bfe408f89add31c724c5b46dc69924d0e8f2f77671ff8ca999c175d64889": "https://doa.wi.gov/Pages/LocalGovtsGrants/CoastalFederalConsistency.aspx",
-  "32b094f0c6bc956be73b3857ca6938ca592be828d55c663be4d3e0a665cfe8eb": "https://wogcc.wyo.gov",
-  "92b3a202bdafe7e9d3763be10b631f86835da9875386c08b0adcc3dde58df1c6": "https://deq.wyoming.gov/aqd/",
-  "9a11deb6c189be432d29b173063bf3dcc6dd1522a69e3473fd1064f043566bdc": "https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/",
-  "5ff6af98eeb3bb6b19b8a28be009d7f9883533b6f8693b757aeb19b98bd3536e": "https://psc.wyo.gov/pipeline",
-  "6b1f7ea9761d102f8eccf7f611160cc23fb6affe4f202af15e20b5451967aa73": "https://lands.wyo.gov/trust-land-management/mineral-leasing/oil-gas-leases"
+  "414e57553182db8fb51f121d41fed70967ea0716e5cfc782b5533693d58bbf2b": {
+    "url": "https://www.gsa.state.al.us/ogb",
+    "state": "Alabama"
+  },
+  "072b6bbe4ba23752661940656fe3d0d5d4794ea47d5df5f84bc2f692d70a815b": {
+    "url": "https://www.gsa.state.al.us/ogb/wells",
+    "state": "Alabama"
+  },
+  "9eaa5d734e98645cc082d1f57c2d76becf706e1633cfe200043db61c507c9f56": {
+    "url": "https://adem.alabama.gov/air/air-permitting",
+    "state": "Alabama"
+  },
+  "7e5abcd14f81e3bf0fb7f762d529da5fd050701411504dc3ef1ab9dd496c12f7": {
+    "url": "https://adem.alabama.gov/air",
+    "state": "Alabama"
+  },
+  "2c1e1a54661c10ecac793bd9584034831ba1de77a062a4b5784d27c659405790": {
+    "url": "https://adem.alabama.gov/water/npdes-programs/npdes-permits",
+    "state": "Alabama"
+  },
+  "1462e688cc56fc2b5fa71e665b8a30e079ef5fee952ecc1e8bcf3c9c478c8b82": {
+    "url": "https://adem.alabama.gov/water/npdes-programs/construction-general-permit",
+    "state": "Alabama"
+  },
+  "2410b86757d65ec7ec7908ef43b4318d9d44a5f18d65c8fa472be9d36d2cfe64": {
+    "url": "https://www.epa.gov/npdes-permits/alabama-npdes-permits",
+    "state": "Alabama"
+  },
+  "1323ca2d8b348aa219f81d76e63a3ea1a37188ad538e064af05aaa0166f3b3f6": {
+    "url": "https://psc.alabama.gov/gas-pipeline-safety/",
+    "state": "Alabama"
+  },
+  "d9869c0759d0901050ad5ac82a7d2668bdb4a84525f6b4bfe65c0d78a1af91cb": {
+    "url": "https://apsc.alabama.gov/Energy/GPS/gas_pipeline_safety_section.htm",
+    "state": "Alabama"
+  },
+  "61f6029d8af829baafa183761be22f84030cc12e05a2bd35adc8c8f12c979266": {
+    "url": "https://www.jcdh.org/SitePages/Misc/TitleVAirPermits.aspx",
+    "state": "Alabama"
+  },
+  "235df1fb41c2604de30a8bbfcb99a36bb9feb8d070d5d0e694d87972cf40d69f": {
+    "url": "https://www.jcdh.org/SitePages/Programs-Services/EnvironmentalHealth/Air-RadiationProtectionDivision/RegAirFac.aspx",
+    "state": "Alabama"
+  },
+  "ae9adffc10fe1c696aa7d628f2fa242415f508cc629be29497530c7343d1fa6f": {
+    "url": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/",
+    "state": "Alabama"
+  },
+  "216fc2f82f3981f2a7e15ebb9a7cdf84fbcf4d0d097afc40dde78029cb40a61d": {
+    "url": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/air-permit/",
+    "state": "Alabama"
+  },
+  "55418062ba79fb28685979dacc3d38002bc8ff4ae3e23d7e88cd8c2d9d683455": {
+    "url": "https://www.huntsvilleal.gov/business/licensing-permits/environment-licenses/air-permits/",
+    "state": "Alabama"
+  },
+  "ce9e53422c9a0265e1cd9f44486fa2a9e938737971f09bc81dd17a607db40426": {
+    "url": "https://www.commerce.alaska.gov/web/aogcc/",
+    "state": "Alaska"
+  },
+  "95957a8793b9314761aa930965ae022b3c3c4d9e1e077dedd4060b2daf3e92aa": {
+    "url": "https://dog.dnr.alaska.gov/",
+    "state": "Alaska"
+  },
+  "6e08f410461b0e023f7dd7c5b3b628871be0f23370815cb146ee9e886a795295": {
+    "url": "https://dog.dnr.alaska.gov/LeaseSale",
+    "state": "Alaska"
+  },
+  "798b84b50f160a5966946ee3065934a6a2aad9b3a1d81e82ea3aed6527c5a94d": {
+    "url": "https://dec.alaska.gov/air/air-permit/",
+    "state": "Alaska"
+  },
+  "8d2e521a57aa6d14d0881f9a6159bde0fcddeb3a0efe5f3ca5f0db793a53d6e0": {
+    "url": "https://dec.alaska.gov/water/wastewater/",
+    "state": "Alaska"
+  },
+  "0db8f696f1bfccc4e1094e8e468eddc1ff71fb0129267720a481ef7df63d611e": {
+    "url": "https://www.epa.gov/npdes-permits/alaska-npdes-permits",
+    "state": "Alaska"
+  },
+  "f7f3f2a48adc0fd3a8cac3f4f2b539324291d347fa488db3f3bb6e019d19b63a": {
+    "url": "https://dec.alaska.gov/spar/ppr/contingency-plans/",
+    "state": "Alaska"
+  },
+  "849caf432f5d6449610c78ddc9f14c7713dcb77ab192a7dd9c92ff012c46b2cd": {
+    "url": "https://rca.alaska.gov/RCAWeb/home.aspx",
+    "state": "Alaska"
+  },
+  "72fe837a4de748c8ab11c8213328607825eafbe9cba5b71a10de16217b9b9345": {
+    "url": "https://azogcc.az.gov/",
+    "state": "Arizona"
+  },
+  "20a65d83e56fc46c79aea3a43f53088541c39d57c1d5ba58d14d57bd0efaded1": {
+    "url": "https://azogcc.az.gov/permits",
+    "state": "Arizona"
+  },
+  "0dd4f3cf133bfa400e35901676baeb0ef40091db179244dce42a1d676c9166b5": {
+    "url": "https://azcc.gov/safety/pipeline-safety/pipeline",
+    "state": "Arizona"
+  },
+  "fcc3e16a1594206148db5c63908aebcea2447db6b54e50bd35732f0fc8ffc000": {
+    "url": "https://azdeq.gov/air-permits-comp",
+    "state": "Arizona"
+  },
+  "05d20e3c7a535f0dab8bdf627599bf59cd94ca520aba931cf97cd476a6ca3687": {
+    "url": "https://azdeq.gov/permits/AZPDES/IND",
+    "state": "Arizona"
+  },
+  "71f3d79a8eaa3c1fb22a3fb3050d8faaa8b262b95d90f3e0390ae4b265044e90": {
+    "url": "https://azdeq.gov/SWPPermitting",
+    "state": "Arizona"
+  },
+  "770bf3a48e571732801f2da795dac7c1fd01235c23e97104850f2dd65a57674b": {
+    "url": "https://land.az.gov/applications-permits",
+    "state": "Arizona"
+  },
+  "82e2249dd909b8fd0e907a12051d960e2a3beea1bac69a3f8a256cdf71fd04d2": {
+    "url": "https://www.maricopa.gov/1818/Permits-Forms-and-Payments",
+    "state": "Arizona"
+  },
+  "dea25ec080c8a25eabe1bb35d09d0df5853f747b92ad3b59eefaef61bd902fb6": {
+    "url": "https://www.pima.gov/439/Air-Quality-Permits",
+    "state": "Arizona"
+  },
+  "8e27a7dbda5529cbfaa952cdc77ff3606f73c113c1acd71ae0dce17eb5e1b1c1": {
+    "url": "https://www.pinal.gov/1255/Permitting",
+    "state": "Arizona"
+  },
+  "eb8d6243566f685e524f9e5ef432c9317cb90c5a086f5229cbda6c983a54218b": {
+    "url": "https://ee.arkansas.gov/energy/oil-gas-commission/",
+    "state": "Arkansas"
+  },
+  "6a747973bdd332a710ece3683aa91eb42824ba49c4d48d23c2982104614b9631": {
+    "url": "https://www.aogc.state.ar.us/",
+    "state": "Arkansas"
+  },
+  "1778bb45b813da5baa1c00dc3132d6830ae22ac7ae06e0b7bd165819b723b6fc": {
+    "url": "https://www.adeq.state.ar.us/air/permits/",
+    "state": "Arkansas"
+  },
+  "3f27e3e9fdebd03000a3d0b2c7ade51f9ab16ab84175291d0b5d777800561206": {
+    "url": "https://ee.arkansas.gov/environment/office-of-air-quality/",
+    "state": "Arkansas"
+  },
+  "1e1c9a5531b2d0a3b7f90968d5eb42813a0b3646c36a3e00bd1f33f614d053a0": {
+    "url": "https://www.adeq.state.ar.us/water/permits/npdes/",
+    "state": "Arkansas"
+  },
+  "d852bed9edb23f7807ea9b85bf5e34b077af5e044d2967997880a92ba3b33f0e": {
+    "url": "https://www.epa.gov/npdes-permits/arkansas-npdes-permits",
+    "state": "Arkansas"
+  },
+  "4cf180b263204c855bafcb832dcef94a70b3f69d20ce6194b3fee4853efc5fdd": {
+    "url": "https://apsc.arkansas.gov/utilities/pipeline-safety/",
+    "state": "Arkansas"
+  },
+  "37903701dbcb8066d59bf078c11e2315055258b3a6bbbf114a68842f20b05fe2": {
+    "url": "https://www.conservation.ca.gov/calgem",
+    "state": "California"
+  },
+  "d5cd6e2f708fdf4925e62e40a0b65568597c22031add4497f55d7990c0a1eba9": {
+    "url": "https://www.energy.ca.gov",
+    "state": "California"
+  },
+  "cdddc591775818ae8cb40b3a85156188f2468c1aa8f45adf9ca785087073e928": {
+    "url": "https://www.cpuc.ca.gov",
+    "state": "California"
+  },
+  "aa1d5789e3e5c7ebe8a89d09b6b5e9f9a263f808f88daf575b3704abed7e5dbb": {
+    "url": "https://ww2.arb.ca.gov",
+    "state": "California"
+  },
+  "764028fc4bea9bb0cf88966fbcaf9ec5002d42a272c062c5cadb05bb2831d7da": {
+    "url": "https://calepa.ca.gov",
+    "state": "California"
+  },
+  "6fa115d353f194bd479ee272dc8bf2ad38e10c8478479527f6b1554886a1fb9f": {
+    "url": "https://www.slc.ca.gov/oil-gas",
+    "state": "California"
+  },
+  "c5ef5041dccc92d21bb44e3e668ec7b74d65f56e7c735df1fe6a1aa34c75c773": {
+    "url": "https://www.dir.ca.gov/dosh/",
+    "state": "California"
+  },
+  "7d6fb94eca01c084a354e03c507d29fac9962eb303c292dd1e2429a1a16f8e14": {
+    "url": "https://www.waterboards.ca.gov",
+    "state": "California"
+  },
+  "c9aa03960b02438bee5123fe972caa90597c7b2065ff11c58b6e9bb1a4af2058": {
+    "url": "https://osfm.fire.ca.gov/divisions/pipeline-safety-division/",
+    "state": "California"
+  },
+  "2c2fed20c60223f8427b7ae12675c04ecb53d3fa4b40b051e2856f24960d19ae": {
+    "url": "http://www.aqmd.gov",
+    "state": "California"
+  },
+  "5c2ab13dd4e72320446788458ed81b9c9f6f09f7a05e9a363e137645da7b66f6": {
+    "url": "https://www.baaqmd.gov",
+    "state": "California"
+  },
+  "4b7ad547b74266cc83fc5a3e0c131d8c3383e26ba47e692925a455c81bd8f2bf": {
+    "url": "https://www.valleyair.org",
+    "state": "California"
+  },
+  "e89135bfb849a8ec6a517a8d688648a482b830c13611195779f0a5c559a80c51": {
+    "url": "http://www.airquality.org",
+    "state": "California"
+  },
+  "eb3881515464438c5c8713bbf1e26798c31ff1ebe38d1b99c752a1292c961673": {
+    "url": "https://www.sdapcd.org",
+    "state": "California"
+  },
+  "33997d7b53d1380f5352d75a34359bd7219ee901f3da9a38fd231f05c86978ea": {
+    "url": "https://www.vcapcd.org",
+    "state": "California"
+  },
+  "7ce03e7bed3378f5df68565a6f43582b52b4b1a2f212921c8e687bd803c593e7": {
+    "url": "https://www.ourair.org",
+    "state": "California"
+  },
+  "86ff62c82d6a4cd52fadf497870f864cfe913a4e4ff3fd97ce60a6584239a3f7": {
+    "url": "https://www.mbard.org",
+    "state": "California"
+  },
+  "cab2dccd83d424126e9043f27388f2a79889fe720b6700f0e5e62ccee42eb12c": {
+    "url": "https://www.mdaqmd.ca.gov",
+    "state": "California"
+  },
+  "751e434195e014f1b30363dfb6ff7cf35804242ba9bfb4a754b36cfbe3379785": {
+    "url": "https://ecmc.state.co.us",
+    "state": "Colorado"
+  },
+  "6ff9dc8b38cb5bd965e4fce6cf4234bb78ff791af1a455be23000f4dfd681526": {
+    "url": "https://cdphe.colorado.gov/apens-and-air-permits",
+    "state": "Colorado"
+  },
+  "9bfd72bb1fec7854572061b7c155b28223decdd80aa8b886bdea7d6cc13a9f3b": {
+    "url": "https://cdphe.colorado.gov/water-quality",
+    "state": "Colorado"
+  },
+  "88e78e3bcb5d4ba49271a1c366ac759e38f0e2ce66c326e8c7e625591fe58e67": {
+    "url": "https://puc.colorado.gov",
+    "state": "Colorado"
+  },
+  "933869bf30b63e2733c8c1b276f385b4a139bec1f3671077e151481e4b516091": {
+    "url": "https://slb.colorado.gov/lease/oil-gas",
+    "state": "Colorado"
+  },
+  "e68c7c52d6929f8d09fe75461d657cf20bc0fcccbb10a21043148e2eb3cfe8d7": {
+    "url": "https://portal.ct.gov/PURA/Gas-Pipeline-Safety/Gas-Pipeline-Safety",
+    "state": "Connecticut"
+  },
+  "eb5bac4b54538e067bb8a4e3a73f6e7ce83d242bcb599459630f0da03ad5d8a0": {
+    "url": "https://portal.ct.gov/deep/air/permits/air-permits",
+    "state": "Connecticut"
+  },
+  "497300fdbfd0aac749dab1339f41b76be20277723a016b30cc2fc8c043226128": {
+    "url": "https://portal.ct.gov/DEEP/Air/Permits/Title-V-Operating-Permit-Program",
+    "state": "Connecticut"
+  },
+  "4fd726b9877e89d2b626ec4e0499d7c662148c807803e0b65415897f04cf6bee": {
+    "url": "https://portal.ct.gov/DEEP/Air/Permits/Air-Permitting-Assistance",
+    "state": "Connecticut"
+  },
+  "cd286d5fb37bdfbb98562c60226402130c85bafce5973746e5b9f1f83816a212": {
+    "url": "https://portal.ct.gov/deep/permits-and-licenses/water-discharge-permits-and-general-permits",
+    "state": "Connecticut"
+  },
+  "fd64502b7229870e23de812b48e26d19fd93e3d3b554ac822a415dc317cf7e68": {
+    "url": "https://portal.ct.gov/DEEP/Permits-and-Licenses/Factsheets-Water-Discharges/Wastewater-Discharges-Fact-Sheet",
+    "state": "Connecticut"
+  },
+  "f6d914d3c9506f5982c21214209f2265fa981bd51356c47acfe3a2a0453dc409": {
+    "url": "https://www.epa.gov/npdes-permits/connecticut-npdes-permits",
+    "state": "Connecticut"
+  },
+  "3d33c3628368aee6ad75ef91ab301a6fdd5d6fb19551549889d58588bbc109f3": {
+    "url": "https://filings.deep.ct.gov/DEEPPortal/PublicSearch/PSSearchView",
+    "state": "Connecticut"
+  },
+  "9572976e11896abc373d22807f03c095e143984566cd4478c53e8846f425030c": {
+    "url": "https://depsc.delaware.gov/pipeline-safety-program/",
+    "state": "Delaware"
+  },
+  "62ad87a85c050c6f5051b58611c2581490510c4146869bd1020454bdafcbbb23": {
+    "url": "https://dnrec.delaware.gov/air/permitting/",
+    "state": "Delaware"
+  },
+  "26955c599861cf14fe85d00a5204485432cef0f918e81e92f6cdb7d6df94ade2": {
+    "url": "https://dnrec.delaware.gov/air/permitting/major-air-sources/",
+    "state": "Delaware"
+  },
+  "5dedd26ed20f9e509819d011eac3bd777b263745a4160b4001c75bdc493d6c64": {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-delaware",
+    "state": "Delaware"
+  },
+  "2d87a5d004e33790a0e595eeca13bb81305d02c86bab0aea4d1d45afa479db7c": {
+    "url": "https://dnrec.delaware.gov/water/commercial-government/npdes/",
+    "state": "Delaware"
+  },
+  "94456d90c1c9ccf198fd598abac760a34481439a3efa0e8e7e87a6ea344c173b": {
+    "url": "https://www.epa.gov/npdes-permits/delaware-npdes-permits",
+    "state": "Delaware"
+  },
+  "2593ef4281bcf16e1e7585d0ed6456a89f54a2b477cdbe942341415d2d943d56": {
+    "url": "https://dnrec.delaware.gov/coastal-programs/coastal-management/federal-consistency/",
+    "state": "Delaware"
+  },
+  "0619e0829d852100d7b12c6a9b5259aed4977533569ae220de7eda818194b2d0": {
+    "url": "https://dnrec.delaware.gov/dnrec-public-notices/",
+    "state": "Delaware"
+  },
+  "d6bb72b6080c1d7d1a3b501024e14f6d4e350754e3acab8eba4b5d48863bf10a": {
+    "url": "https://den.dnrec.delaware.gov/",
+    "state": "Delaware"
+  },
+  "0a334e49ab47cf8ccbcfaa59312b52f9b26c4b0f723241b186f67ec88ff7437b": {
+    "url": "https://www.floridapsc.com/pscfiles/website-files/PDF/Utilities/Electricgas/GasSafety//RuleBookletCh25-2025.pdf",
+    "state": "Florida"
+  },
+  "95314559aef172b07faa8197e5fe4523adb77b7e66b119e09353f3bb09221d4f": {
+    "url": "https://www.floridapsc.com/pscfiles/website-files/PDF/Publications/Reports/ElectricGas/Pipeline/2023.pdf",
+    "state": "Florida"
+  },
+  "833e7fc82895d8572d8dd8bd8c98d91dca55f011dccff668b43b1a003c765973": {
+    "url": "https://floridadep.gov/air/permitting-compliance/content/air-permit-application",
+    "state": "Florida"
+  },
+  "9421bcebedd46054f9b07114a97734b79fda4537fbaafe941e13067748ee6abb": {
+    "url": "https://floridadep.gov/air/permitting-compliance/documents/air-construction-permits",
+    "state": "Florida"
+  },
+  "c57b69c7b34ccfd01bd6f5a629f1539baa79663e20c546b7a99a39199fe47e79": {
+    "url": "https://floridadep.gov/air/permitting-compliance/documents/air-operation-permits",
+    "state": "Florida"
+  },
+  "a712c93bd6884589f4bd29a06efbc30f5afebc9a9a856dc6e1cfda153780d0fc": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-florida",
+    "state": "Florida"
+  },
+  "e5a65a499286db93f3746a15aa1e197e4f6ce30f64a80ec5cf4ada0a51da1ed6": {
+    "url": "https://floridadep.gov/air/air-director/content/how-find-air-documents-online",
+    "state": "Florida"
+  },
+  "ea3f0ce0c18bc5c1a4d00b6dd4f5c61cbf0c1e0818acd855157ec5b8c8f48e4e": {
+    "url": "https://prodenv.dep.state.fl.us/DepNexus/public/searchPortal",
+    "state": "Florida"
+  },
+  "4add6cd8922eea452d398bd1c3b1344f039d92b52c9331d40006d8aa3c47eb97": {
+    "url": "https://www.epa.gov/npdes-permits/florida-npdes-permits",
+    "state": "Florida"
+  },
+  "77f5dad656db052bd3274805e16f1da253fff804e1b6bc0a34266e00f5a79ec4": {
+    "url": "https://floridadep.gov/water/industrial-wastewater",
+    "state": "Florida"
+  },
+  "2721d6a2fc599f25b9f81bc3049b8d1c3bc10b3cf624c98b17d4589ae7a226dd": {
+    "url": "https://floridadep.gov/water/stormwater",
+    "state": "Florida"
+  },
+  "492f79c1ac016bedab407ccef86dbfecad7374980653c390309cb05871b700fb": {
+    "url": "https://floridadep.gov/rcp/fcmp/content/federal-consistency-intergovernmental-coordination-and-review",
+    "state": "Florida"
+  },
+  "b3af6fa43675181bd9f391392ae2b2aeeb02b2966bd9ad2ad3c746492cacae1c": {
+    "url": "https://floridadep.gov/rcp/fcmp/content/about-florida-coastal-management-program",
+    "state": "Florida"
+  },
+  "f1be9414c3c0121ba6f53a8093a5a5cabdecc0d1e20de075dc2b39a392ec3f72": {
+    "url": "https://floridadep.gov/air/air-director/content/local-program-air-contacts",
+    "state": "Florida"
+  },
+  "166590309593b93b84c4705e9669f52eb061df8375b3d3d0d019771f82a3c9d4": {
+    "url": "https://epd.georgia.gov/chapter-391-3-13-rules-oil-and-gas-and-deep-drilling",
+    "state": "Georgia"
+  },
+  "ebecf3e2262e49094e85b25820e6d56e77727df97375e280525691756ef196fa": {
+    "url": "https://rules.sos.ga.gov/gac/391-3-13",
+    "state": "Georgia"
+  },
+  "8b4fdcd99f02ccbf4c1684346ee92e81b8223a636267a836bd0413d3fb2ae95a": {
+    "url": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits",
+    "state": "Georgia"
+  },
+  "420a95f69a6bc9c9610519b62688550425fa3c7ec976a2b2566ac0adf9623004": {
+    "url": "https://epd.georgia.gov/air-protection-branch-technical-guidance-0/types-air-quality-permits/title-v-permitting",
+    "state": "Georgia"
+  },
+  "82203b9364a159d3c4c54e7ffed440cfaf843234ad2045ecd2f105c40d8d35ee": {
+    "url": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits/apply-air-permit",
+    "state": "Georgia"
+  },
+  "6829404add4bcdeff1a0b00e9f53bdc839dd18d09cdd7ffe65facaeb2634dc5b": {
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant",
+    "state": "Georgia"
+  },
+  "40e1dee95757d28e28e58b18d5e217fa94179293df4d5e2c2940c7bf1696e151": {
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting",
+    "state": "Georgia"
+  },
+  "4b2baa4f7dbcb2514d4f1eb0a554517419779137d161d683b67266da48a24d20": {
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant-0",
+    "state": "Georgia"
+  },
+  "3389f4d9ad3aa1f802330d759f74501016b8299dfeef6559944023805ff52c50": {
+    "url": "https://psc.ga.gov/facilities-protection/pipeline-safety/",
+    "state": "Georgia"
+  },
+  "bea53811dc102ad018227a05a9e3ae5af9bfd6166c96438dfdf4dcf3b3fef198": {
+    "url": "https://rules.sos.state.ga.us/gac/515-9-3",
+    "state": "Georgia"
+  },
+  "a8a7192e05e3b32cc08ecfeff5824b5ac88d64432d843be7155f3c3293e1f350": {
+    "url": "https://gspc.georgia.gov/",
+    "state": "Georgia"
+  },
+  "4d0b70f48cc563ac8488e4356d10c50eac6b698211571a44e1424c28b176ca8c": {
+    "url": "https://law.justia.com/codes/georgia/title-50/chapter-16/article-2/section-50-16-43/",
+    "state": "Georgia"
+  },
+  "3dea49124f15be5fb97f4a318b5ca27b6184367091b41c90afc63334c4763493": {
+    "url": "https://health.hawaii.gov/cab/permit-application-forms/",
+    "state": "Hawaii"
+  },
+  "17330d363ce1f35e814385f0cb5f1112792bd6bf979ae88989f798c147e1e85b": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-hawaii-and-pacific-islands",
+    "state": "Hawaii"
+  },
+  "69fc5b36347bde4086371d9cd2ef64fe119096ce80c4dd11fed81ca2598dd9c4": {
+    "url": "https://health.hawaii.gov/cab/public-notices/",
+    "state": "Hawaii"
+  },
+  "cb7ab0c64699e7897ef859ddd2915901910b1409606f025bdabfe5260425b424": {
+    "url": "https://health.hawaii.gov/cwb/npdes-permits-and-how-to-apply/",
+    "state": "Hawaii"
+  },
+  "8b8ce96b35f33d4f69daca508c4671cc8701aa0f90df531c043efa13f2582d3c": {
+    "url": "https://www.epa.gov/npdes-permits/hawaii",
+    "state": "Hawaii"
+  },
+  "92b21a63a6c466281cbe2cec7c483e080dc41dfe1327f7cfc3b684477926f268": {
+    "url": "https://health.hawaii.gov/cwb/clean-water-branch-home-page/public-notices-and-updates/",
+    "state": "Hawaii"
+  },
+  "66e49397994159bba24d3d01b7bfb06b1beb13bad2d976be7daea9a810042521": {
+    "url": "https://planning.hawaii.gov/czm/federal-consistency/",
+    "state": "Hawaii"
+  },
+  "1c9877222642416e991a0ac66bdc8a8b00cdd541e60bbbe318f89fa72199a229": {
+    "url": "https://ogcc.idaho.gov/",
+    "state": "Idaho"
+  },
+  "5baffd968e9573b3115ce758e421e01dc793e2c31db9236880beac75db1491f4": {
+    "url": "https://www.deq.idaho.gov/permits/air-quality-permitting/",
+    "state": "Idaho"
+  },
+  "6bd8cd72c66142b84f170a2674d99b17815b327cda16fcaae07d5cc47019c9e2": {
+    "url": "https://www.deq.idaho.gov/water-quality/wastewater/permit-options/",
+    "state": "Idaho"
+  },
+  "032babf7dd6bcb115cee516c0bea6d3bbff5838bf94ae9e22b4c0672dae2efef": {
+    "url": "https://www.epa.gov/npdes-permits/idaho-npdes-program-authorization",
+    "state": "Idaho"
+  },
+  "a0f293d63d282f66b6960cacc1cacd3670b682b95ca6dfac35d9c0baf3c5df48": {
+    "url": "https://puc.idaho.gov/Page/Utility/8",
+    "state": "Idaho"
+  },
+  "5eb0d7ba93b18c64a95e231a0cfabdd452f5a0842f80a21783f0d94eb1d0b5d9": {
+    "url": "https://www.idl.idaho.gov/leasing/oil-gas-leasing/",
+    "state": "Idaho"
+  },
+  "3b191ce53b349438e339687673cfdc1a4de6788ce99eac69fece724e597fb066": {
+    "url": "https://dnr.illinois.gov/oilandgas.html",
+    "state": "Illinois"
+  },
+  "b56cdffad97882f8c86ae48aa8da14f782093b6f9ea05380c7dff31a204387c0": {
+    "url": "https://dnr.illinois.gov/oilandgas/programsandregulations.html",
+    "state": "Illinois"
+  },
+  "67d13a61cc72059949f30577fdedbf8f7967898bc41c8ed18d356bec86277bb7": {
+    "url": "https://epa.illinois.gov/topics/forms/air-permits.html",
+    "state": "Illinois"
+  },
+  "66f72f4cdbf37192cd367edc89011cc5131a42fb1fbcc2cca3c6e71eee5ea6e1": {
+    "url": "https://epa.illinois.gov/topics/forms/fees/clean-air-title-v.html",
+    "state": "Illinois"
+  },
+  "8abdb0f56c233b8f637e17d3dba46f53b97cee3c14cbebd505819201e089a528": {
+    "url": "https://epa.illinois.gov/topics/forms/water-permits.html",
+    "state": "Illinois"
+  },
+  "6e1efba873e432a43d4d2d22d5e63fae210057349c68976f8c4cfaa4db6540fb": {
+    "url": "https://www.epa.gov/npdes-permits/illinois-npdes-permits",
+    "state": "Illinois"
+  },
+  "199742115022a4221a3d72c64903515c31d76685e6fd4cafee6a4f20b3823eb0": {
+    "url": "https://www.illinois.gov/services/service.icc-pipeline-safety.html",
+    "state": "Illinois"
+  },
+  "19aca2ec9d9929fa1e5898cf9b84c0cf27a89b9056bb5d5274b57de599f5193d": {
+    "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=165&ChapterID=2",
+    "state": "Illinois"
+  },
+  "a2fd5f31acbf892d67fca06418533cc79f83704e64c8c390134d615fe7564efa": {
+    "url": "https://dnr.illinois.gov/content/dam/soi/en/web/dnr/adrules/documents/62-250.pdf",
+    "state": "Illinois"
+  },
+  "08415b354a09790b8a809bd6da912216e67e3b158dafd8f28e2215b1373a3cd2": {
+    "url": "https://www.in.gov/dnr/oil-and-gas/",
+    "state": "Indiana"
+  },
+  "675e9ea1300d961bc0c2954d7139a73f0f07b237f867b5cc0390a65ae2edd463": {
+    "url": "https://www.in.gov/dnr/oil-and-gas/permits-and-forms/permits/",
+    "state": "Indiana"
+  },
+  "f39d7b69697376846daa2e4b48ae062339938591fdd1c6a6e33fe47de3208d6f": {
+    "url": "https://www.in.gov/dnr/oil-and-gas/oil-and-gas-leasing-of-state-owned-lands/",
+    "state": "Indiana"
+  },
+  "0ba1b4521cd4a8e15627308af864fa10ae921bb1be65ed39733567d891fe1616": {
+    "url": "https://www.in.gov/idem/airpermit/",
+    "state": "Indiana"
+  },
+  "c7b7a8cfb9c97ff8048bcad813d358ad466f8f31dcd20ee4915ae73f7708c460": {
+    "url": "https://www.in.gov/idem/airpermit/information-about/operating-permits/",
+    "state": "Indiana"
+  },
+  "0a22444515e28ccfbdeed79d804c23c14f3747ddbb6de1c46a06a8dbfe602798": {
+    "url": "https://www.in.gov/idem/cleanwater/wastewater-permitting/national-pollutant-discharge-elimination-system-npdes/",
+    "state": "Indiana"
+  },
+  "be7aa6dd09094406c0ab71d02247115d5a877d40f516e19558a7b6a34eb855ac": {
+    "url": "https://www.epa.gov/npdes-permits/indiana-npdes-permits",
+    "state": "Indiana"
+  },
+  "742029e4cc5ee1000914da15a7710bada28be9047d8e90a8f76fad2eb9ced718": {
+    "url": "https://www.in.gov/iurc/pipeline-safety-division/",
+    "state": "Indiana"
+  },
+  "b1577c3745866c2b343817b2d8e72664935409045de6857cb7287b63a4e0e071": {
+    "url": "https://www.in.gov/iurc/pipeline-safety-division/regulation-of-gas-operators/",
+    "state": "Indiana"
+  },
+  "94c9d10453a4885749851cc947a6d74622e6470d7e3f65de6cd75fa81f06179c": {
+    "url": "https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/pipeline-safety",
+    "state": "Iowa"
+  },
+  "0ed201651a9df3eb5f4575cb70fc0e4c43cd59cf700cdbfd2a33a5540e6bed36": {
+    "url": "https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/hazardous-liquid-pipeline-permits",
+    "state": "Iowa"
+  },
+  "23e6585fc81ba8de9d18602b71da49feeb6268bd0d33279225544c34e51fb1aa": {
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/air-quality-construction-permits",
+    "state": "Iowa"
+  },
+  "9d59052902c977e8efb7c6630fcfa5c03ee807a6854918d270f7e1cf26c40fff": {
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/operating-permits",
+    "state": "Iowa"
+  },
+  "bc8bcb8dd7906f6204caea44c56cbbf25a0f0b70a503715d84373640aa01058c": {
+    "url": "https://programs.iowadnr.gov/easyair/Public/GovEnt/Shared/Pages/Main/Login.aspx",
+    "state": "Iowa"
+  },
+  "495587b78590118e888d7c75002f5a0ed7ee440e200e7cc83f4bed5a0e02d437": {
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/eair-services",
+    "state": "Iowa"
+  },
+  "f1ba82b2e15fea616119154a80cdc9062c0cbff1dd8e39417c90fd74f2863228": {
+    "url": "https://www.iowadnr.gov/environmental-protection/air-quality/local-air-quality-programs",
+    "state": "Iowa"
+  },
+  "5102bcb2ae1ab5280df1709e5fcb2da87f4cf4f4dede9fb08da8d3e805557e58": {
+    "url": "https://www.linncountyiowa.gov/1429/Air-Quality",
+    "state": "Iowa"
+  },
+  "3edeb511252f3a1df0985aed437e31dad69e09beca45f7261e4533ad74dbd83e": {
+    "url": "https://www.polkcountyiowa.gov/public-works/air-quality/",
+    "state": "Iowa"
+  },
+  "ec94724749307a920ebd838c83a0a6cd610eed9163b887362ebff13b42e3460c": {
+    "url": "https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes",
+    "state": "Iowa"
+  },
+  "8e1915f19e671d61ed9ab20e0c7b1f03adaa97445493868aef6fb3110c5ab3fe": {
+    "url": "https://www.epa.gov/npdes-permits/iowa-npdes-permits",
+    "state": "Iowa"
+  },
+  "c55e10942d9bd1d53744be0fced4fe26a9b5abe592ab563f449a55d9fe34edda": {
+    "url": "https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes/current-permits",
+    "state": "Iowa"
+  },
+  "20a65a7c2ef575e60fda7ba7d3944cc1505f4c2e17088164c3efc847ddbe9553": {
+    "url": "https://www.kcc.ks.gov/oil-gas",
+    "state": "Kansas"
+  },
+  "3a0fc9769542c78499f0a141380684f928f0241301db2db4a4753de480ba9215": {
+    "url": "https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline",
+    "state": "Kansas"
+  },
+  "c4461b91fac714d68c79a3988603058a4ed703ba15e52dd3d84897bada1ac01f": {
+    "url": "https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline/liquid-pipeline",
+    "state": "Kansas"
+  },
+  "9a86c69b50598bcb47c311670be14c519fcb17d91665f3c2231550ca3c0f9282": {
+    "url": "https://www.kdhe.ks.gov/313/Permitting",
+    "state": "Kansas"
+  },
+  "66ffcbb3d6dc0067d920024903971eeb3af2008021ce599c457afb9368b3386d": {
+    "url": "https://www.kdhe.ks.gov/754/Pollution-Control-Wastewater-Programs",
+    "state": "Kansas"
+  },
+  "40a4033209c79abd768b23ff112a4bb1ad9618321cf9195dbef3145a161aa548": {
+    "url": "https://www.epa.gov/npdes-permits/kansas-npdes-permits",
+    "state": "Kansas"
+  },
+  "0562db8b12be727210305d9613bdfe51c93c859af9a04744e19adc05a16a6014": {
+    "url": "https://www.wycokck.org/Departments/Health/Clean-Safe-Places/Air-Quality",
+    "state": "Kansas"
+  },
+  "1fc5370295e01666e8cba8ed72e690f4dffa72ca73e2e6f168712b9c782c3f03": {
+    "url": "https://psc.ky.gov/Home/PipelineSafety",
+    "state": "Kentucky"
+  },
+  "e07a9041cc850abd89644d7c7230ff10b497a2527f9d0dd6201c95f9dc768112": {
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx",
+    "state": "Kentucky"
+  },
+  "7816606576621edc77a66d2b3d5172414fecd9aac6110dc06302a8cf79d47f15": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-kentucky",
+    "state": "Kentucky"
+  },
+  "75ba86ec859ec926d16fe30eb4742e0ccd58ae3f9b9dda6c002e218b50881abd": {
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville",
+    "state": "Kentucky"
+  },
+  "42699b7ae14799929668bb6429a8870579d056fea6f808d95ffe673b5f44ca47": {
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees",
+    "state": "Kentucky"
+  },
+  "151e4852e89444435aea1f0b54f4c71a02382c3a89fad29781b54f3f70f96163": {
+    "url": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx",
+    "state": "Kentucky"
+  },
+  "ddf567615d335bd73b6b8c385d2ec5b6dbba55bb87f50bb1a37d5d71d840893c": {
+    "url": "https://www.epa.gov/npdes-permits/kentucky-npdes-permits",
+    "state": "Kentucky"
+  },
+  "2fbc717d86bf88ca7ca14d981a2d1c28cc9703f3b147f2eeec4aed19550e89da": {
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx",
+    "state": "Kentucky"
+  },
+  "fc82bad8fd73c317ef125f2df39196b6b8047ea382167c190e35d5ff639e8797": {
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx",
+    "state": "Kentucky"
+  },
+  "536b0b05bdeac0c079f70e72054853d532f05395c269e5e4e524efd61f14f4bf": {
+    "url": "https://www.dnr.louisiana.gov/page/permit-to-drill-applications",
+    "state": "Louisiana"
+  },
+  "b16d57c55aa2e34e83ce7c008a3cf0251db01ffbe8803fffa59c563f560467e5": {
+    "url": "https://www.dnr.louisiana.gov/page/pd-pipeline-division",
+    "state": "Louisiana"
+  },
+  "4125f45cd909781be557e2518f155a3000ad44d11f87459a5c054dfebb953f40": {
+    "url": "https://deq.louisiana.gov/page/air-permits",
+    "state": "Louisiana"
+  },
+  "98d1d16683b6fd353014fb7ff61ce0d0186382d019fd79b81ff012bc3450466c": {
+    "url": "https://deq.louisiana.gov/page/lpdes",
+    "state": "Louisiana"
+  },
+  "413019726c002eab2affa598095d35ea9dd15887986b8e8e8ee7881ffd435acd": {
+    "url": "https://www.dnr.louisiana.gov/page/office-of-coastal-management-home-page",
+    "state": "Louisiana"
+  },
+  "996416e0fac12703868e1a62560f71a76114a806281b20285ae5a95877891804": {
+    "url": "https://www.dnr.louisiana.gov/page/applying-for-a-coastal-use-permit",
+    "state": "Louisiana"
+  },
+  "10a89d2abc1630fd630b236e2779bfe8f8eecb33cfd88b6282324435cb16d2b9": {
+    "url": "https://www.dnr.louisiana.gov/page/state-mineral-and-energy-board",
+    "state": "Louisiana"
+  },
+  "4bef301f6c56d8535da3dabcb582691e47b1ce3d97c2a432a828c3e5fc9882bc": {
+    "url": "https://www.maine.gov/mpuc/safety/natural-gas-safety",
+    "state": "Maine"
+  },
+  "f8857be9437887f238ee8b7b87f6d5cc0c690a3fe048abc91e4db46b3d0edf86": {
+    "url": "https://www.maine.gov/dep/air/permits/index.html",
+    "state": "Maine"
+  },
+  "f1fff109237e0a0cce9f4f8dd9d111416b3d22e437d57c99a7139d0ceb3ee55d": {
+    "url": "https://www.maine.gov/dep/air/permits/major.html",
+    "state": "Maine"
+  },
+  "08b1eefff4e5a8e4019c3f459d7e00a3f579035c4cc192f8488819b7eac5c0da": {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-maine",
+    "state": "Maine"
+  },
+  "a81a047cc4cef7006a3a819bd57350fc3b22aac6f8797860bd8b112ecb10d2d3": {
+    "url": "https://www.maine.gov/dep/water/wd/general.html",
+    "state": "Maine"
+  },
+  "ac4f117a6f0ad7cf169f1aa27d89c39f73ec4fca931b3f3ff51a5a0823f03e2a": {
+    "url": "https://www.epa.gov/npdes-permits/maine-npdes-permits",
+    "state": "Maine"
+  },
+  "7e95c26d84c3b121909e60b2f5eb176cab835f77c4b9ad031875901cf8623b78": {
+    "url": "https://www.maine.gov/dmr/programs/maine-coastal-program/federal-consistency-review",
+    "state": "Maine"
+  },
+  "1c1e8323560b9a6ee7b98ea280aca715bab827ceeae2896051eb0d0716c30992": {
+    "url": "https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/",
+    "state": "Maryland"
+  },
+  "6d909a2f2d81f14ec0f5463daf4a354803033c5f52015ba68b98a87d5238cb4d": {
+    "url": "https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/",
+    "state": "Maryland"
+  },
+  "e7555787e600c0ada5af41d35915cc6711fecd07aeb723385ee0f1b5126494c8": {
+    "url": "https://mde.maryland.gov/programs/Permits/AirManagementPermits/Pages/index.aspx",
+    "state": "Maryland"
+  },
+  "2a652c7c8303ccfb0ff86d0399bf947211c1193e633adcdba6fffdd2d85678a0": {
+    "url": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/permitstoconstructandoperate.aspx",
+    "state": "Maryland"
+  },
+  "71837499b912d460725eb5ee562d73eb204052940e35b1861582cbd5e52b26df": {
+    "url": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/title5_issued_permits.aspx",
+    "state": "Maryland"
+  },
+  "fb7e82050862d863c50d9c72d9609dbdae4113f322aeebfb8b150f10d3dac99a": {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-maryland",
+    "state": "Maryland"
+  },
+  "b67212c14a5964a8f1901762f31cf77555cd38f59adb82e5f535b0b357355b96": {
+    "url": "https://www.epa.gov/npdes-permits/maryland-npdes-permits",
+    "state": "Maryland"
+  },
+  "702ab4bb763ee7a469258e52938c09b89d9081160fb3ca5c190295c67585f391": {
+    "url": "https://mde.maryland.gov/programs/permits/watermanagementpermits/pages/waterpermits.aspx",
+    "state": "Maryland"
+  },
+  "9f032ae56aa160ac718b3788091e8722ce3d5727b9a8e983b21df00c63efcb7b": {
+    "url": "https://mde.maryland.gov/programs/permits/pages/sb47.aspx",
+    "state": "Maryland"
+  },
+  "2af1e02fc7e20efddb5cf58d4327fa31ea72d418bfc20634de8f79f4496aa303": {
+    "url": "https://mdedataviewer.mde.state.md.us/Public/",
+    "state": "Maryland"
+  },
+  "10fe0dde61d7ee70df04da4d69f8196f51d1da151f7f12a5e05e747ee02fbf0b": {
+    "url": "https://mde.maryland.gov/programs/water/wetlandsandwaterways/pages/czm.aspx",
+    "state": "Maryland"
+  },
+  "0b03ff0aba273c2396836c13a5f309ea56a979f5aeb63492b63991ab96eceda0": {
+    "url": "https://dnr.maryland.gov/ccs/pages/md-coastal-zone.aspx",
+    "state": "Maryland"
+  },
+  "025828ac162fdcd223ccb0a53fb198043acd51ba1f157e311441ad36e02c431e": {
+    "url": "https://www.mass.gov/orgs/pipeline-safety-division",
+    "state": "Massachusetts"
+  },
+  "5c0b7935e5ceb24047b50c6c1ee0d969da501872021e749a02d75fb6a3759f45": {
+    "url": "https://www.mass.gov/regulations/220-CMR-10100-massachusetts-natural-gas-pipeline-safety-code",
+    "state": "Massachusetts"
+  },
+  "a54c2c9afff7a633af62015d81f1c2791adf38cf701436ec7790b6d0ff9b95be": {
+    "url": "https://www.mass.gov/air-climate-permitting-reporting",
+    "state": "Massachusetts"
+  },
+  "3e76d56e54f94e5309cd3ebcee0457a56645923f7cf7d855af0acb3e4c76df5a": {
+    "url": "https://www.mass.gov/guides/massdep-operating-permit-compliance-program",
+    "state": "Massachusetts"
+  },
+  "826a5ccacfbbdb0d1d3f6193a8bd2ef0da8179304e6ef4bca12c3b46f6646b9d": {
+    "url": "https://www.mass.gov/guides/massdep-air-plan-applications",
+    "state": "Massachusetts"
+  },
+  "d9cf24f9b2378d41341484d5e481a79a3fe255689fa41541c898f177f0d3cb06": {
+    "url": "https://www.epa.gov/npdes-permits/massachusetts-npdes-permits",
+    "state": "Massachusetts"
+  },
+  "321761bd9c96775ca50080ef2f08b102b3e60e3e81da8ccf6cb5870e3681f4c1": {
+    "url": "https://www.mass.gov/guides/npdes-permits-what-you-need-to-know",
+    "state": "Massachusetts"
+  },
+  "ddee3173d16b458c1a57f830be0e0b43917921019cf3e875aaab550e5245ca60": {
+    "url": "https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management-czm",
+    "state": "Massachusetts"
+  },
+  "e359b7a4eada810323e5b87ca181c37ce505bb50aa4fb6d63c161663ea4eb94a": {
+    "url": "https://www.mass.gov/federal-consistency-review-program",
+    "state": "Massachusetts"
+  },
+  "b95fda817b1c0d5ecb5f3bae371c947a8b1144263a548ca6d9851016bb1a76cc": {
+    "url": "https://www.mass.gov/orgs/energy-facilities-siting-board",
+    "state": "Massachusetts"
+  },
+  "9dc98df5f16bfaa74053711baab6f8507f7434c24fa297660b92f87767fbda5d": {
+    "url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas",
+    "state": "Michigan"
+  },
+  "ee8251d7080899f099fd63f1d81f48a4f0fa9223f408372afc72530377207961": {
+    "url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms",
+    "state": "Michigan"
+  },
+  "3f960ff817806d3b51508e3aba125668787478dddc324584fc4f0493e6e19dec": {
+    "url": "https://www.deq.state.mi.us/dataminer/",
+    "state": "Michigan"
+  },
+  "3d3d5d760e1c771643a60e4baadc93632b5b4227d56a7700ee19abd8142a77ed": {
+    "url": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits",
+    "state": "Michigan"
+  },
+  "c0f5150b353b53f286bcdd4330d7d9ab79d148ac76635689d14b3e384b74969d": {
+    "url": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review",
+    "state": "Michigan"
+  },
+  "7516fa8d20fd7827793243ecc0d2d5f4706fbcd0d582d3d78ddf5e80a96d6948": {
+    "url": "https://www.egle.state.mi.us/aps/",
+    "state": "Michigan"
+  },
+  "6742f20d4e1241c616c93474e1c8b4b7231bcf25ae26dfe6845b8d9834d2913e": {
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/npdes",
+    "state": "Michigan"
+  },
+  "4d6a44787cc9ac1d7eb86ec575a0b70397223db8f64e8446fba1feaf659fc406": {
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits",
+    "state": "Michigan"
+  },
+  "391b979413a77f112931d78d13497d2728b3e6f26cb06d23c1666b34f2cc3fc7": {
+    "url": "https://www.epa.gov/npdes-permits/michigan-npdes-permits",
+    "state": "Michigan"
+  },
+  "b25783979ee88cd27e2ec54437197cf33f16990adb73184c1b84172ef8edcd58": {
+    "url": "https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety",
+    "state": "Michigan"
+  },
+  "a93e5c2a78d8b11a6551e79dc7deeb2fbdcb23caa9b5a0292c2ba61099417141": {
+    "url": "https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas",
+    "state": "Michigan"
+  },
+  "b8479c358ec88885bae072660e63d98028334de3d24851d2fcea81e5509e3551": {
+    "url": "https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing",
+    "state": "Michigan"
+  },
+  "d4396a601502f2dbaa85a545c852dcf62b8a8cd9af528879b115af4a5f8392de": {
+    "url": "https://dps.mn.gov/divisions/ops",
+    "state": "Minnesota"
+  },
+  "f822377e1e5f88761f30837315e2f853c14dc8f01352f5f7792917a4f8122f5c": {
+    "url": "https://www.pca.state.mn.us/business-with-us/air-permits",
+    "state": "Minnesota"
+  },
+  "5ab200f5aa4f2c3c4c616fd5b1a349d440f1029e0c828573004779d312853ff5": {
+    "url": "https://www.pca.state.mn.us/business-with-us/e-service-air-permit-applications",
+    "state": "Minnesota"
+  },
+  "31026cac0ffc8ce52371926724a40eefb439058661dfa06c0dfd6ad105339464": {
+    "url": "https://www.pca.state.mn.us/business-with-us/air-permit-types",
+    "state": "Minnesota"
+  },
+  "3359630d16f7cd0bbeeb5f1cd71892f3361484fa490ed2efa6729c07cb50d6cf": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-minnesota",
+    "state": "Minnesota"
+  },
+  "5e9ffcfe76153bfe458d8cb28b57f49753d574533820a06be9afcf2acd469622": {
+    "url": "https://www.pca.state.mn.us/get-engaged/public-comments",
+    "state": "Minnesota"
+  },
+  "b18bd29bff9a8056b1c488040850fd65d1bff11d880895913f9a9baebc3574e0": {
+    "url": "https://www.pca.state.mn.us/business-with-us/wastewater-permits",
+    "state": "Minnesota"
+  },
+  "33bcc5202109cf51c914b37b09034a8ef3df0b02d021b22682014bc3cb1c609c": {
+    "url": "https://www.epa.gov/npdes-permits/minnesota-npdes-permits",
+    "state": "Minnesota"
+  },
+  "d39d311f8bbe6d60acbcb7a9099837647bc6bb86d0b86a45bbe03fa740c2f2a1": {
+    "url": "https://www.dnr.state.mn.us/waters/lakesuperior/federal.html",
+    "state": "Minnesota"
+  },
+  "a29fccb1b5bd1720ddfaf15207950b0c1313f1502706fd27ab91d082a01dcac6": {
+    "url": "https://www.ogb.state.ms.us",
+    "state": "Mississippi"
+  },
+  "086701b8196e0742e01d2b5a7d05e3a902a66ce9eb2c9437cc99db3ff95c30f0": {
+    "url": "https://www.mdeq.ms.gov/air/",
+    "state": "Mississippi"
+  },
+  "09de3a80a214a758927256df5f371b89a599442b525e651c63fabaecdb178d8c": {
+    "url": "https://www.mdeq.ms.gov/permits/",
+    "state": "Mississippi"
+  },
+  "0c8e2c2c04a1f5a4d46e05e81ec9b2c6aedfdb9bcb679ce30d622fc14245dcf0": {
+    "url": "https://www.mdeq.ms.gov/permits/environmental-permits-division/applications-forms/air/",
+    "state": "Mississippi"
+  },
+  "351f86dc476e46e1d6263ea34079c01f8bfac01fa3856c9aaf5ca5b58cf8c0e7": {
+    "url": "https://opcgis.deq.state.ms.us/ensearchonline/default.aspx",
+    "state": "Mississippi"
+  },
+  "336e7b3a9e78eceaaefe12bbcc08d1b572e17e92168020d6797f669464f5b813": {
+    "url": "https://www.psc.ms.gov/pipeline/safety",
+    "state": "Mississippi"
+  },
+  "e3149c9ee8db11015b7ce1795f68cf177ccc34ec1dfc4ee73298bb5e6ca5467f": {
+    "url": "https://www.epa.gov/npdes-permits/mississippi-npdes-permits",
+    "state": "Mississippi"
+  },
+  "3afa82cc03ca1bad879e803f91041a1eb614a0942387a4c0bab74e235743dedf": {
+    "url": "https://psc.mo.gov/NaturalGas/Missouri_Pipeline_Safety_Authority",
+    "state": "Missouri"
+  },
+  "3d6f2ca171ea225fd3de0d649b1fd806d35409f5d4de712df4be8cebf7b684fc": {
+    "url": "https://dnr.mo.gov/air/business-industry/technical-assistance/construction-permits",
+    "state": "Missouri"
+  },
+  "2804aa3459288f07d838fff9e330bf6b4b8a54d6aeecaaadfc563b53e2a9b7ad": {
+    "url": "https://dnr.mo.gov/air/business-industry/technical-assistance/operating-permits",
+    "state": "Missouri"
+  },
+  "32a08dafe657bca4e55fd6f493d61ec9bf8de5473b22fc164613bcd0a2244939": {
+    "url": "https://dnr.mo.gov/air/business-industry/permits",
+    "state": "Missouri"
+  },
+  "52178282b4b809ae3f381ca1d260674e656bcf7052ca746af75d20c0b08426ad": {
+    "url": "https://dnr.mo.gov/air/what-were-doing/public-notices",
+    "state": "Missouri"
+  },
+  "13cd995a1ad704da7b0aec827f16b73a9cdb0a3bc3da6946ea6133e1062632e3": {
+    "url": "https://dnr.mo.gov/air/business-industry/permits/issued",
+    "state": "Missouri"
+  },
+  "8f8d2bc870c9e27d5052b3acb8f8ddc22689b8b18da2b010cd645f57198f8a69": {
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater",
+    "state": "Missouri"
+  },
+  "74c68ad6a2b0b0c1afaa1628b98cdcb88a6c69409231e242c46f7f8705c4211c": {
+    "url": "https://www.epa.gov/npdes-permits/missouri-npdes-permits",
+    "state": "Missouri"
+  },
+  "005ffa6e6dc67f8900722415826bfe1f6542850c6bf246010df5628b021b808b": {
+    "url": "https://dnr.mo.gov/water/data-e-services/electronic-permitting-epermitting",
+    "state": "Missouri"
+  },
+  "7b22482df8018c1bcd02fdbc88c0f443a6d69c62bbd50d78c5b1f11ea09af288": {
+    "url": "https://stlouiscountymo.gov/st-louis-county-departments/public-health/environmental-services/air-pollution-control/",
+    "state": "Missouri"
+  },
+  "05e7237d7551eb0e9e1c7352cb466b2e4c41f8c36884a3c87f4f79efc7773ecc": {
+    "url": "https://www.kcmo.gov/city-hall/departments/health/health-online-forms-and-applications",
+    "state": "Missouri"
+  },
+  "00e877b2520d9fb0fe6c714b74473216e15c735ad19d1e4da2ceec259206c1ae": {
+    "url": "https://dnrc.mt.gov/bogc/",
+    "state": "Montana"
+  },
+  "cf971467b510761df5da1164637a629deafaa1a9ba396cc3658768f244ed0670": {
+    "url": "https://bogapps.dnrc.mt.gov/dataminer/",
+    "state": "Montana"
+  },
+  "345ce7f5e87825cbca37b931cce382b11d71e451007a3840c1a8e65ee129d9f3": {
+    "url": "https://deq.mt.gov/air/assistance",
+    "state": "Montana"
+  },
+  "9bdbc84cd32857a0afa3c30aa345cf23e30bcfa7704efb27f699210de8555d16": {
+    "url": "https://deq.mt.gov/water/assistance",
+    "state": "Montana"
+  },
+  "ddb88a7bd8270b3b007a9c3dc01a4b5a7a093f2d9ba10f39e4916d84f3b48820": {
+    "url": "https://www.epa.gov/npdes-permits/montana-npdes-permits",
+    "state": "Montana"
+  },
+  "af1d48beaad94b3ff42b527613d7fa3c3ff7a89dd78bb5bffd8a8165e022a082": {
+    "url": "https://psc.mt.gov/Public-Safety/Pipeline-Safety",
+    "state": "Montana"
+  },
+  "a7130b2221bce2ff16fa97770adb391a2e6cd65805e11d3b9b6a7663245232be": {
+    "url": "https://dnrc.mt.gov/TrustLand/subsurface-resources/oil-gas-leasing",
+    "state": "Montana"
+  },
+  "7e4de5f728e99a5f17584dfd51d24d2da4c81ec3488f1e9d7ee5216feaca8da2": {
+    "url": "https://www.nogcc.ne.gov/",
+    "state": "Nebraska"
+  },
+  "bbb9efe4a8ec2765fb83b662397324a6a405679ac9b21a1b2eabe22f0341f0b0": {
+    "url": "https://dee.nebraska.gov/air/air-permitting/",
+    "state": "Nebraska"
+  },
+  "b52f272368127d1f60280feb0e274c8515b268dcc4ebd5a4620b7a11980f7bf6": {
+    "url": "https://dee.nebraska.gov/water-quality/water-quality-permitting/national-pollutant-discharge-elimination-systems-npdes-program",
+    "state": "Nebraska"
+  },
+  "77d0c1147ad5bf0fef3149d65a5e305f5e841dc415f061701e068c59e9eb4012": {
+    "url": "https://www.epa.gov/npdes-permits/nebraska-npdes-permits",
+    "state": "Nebraska"
+  },
+  "14841e79d1ba19e3059a92a8d177e8ee924a5a7037e17d88562f555e16f6d3ff": {
+    "url": "https://sfm.nebraska.gov/fuels-safety/pipeline-safety",
+    "state": "Nebraska"
+  },
+  "064213fe02821fc631b123bf2374a5657210332e869e6d90ff9d04e47dda877f": {
+    "url": "https://psc.nebraska.gov/",
+    "state": "Nebraska"
+  },
+  "6a083b84b94456168116913b6d8dec15e6627461b828cd744e1a9b74a0bf0755": {
+    "url": "https://psc.nebraska.gov/sites/default/files/doc/administration/Updated_RRs/2024_Updates/Chapter%209%20-%20Natural%20Gas%20and%20Oil%20Pipelines%20Rules%20and%20Regulations_1.pdf",
+    "state": "Nebraska"
+  },
+  "f61a08685bc3f87e67a9c1cb3ab17d0ac5db6cabbefd5dfec68a2319b27b496c": {
+    "url": "https://belf.nebraska.gov/oil_gas_leasing.html",
+    "state": "Nebraska"
+  },
+  "9e11e61681be23e5c3760bcb9f64a67f047f7e56ae2057e0c594938d7c8d631a": {
+    "url": "https://publicworks.cityofomaha.org/oaqc-omaha-air-quality-control/",
+    "state": "Nebraska"
+  },
+  "8cc54f457b484ca08af547c560b8a24bcf937fc16746fc08ffd9c624e771197b": {
+    "url": "https://www.lincoln.ne.gov/City/Departments/Health-Department/Environmental/Air",
+    "state": "Nebraska"
+  },
+  "80ecd3d863fa317a1ab1d96bf925229a61b3ece09ce5dd4ad33910a6b0497a05": {
+    "url": "https://minerals.nv.gov/Programs/OG/OG/",
+    "state": "Nevada"
+  },
+  "0817bd74f72f49300805039f6e1c892745557744aa0f6dd243bde8fae60959bb": {
+    "url": "https://puc.nv.gov/Safety/Pipeline/",
+    "state": "Nevada"
+  },
+  "a765a3679d76e40df0a1abd1c0a56ad95b2ad50f6d7dc8b5789da84618f69f36": {
+    "url": "https://ndep.nv.gov/air/permitting",
+    "state": "Nevada"
+  },
+  "ddc875d3691aeb8c306d34bda938e613fbc02b121fc8377be071664e36228482": {
+    "url": "https://ndep.nv.gov/water/water-pollution-control/permitting",
+    "state": "Nevada"
+  },
+  "a76ff8a1acf589459683d4442f4ebe5544a65c3b01bb3d624b0961ba13405bef": {
+    "url": "https://lands.nv.gov/",
+    "state": "Nevada"
+  },
+  "984a4d51ff84a895a2c6a8e9e74ac785b5995438eeeab980a06ad29ff9a753eb": {
+    "url": "https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/",
+    "state": "Nevada"
+  },
+  "5c3e6036f51601a86a989623b4be564cf374cc7621ab7ce67a0d82410e1b49aa": {
+    "url": "https://www.nnph.org/programs-and-services/air-quality/index.php",
+    "state": "Nevada"
+  },
+  "3e546c57fc9739ebb5ba5bbfce4340c3f5c6c004b34ac3ce9a543e6776b292d3": {
+    "url": "https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview",
+    "state": "New Hampshire"
+  },
+  "e066ccb4f7fbbd6b8d7e546e440145db433b72dd8f17574e6a8fab0448a7a51c": {
+    "url": "https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program",
+    "state": "New Hampshire"
+  },
+  "710258095c2ac361cdd5995338d8a3a62f47cbd69b6e8cbdcec6a898d93eb702": {
+    "url": "https://www.des.nh.gov/air/industrial-sources/permit-guidance",
+    "state": "New Hampshire"
+  },
+  "6d63d3bbc4942e0544ec395e2155678710a0696dbb8927d17e405548177c6b83": {
+    "url": "https://onlineforms.nh.gov/home/094d9dd2-c1de-4882-9414-c0807677d0ed",
+    "state": "New Hampshire"
+  },
+  "94bd5cf3816502dafaa2fb98343adf663d1b1bdbb5dcb21af7295087511b5c8c": {
+    "url": "https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx",
+    "state": "New Hampshire"
+  },
+  "73acf9a53f554609d28f4eaf74a8ec33d2db2deba25aec6e0966d814cfcf2467": {
+    "url": "https://www.epa.gov/npdes-permits/new-hampshire-npdes-permits",
+    "state": "New Hampshire"
+  },
+  "588613583f10294799eb5133f885713b67b25a6c61e6a0b25f0277afa42562ad": {
+    "url": "https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance",
+    "state": "New Hampshire"
+  },
+  "19592e4c3a9d07d64481e676ea349daac4fa53e849d5fb040100fab34fae862c": {
+    "url": "https://www.des.nh.gov/water/coastal-waters/federal-consistency",
+    "state": "New Hampshire"
+  },
+  "e6f9691d4a3ed725bc43277a21717b29e96434c53a973ff485b414f300cfedd1": {
+    "url": "https://www.nj.gov/bpu/about/divisions/reliability",
+    "state": "New Jersey"
+  },
+  "92a91676533eeaec4486b0905996b804d4dcfc2c1611393c6d8ec0162d583f66": {
+    "url": "https://dep.nj.gov/boss/air-permitting-guidance/",
+    "state": "New Jersey"
+  },
+  "74baf469dafea34c94691ceaee34f302b1580508ae65cb9766da594731418fb5": {
+    "url": "https://dep.nj.gov/boss/general-permits/",
+    "state": "New Jersey"
+  },
+  "8dc09f5908ee4088ec2ca899606a58e5dde12b7f3cb11551e666716b2b9cec86": {
+    "url": "https://dep.nj.gov/boss/general-permits/general-operating-permits/",
+    "state": "New Jersey"
+  },
+  "7aeadff6c66be10661531c66d9c202c4803b719f768c67b9f61745f7c889fd49": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-permitting-new-jersey",
+    "state": "New Jersey"
+  },
+  "2783ad52fae7ab079531126790ec4e223d6bdb33697c4b177a4f0444f31a33f0": {
+    "url": "https://dep.nj.gov/dwq/wastewater/",
+    "state": "New Jersey"
+  },
+  "bedbe68250783d70da79ff207ce361e2571f8b993272e0920c9eb096bb43fa2d": {
+    "url": "https://www.epa.gov/npdes-permits/new-jersey-npdes-permits",
+    "state": "New Jersey"
+  },
+  "c720830979840ad026a2540d4b557402d4dda7859a8d3df9c796db0dd136868c": {
+    "url": "https://www.nj.gov/dep/cmp/czm_federal.html",
+    "state": "New Jersey"
+  },
+  "dff8d8bb2f09aa6fef3f0ffb8bbb1d1ebbf3d4019bb3c625a80589bc6cc6e0f5": {
+    "url": "https://njems.nj.gov/DataMiner/Search/SearchByCategory?catName=Air+Quality+Permitting+and+Reporting&getCategory=y&isExternal=y",
+    "state": "New Jersey"
+  },
+  "4eb7246d85cfffc46c1700e8697589a209ed08908172ce7fadc0c853923d7a3e": {
+    "url": "https://njems.nj.gov/DataMiner/Search/SearchByCategory",
+    "state": "New Jersey"
+  },
+  "728bd43e7bc6ade8c9d811e621e71bfa2ee6846b64ea98d7e3cc410f4bd48c97": {
+    "url": "https://www.emnrd.nm.gov/ocd/",
+    "state": "New Mexico"
+  },
+  "d04f26ef76b489195844ca11cb35d3773653717ec46e45f23ef289637f8fffb0": {
+    "url": "https://www.env.nm.gov/air-quality/permitting-section-home-page/",
+    "state": "New Mexico"
+  },
+  "50337dc791e2220211445f80eda978d2d11bd883443c3fe44ffc741dcad28112": {
+    "url": "https://www.env.nm.gov/surface-water-quality/point-source-regulation-section/",
+    "state": "New Mexico"
+  },
+  "cb08fdbc12203a2182c6018f976e581ee649b15bb2b5ccb99dd8ae1becd74a5d": {
+    "url": "https://www.env.nm.gov/gwqb/permits/",
+    "state": "New Mexico"
+  },
+  "e142c61008a2212504b3524e2a0aadf1f5770041371b6fa4ebb12f4174fbc098": {
+    "url": "https://www.prc.nm.gov/pipeline-safety-bureau/pipeline-safety/",
+    "state": "New Mexico"
+  },
+  "c40fe4b5695381487198d7d88b103cbf8a5120be12db286ad15939ffc5641e9e": {
+    "url": "https://www.nmstatelands.org/divisions/oil-gas-and-minerals/lease-information/",
+    "state": "New Mexico"
+  },
+  "178ce01865bfcc2e1009d23f4cac2f69332ffb083de190e54d6f9c36615033fd": {
+    "url": "https://www.cabq.gov/airquality/air-quality-permits",
+    "state": "New Mexico"
+  },
+  "8f1e5957d5b9bfb506f357b39a939d168d229b4e29d8b62437d0ef63a7f00fe3": {
+    "url": "https://dec.ny.gov/environmental-protection/oil-gas",
+    "state": "New York"
+  },
+  "5b31254214cf421a33e1ebbbba7783b55adcae479caee239a978021f5ea3bfd2": {
+    "url": "https://dec.ny.gov/environmental-protection/oil-gas/well-owner-and-applicants-information-center/well-permit-application-process",
+    "state": "New York"
+  },
+  "bd05f29f43fbab815fe82b6813105355c8488f14cde7abf32d6ce7d8e851ca85": {
+    "url": "https://dec.ny.gov/regulatory/permits-licenses/air",
+    "state": "New York"
+  },
+  "433f484bf5b0251a1cc990e04f37c15583681f7104109623b843c43c769fbcad": {
+    "url": "https://dec.ny.gov/environmental-protection/air-quality/controlling-pollution-from-facilities/permits-registrations-fees",
+    "state": "New York"
+  },
+  "747fc500514099c497c89cdb344c6daedad29baf2a9fd685247f401a5521d696": {
+    "url": "https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program",
+    "state": "New York"
+  },
+  "30cd565a8ef7e3340d67e726c6fb7d76102e283e7df565a8b65478df0c7f598a": {
+    "url": "https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program/application-procedures-forms",
+    "state": "New York"
+  },
+  "2fd65697a33d7f8eb1799d7d37e07a816c3e4f114217000305226c9b2c2e0472": {
+    "url": "https://www.epa.gov/npdes-permits/new-york-npdes-permits",
+    "state": "New York"
+  },
+  "6bce05586a7c4ae85af3b2313ff6e19444ec4ef6fee3cadec83612f30bc5ae38": {
+    "url": "https://dps.ny.gov/nys-pipeline-safety-program",
+    "state": "New York"
+  },
+  "f8aca580145299f037b63f3721d0b615c32a3915635f6617aa39e08a551e2b8e": {
+    "url": "https://www.deq.nc.gov/energy-climate/oil-and-gas-program",
+    "state": "North Carolina"
+  },
+  "81866e1736a59386c0445099af61528df8a4ba6e785f77543b8a8fb379490d5f": {
+    "url": "https://www.deq.nc.gov/energy-climate/oil-and-gas-program/nc-oil-and-gas-commission",
+    "state": "North Carolina"
+  },
+  "d28bd1846919fcfc7fae0d4a11eecfcd0b2b2b53616ea570121cd3f82c48af06": {
+    "url": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-permitting",
+    "state": "North Carolina"
+  },
+  "80ce812d22d3b07c76df8f3670b9c9bdca25dac96e08363b7df50a85d4faf91a": {
+    "url": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-planning/air-quality-rules-regulations/rules/section-0500-title-v-procedures",
+    "state": "North Carolina"
+  },
+  "2400c6a7ecbfd5101e028f14551ec37c4a156bf52e15c8b53b0f9cee50c753b1": {
+    "url": "https://www.deq.nc.gov/about/divisions/water-resources/water-quality-permitting/npdes-wastewater",
+    "state": "North Carolina"
+  },
+  "8307adad7c1c7d14ecceb0783f6c73f8f457fc56c029e8cd8347cab34f3ca991": {
+    "url": "https://www.epa.gov/npdes-permits/north-carolina-npdes-permits",
+    "state": "North Carolina"
+  },
+  "973c371fcb319b8c3f4f2919e060c3333e3cccc3dc2e73f61de693468dbcec5e": {
+    "url": "https://www.ncuc.gov/industries/naturalgas/pipelinesafety.html",
+    "state": "North Carolina"
+  },
+  "c7875dc4e2e69f366b5c25592215b6ab30237062dc427484d358a62860bacb36": {
+    "url": "https://airquality.mecknc.gov/",
+    "state": "North Carolina"
+  },
+  "ec60bad7cd985adea7acd4e8cdd7d06d526229fda93e0059a69ec1def1dafc88": {
+    "url": "https://www.forsyth.cc/eap/permitting.aspx",
+    "state": "North Carolina"
+  },
+  "b685122598cb77ec6db4634d72a120502c319819882fef8bb90a3e4f6f536548": {
+    "url": "https://www.dmr.nd.gov/oilgas/",
+    "state": "North Dakota"
+  },
+  "fb5d0a80724383839f2686b58f194412898cb035dfb02ba471475ebc9b851d3f": {
+    "url": "https://deq.nd.gov/aq/permitting/",
+    "state": "North Dakota"
+  },
+  "0803e46cfb8d4547350a189631c826f988d04b06cd8fc22cc58b2d98fe32d3d4": {
+    "url": "https://deq.nd.gov/WQ/2_NDPDES_Permits/",
+    "state": "North Dakota"
+  },
+  "70f3503e14a181e1f7d5114f3f98be3597453ab028e1befaeef1d3f4262f843d": {
+    "url": "https://psc.nd.gov/jurisdiction/pipelines/",
+    "state": "North Dakota"
+  },
+  "f3e9335f8f27019902911a897236f3f9c7476abb4eeae1a48228ee9c4eb259cb": {
+    "url": "https://www.land.nd.gov/minerals-management",
+    "state": "North Dakota"
+  },
+  "86932c0f71940c657b484eb09a226997536bfea3fa9bbb31ac2e7e9a7ba1f850": {
+    "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas",
+    "state": "Ohio"
+  },
+  "a4fef42bd5fe7eed31bcc165c56c294e254a03b87227c47ae4214b7e669c590a": {
+    "url": "https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits",
+    "state": "Ohio"
+  },
+  "2e55a564fc2ae94dae7fd172c0c87f87192941d71af996d3e480de055e2130a5": {
+    "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application",
+    "state": "Ohio"
+  },
+  "1479901cce01302aabfa197d2a2b9c458896252f4e7bd38d520cde0215f94078": {
+    "url": "https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission",
+    "state": "Ohio"
+  },
+  "e2b221405a5a3f0e3b21b2bf710f19e07330f0441047652d7a98145e00c2dd7b": {
+    "url": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit",
+    "state": "Ohio"
+  },
+  "9dc57d1a6862f098577173d93a5b23cca77fa29eabd54beb3a8e7a9915d794dd": {
+    "url": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting",
+    "state": "Ohio"
+  },
+  "34ae1357186da79a0a9f211076a59e441ec70e55f7e0b92ad208b83b8bb929fd": {
+    "url": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits",
+    "state": "Ohio"
+  },
+  "8748c94fdfaae411a9f5d82c62f0cce1aec44e6de6a5f2696835b70e56c97ad0": {
+    "url": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits",
+    "state": "Ohio"
+  },
+  "d6decc2eb9c552d335502afa83383a5659429ed4fdb373f7ee2591911f62ca49": {
+    "url": "https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio",
+    "state": "Ohio"
+  },
+  "0b84f692f3cb9bceb3e004b94db3a84ec8cafab7ab3fd06d92963afb16cf07d8": {
+    "url": "https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements",
+    "state": "Ohio"
+  },
+  "e3b9aa6aa95b9387ae6f4fcad06caece9f2891eddca01971c407dda8e0f57b53": {
+    "url": "https://www.southwestohioair.org/special_programs/permits.php",
+    "state": "Ohio"
+  },
+  "0afc6c98ba85dfc1a054c0621e78e8a7813a07dc047835ba3789e081b8b9314c": {
+    "url": "https://www.clevelandhealth.org/programs/air/permitting/",
+    "state": "Ohio"
+  },
+  "9ca63c54278ceec115554a4bb27da6e830240672a7faa5c332c065fefb5c72a1": {
+    "url": "https://oklahoma.gov/occ/divisions/oil-gas.html",
+    "state": "Oklahoma"
+  },
+  "2492868107587bc765125ac74804909cacf0181780f80e05736e8d36635ea03d": {
+    "url": "https://oklahoma.gov/occ/divisions/public-utility/pipeline-safety.html",
+    "state": "Oklahoma"
+  },
+  "b9584f144d09cd6a973d64a0066f23fb6173ff6e267439a88523b6a8ee5c6319": {
+    "url": "https://www.deq.ok.gov/air-quality-division/air-permits/",
+    "state": "Oklahoma"
+  },
+  "feffeceb09e8829769573eaf44cf4c004ee9709ee7eeab8df0c7582ad6bb21ae": {
+    "url": "https://www.deq.ok.gov/water-quality-division/permitting/",
+    "state": "Oklahoma"
+  },
+  "bc4952091bbef76fb28a1cf5a28c93f2d500fd6fb0e1c51da94ed41859d4214c": {
+    "url": "https://clo.ok.gov/services/minerals-leasing/",
+    "state": "Oklahoma"
+  },
+  "a603102d8fb8774d99fcc81cac8ef55a90e0e610e601e8119b8f75c9b030d21c": {
+    "url": "https://www.oregon.gov/puc/safety/pages/gas-pipeline-safety.aspx",
+    "state": "Oregon"
+  },
+  "e6439500d7812033ef195e5f4d3dae17dbe8de4e015360a3c792c8b117e55cbd": {
+    "url": "https://www.oregon.gov/deq/aq/aqpermits/pages/default.aspx",
+    "state": "Oregon"
+  },
+  "f6e5be08fee02317bc1a94636498e6cb1ddf7fa824bc8e07c1d1f484a57c3f84": {
+    "url": "https://www.oregon.gov/deq/aq/aqpermits/pages/tvrule.aspx",
+    "state": "Oregon"
+  },
+  "9825836ae3cc1854b405040fa1506da430ae150391e9a5653a4d556f75bc1066": {
+    "url": "https://www.lrapa-or.gov/air-quality-protection/permitting-lane-county-sources/",
+    "state": "Oregon"
+  },
+  "31734480630180e81d14a553763243f0da3d5d760169d9bf7335da4b7ef6e7ed": {
+    "url": "https://www.lrapa-or.gov/forms/",
+    "state": "Oregon"
+  },
+  "d7be93f76259f6b1e915774712b0802c1098601a2e6cd9b6752505954159c826": {
+    "url": "https://www.oregon.gov/deq/wq/wqpermits/pages/default.aspx",
+    "state": "Oregon"
+  },
+  "3f43a747e5d7cc7cfba412370448d3bcec1e1eb1263185fe9c7ed45cc9604408": {
+    "url": "https://www.oregon.gov/deq/permits/pages/npdeswpcf-in-ydo.aspx",
+    "state": "Oregon"
+  },
+  "be318dd161897681250989112982cc1562d798792c9f9978fb7dab065f27fd5b": {
+    "url": "https://www.epa.gov/npdes-permits/oregon-npdes-permits",
+    "state": "Oregon"
+  },
+  "03855d2e332696a205c14229114a1baf14d9c53130a5ea20044a16d6e12bb22c": {
+    "url": "https://www.oregon.gov/deq/get-involved/pages/public-notices.aspx",
+    "state": "Oregon"
+  },
+  "b3f2b579259813e214a5008992b6f5c71ef3d03d9ce93ce4f5085c2b3ff463c7": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-authorities-oregon",
+    "state": "Oregon"
+  },
+  "335a7918ccee602ae124d7a944692daba25898d0096a5afb741e64f3edac7ee9": {
+    "url": "https://www.oregon.gov/lcd/ocmp/pages/federal-consistency.aspx",
+    "state": "Oregon"
+  },
+  "a7fa91ce738154f93a4c84073888c2f82ff69eee84fa2c265f1911cab1cbb4e7": {
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas.html",
+    "state": "Pennsylvania"
+  },
+  "35a67e9499be8baaffd50c0b9ba42d18bdb9c24217a100cf10ddf81d7e299449": {
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/business/air-quality-permits.html",
+    "state": "Pennsylvania"
+  },
+  "988e3d3426d993e2daf213e232c80735bbbae143047aff0d988c1776c8374cba": {
+    "url": "https://www.pa.gov/services/dep/water/clean-water/apply-for-national-pollutant-discharge-elimination-system-npdes-permits.html",
+    "state": "Pennsylvania"
+  },
+  "722639d120c5e778996ce47276981cbe75cb08ef8d1320d4d1098da61d5e181b": {
+    "url": "https://www.puc.pa.gov/pipeline-safety/jurisdiction-regulations/",
+    "state": "Pennsylvania"
+  },
+  "a04ceed1663e677df8623badbf5de98a7e1cbbd370472871b47c3bc05b15145a": {
+    "url": "https://www.puc.pa.gov/pipeline-safety/act-127-pipeline-act/",
+    "state": "Pennsylvania"
+  },
+  "d61b4ff6c630e9f9abdb6f14f5f2664902209d7f391e3a650f75e6b895f2d416": {
+    "url": "https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/natural-gas-drilling-impact.html",
+    "state": "Pennsylvania"
+  },
+  "a47e24c4f1a061d0b35ddc3ee6da0b7e284785e40268df8ed05f4b58877383fe": {
+    "url": "https://www.alleghenycounty.us/Services/Health-Department/Air-Quality/Air-Quality-Permitting",
+    "state": "Pennsylvania"
+  },
+  "12ff38a47b4f7f1d3aea7ed6f4224d02679cf482dc7bb6814676c28f6b01612d": {
+    "url": "https://www.phila.gov/documents/air-management-services-permits-and-licenses/",
+    "state": "Pennsylvania"
+  },
+  "ffcd4f1e73f4770f72eaeb1f386d5bbd425af2119922e756dc1f798b2cc33796": {
+    "url": "https://ripuc.ri.gov/utility-information/natural-gas/ridpuc-pipeline-safety",
+    "state": "Rhode Island"
+  },
+  "e47c5f99f36578c764d3b57d3826c680778d5041671c6c943dfea61d848f0f2e": {
+    "url": "https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits",
+    "state": "Rhode Island"
+  },
+  "984da731086d93b106941afd30ecea8f1dc82dab5748cdf7040f6572a16d95fa": {
+    "url": "https://dem.ri.gov/environmental-protection-bureau/air-resources/air-permits/operating-permits",
+    "state": "Rhode Island"
+  },
+  "325d2837b558ff70ab963e8a965774c2d669b177006768c08f635021da89244e": {
+    "url": "https://dem.ri.gov/environmental-protection-bureau/water-resources/permitting/ripdes",
+    "state": "Rhode Island"
+  },
+  "feb2e1a2681eeacfffb74f37fc4e02d4b26af6438c901cb4055ac9b4e8cc07d6": {
+    "url": "https://www.epa.gov/npdes-permits/rhode-island-npdes-permits",
+    "state": "Rhode Island"
+  },
+  "2a0c0a0e7e49091c2033eabda8883a8231c80eb838fbe0d5a32507e38ab33779": {
+    "url": "https://www.crmc.ri.gov/applicationforms.html",
+    "state": "Rhode Island"
+  },
+  "2532aa14a14c3598542165e03cf52bec1072ba0e3d0e04b35b0cd1778465cb70": {
+    "url": "https://www.crmc.ri.gov/aboutcrmc.html",
+    "state": "Rhode Island"
+  },
+  "a72c3b5b992c4fdbf1266d332d090d0a80b7b41a9e651fc25c319f1df1ef6caa": {
+    "url": "https://des.sc.gov/regulations/oil-and-gas-exploration-drilling-and-production",
+    "state": "South Carolina"
+  },
+  "e3e9258a784055f3cef025db4ec600ea5be894d1e7d7d6e37432585486311044": {
+    "url": "https://des.sc.gov/sites/des/files/Library/Regulations/R.121-8.0_121-8.28.pdf",
+    "state": "South Carolina"
+  },
+  "1fb28d39298b2d273b27cbde92ba2c3fa48497c68db80f2622ee1460ca37ea99": {
+    "url": "https://www.scstatehouse.gov/code/t48c043.php",
+    "state": "South Carolina"
+  },
+  "7ffed4df7d18f0bc062292e514a6a595af9eed47fdbd09f2f175c727e5c80e89": {
+    "url": "https://des.sc.gov/programs/bureau-air-quality/air-quality-permits",
+    "state": "South Carolina"
+  },
+  "09f3fbad43e7d7fa97394f82f27995359368a022502b6c8866e60b3f518accc2": {
+    "url": "https://des.sc.gov/programs/bureau-air-quality/air-quality-permits/operating-permits-air",
+    "state": "South Carolina"
+  },
+  "a035faf8952058f714e7da541ac28ba5f4ddf828118b15d05a7eb446ad080272": {
+    "url": "https://des.sc.gov/permits-regulations/permit-central/all-forms-applications",
+    "state": "South Carolina"
+  },
+  "1551fcdc3928bfaf963aff04c850cf191071e8e6848158f30f38db3be84663c0": {
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes",
+    "state": "South Carolina"
+  },
+  "d1bc34a434686b8fafcf58868c11f519ca593d69873a2d3a5a5d8c0c01f8fa30": {
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-overview",
+    "state": "South Carolina"
+  },
+  "6338f1a0f16badd35b2a7aba504f3e7304bddcd8b11688e9c2c97dc06321e7c4": {
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-general-permits",
+    "state": "South Carolina"
+  },
+  "954c5f76fa5bcea1e55981d49de31b85487e266957b6e6871926f4ceb0271185": {
+    "url": "https://des.sc.gov/programs/bureau-water/national-pollutant-discharge-elimination-system-npdes/npdes-permit-stormwater",
+    "state": "South Carolina"
+  },
+  "f1f56afdc1676702e79defc861e1f044b23924904331b63e132c5dde27070d79": {
+    "url": "https://ors.sc.gov/safety/pipeline-safety",
+    "state": "South Carolina"
+  },
+  "a144c840f151465fb808937096ffc1b27806b979062ef17c26f0055198f071fe": {
+    "url": "https://www.epa.gov/npdes-permits/south-carolina-npdes-permits",
+    "state": "South Carolina"
+  },
+  "c2da8a5ef0e47b4944ad07503760f4657f3061b8b15fa72d42b6bbd99d4827c4": {
+    "url": "https://puc.sd.gov/pipelinesafety/",
+    "state": "South Dakota"
+  },
+  "4f2b2f17535af30f7a591347fca8d287b78474a4d2d1ad58b08b6e11b1b5a12d": {
+    "url": "https://danr.sd.gov/Environment/AirQuality/PermitForms/default.aspx",
+    "state": "South Dakota"
+  },
+  "587103191eb2d3c18f3407f4951bd7d27b0c50a0a28ed5dedb4034ea40aae6ae": {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-south-dakota",
+    "state": "South Dakota"
+  },
+  "800593ae2748d78835accc06752ee379db5245914bebc4a41cd60e25dd9abfa1": {
+    "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/swdpermitting/swdpermitting.aspx",
+    "state": "South Dakota"
+  },
+  "868a117e7a3565e5b490097ae8049c3ccb4f92b23334f5bb54efad847450e512": {
+    "url": "https://www.epa.gov/npdes-permits/south-dakota-npdes-permits",
+    "state": "South Dakota"
+  },
+  "6fb8d9f38666815c15a5ad8a9228ebfcd8d0aeab567ae4279c3ee3492b76a6f4": {
+    "url": "https://danr.sd.gov/public/",
+    "state": "South Dakota"
+  },
+  "25acc81d786ee3c5b615ffe6165ece7254d43f48c2fa531ab0f56bbcb4a22dcb": {
+    "url": "https://www.tn.gov/environment/mineral-geologic.html",
+    "state": "Tennessee"
+  },
+  "2a601cc3752305ceb8da7dbef5c5d67934bffb3cda13fd4f65835611b16f86b7": {
+    "url": "https://www.tn.gov/environment/permit-permits/mineral-geologic.html",
+    "state": "Tennessee"
+  },
+  "d53b0e3d35c47eea193e3d031c14c01e2895f757123c21c69f91d2eba6d52556": {
+    "url": "https://www.tn.gov/environment/about-tdec/fin-financial-responsibility/financial-assurance/fin-financial-instruments-home/fin-oil-gas.html",
+    "state": "Tennessee"
+  },
+  "e05d92b9bd08a97d55c4d2a005599f13f2e2d6181bb0b97c0a748719d443b8ee": {
+    "url": "https://www.tn.gov/environment/permit-permits/air-permits.html",
+    "state": "Tennessee"
+  },
+  "df00277e4570909b751ba0b98d6f0a9a5bc544172ed15531965aba8a09e08319": {
+    "url": "https://www.tn.gov/environment/permit-permits/air-permits/operating/title5-operating.html",
+    "state": "Tennessee"
+  },
+  "28538dedc54ca87b680d01ba724a225f2cf75bf5318a9366a42c52922f80cb89": {
+    "url": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits1/national-pollutant-discharge-elimination-system--npdes--permit.html",
+    "state": "Tennessee"
+  },
+  "fa73b97f2aca086006110dcc13fff3ad0226460754628a4a89f953e0997cb0c5": {
+    "url": "https://www.tn.gov/environment/permit-permits/water-permits1/npdes-permits.html",
+    "state": "Tennessee"
+  },
+  "2cf6c8d067a755a553d4e39cd7fe672a576adcee282d454782cc3a64abfd4ab0": {
+    "url": "https://www.epa.gov/npdes-permits/tennessee-npdes-permits",
+    "state": "Tennessee"
+  },
+  "c89b1ae1982a77528cd41bba8af5e11b4e700b9c0abcf9ed54d190c8f8e22ca1": {
+    "url": "https://www.tn.gov/tpuc/divisions/gas-pipeline-safety-division.html",
+    "state": "Tennessee"
+  },
+  "d6073318bd6e6034356ef6fd05e448b5e30b2c6523a8e13bcd4795a4cb2fcec6": {
+    "url": "https://primis.phmsa.dot.gov/comm/FactSheets/States/TN_State_PL_Safety_Regulatory_Fact_Sheet.htm",
+    "state": "Tennessee"
+  },
+  "d37ac06c23da3290bc14fdf5da53eae290501f78da4ad89a0d03fd1fb2db6231": {
+    "url": "https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-tennessee-board-of-water-quality--oil-and-gas.html",
+    "state": "Tennessee"
+  },
+  "99d91879c79272435d3d8d91deb48e7b0f8489a8d99d7b2a4a9f323ff36e33aa": {
+    "url": "https://www.rrc.texas.gov/oil-and-gas/",
+    "state": "Texas"
+  },
+  "57b81744e1cf2270045f44a32c96c614d0aead44ac5207aa6eac69fc6f5d7d0c": {
+    "url": "https://www.rrc.texas.gov/pipeline-safety/",
+    "state": "Texas"
+  },
+  "57d9bd7c549ab375be8746b33b8ae480b34bffd024c7b9ed62fd09138a0fd499": {
+    "url": "https://www.tceq.texas.gov/permitting/air",
+    "state": "Texas"
+  },
+  "1e603672d54816edf852daece3a70c60622a0b9c6ebe0f3db87dfb423563c0a8": {
+    "url": "https://www.tceq.texas.gov/permitting/wastewater/pretreatment/tpdes_definition.html",
+    "state": "Texas"
+  },
+  "a5049dc546d50d3811ea01661d12e4335dc40e08f8e40983d208678386c66649": {
+    "url": "https://www.glo.texas.gov/energy/mineral-leasing/leasing",
+    "state": "Texas"
+  },
+  "1e77694193a467f92fd223779c3c54eed8950bc3516d922bcd48de41272a8b3f": {
+    "url": "https://www.glo.texas.gov/coastal/oil-spill-prevention-and-response",
+    "state": "Texas"
+  },
+  "f8c5b4e040e581c125aeee7550d9288de30dd72dfa40c53f7f7a1f64d617c868": {
+    "url": "https://www.puc.texas.gov/",
+    "state": "Texas"
+  },
+  "2e03c842a2e33a1c497f55971626a8cd3539fa3aa7213359c971ec33f6645d97": {
+    "url": "https://ogm.utah.gov/",
+    "state": "Utah"
+  },
+  "4a5bc53e2174568738b71213d1a8e5a3fe05419ae29170c93c88efc1599189ae": {
+    "url": "https://deq.utah.gov/air-quality/air-quality-permitting",
+    "state": "Utah"
+  },
+  "7489e2ff7d68189b1ad2b5da8213f0250b9905f5933369a0d44fa8b783358de0": {
+    "url": "https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program",
+    "state": "Utah"
+  },
+  "b09d5a6b1fb4ad92f2040d1e0b065d0ab624216a812d2180d4f20ba0ed59a358": {
+    "url": "https://deq.utah.gov/water-quality/storm-water-permits-updes-permits",
+    "state": "Utah"
+  },
+  "50c980d9a61d94881677c67f9292731db053f9fc734726cfd38262b79845fcbd": {
+    "url": "https://dpu.utah.gov/pipeline-safety/",
+    "state": "Utah"
+  },
+  "de4ce84229c8ae7525428acb1aac45ef72a53b9669ed1001c3e4fdf55e6aa3d6": {
+    "url": "https://trustlands.utah.gov/work-with-us/energy-minerals/",
+    "state": "Utah"
+  },
+  "610325a0a90d2e1538ef556b8c6105096de6af8faa589b21da1d04f4f1fc1ac5": {
+    "url": "https://publicservice.vermont.gov/naturalgas_propane",
+    "state": "Vermont"
+  },
+  "55104d35f874b025122a98455ac45963491dbff1a884aadbddc55d13bea12646": {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-vermont",
+    "state": "Vermont"
+  },
+  "09cbcb210cfef5a753501be8f0ffe8d3be76b66b16efc1467403937482039dff": {
+    "url": "https://anrweb.vt.gov/DEC/AirFacilities/PublicSearch.aspx",
+    "state": "Vermont"
+  },
+  "c403f5df0e1829f0bf8edf293e73db888a01cce562ef88047ad4c10474f4b845": {
+    "url": "https://anronline.vermont.gov/Home/db48e104-7c4c-4d80-9d47-e8d05da3f707",
+    "state": "Vermont"
+  },
+  "a9412f388694cb1217c860b0133cd95081042bc0257781e1855d0f471c2f7540": {
+    "url": "https://www.epa.gov/caa-permitting/title-v-program-evaluations-vermont",
+    "state": "Vermont"
+  },
+  "6922ed1e2319f4d2dc3af7b39d6addf09bf9699204da949f986482762d10b60d": {
+    "url": "https://www.epa.gov/npdes-permits/vermont-npdes-permits",
+    "state": "Vermont"
+  },
+  "9dc5beb2aa22961e0f9e0593b872b6214fb60240d49d01587ba61f952cbcb0dd": {
+    "url": "https://anrweb.vt.gov/Pubdocs/DEC/ENB/ENB_V2/16329-VT%20NPDES%20PGP_Factsheet_2022.pdf",
+    "state": "Vermont"
+  },
+  "ec57537c7580d34a799d1e0cbe16f20b8a34c564adf3e76e838d8df86f8015ae": {
+    "url": "https://enb.vermont.gov/",
+    "state": "Vermont"
+  },
+  "431202b0d537b33c631a70fb77a6347feb27f655f26723f4de1674990f4eefb3": {
+    "url": "https://energy.virginia.gov/gas-oil/gasoil.shtml",
+    "state": "Virginia"
+  },
+  "e0f437071a6a0ec110c4acff4b4ab36bf10f795884b735641429381bd0c40540": {
+    "url": "https://energy.virginia.gov/gas-oil/PermitRequirements.shtml",
+    "state": "Virginia"
+  },
+  "667a636ece281a7f7db766636f00b1e830a2749e2986657ac5e1c0dc047add58": {
+    "url": "https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx",
+    "state": "Virginia"
+  },
+  "0f00ce8fb60c6efd4e99cf053251f108adac6654241852003da4efbe5946a6d3": {
+    "url": "https://energy.virginia.gov/gas-oil/OwnerRights.shtml",
+    "state": "Virginia"
+  },
+  "eedeeed421752d55a621ea6683fdca30a8727c46e0f787196650f8b6b65e90fd": {
+    "url": "https://www.deq.virginia.gov/permits/air",
+    "state": "Virginia"
+  },
+  "7141f1717f3d7bb66608407e2377fdc8421dfb8ba65ff9d4538b8312f6552e76": {
+    "url": "https://www.deq.virginia.gov/permits/air/forms",
+    "state": "Virginia"
+  },
+  "fffba3b4fa7fcb6ff2e67c4667200bbbfbda8ba6a4ff2d5c334ce1f43fbd2f8d": {
+    "url": "https://www.deq.virginia.gov/permits/air/issued-title-v-permits",
+    "state": "Virginia"
+  },
+  "183cb349d915ba74e6bfe81976e834e7a21c015120bd86f616e563e89fea3b2a": {
+    "url": "https://www.deq.virginia.gov/permits/water/surface-waters-vpdes",
+    "state": "Virginia"
+  },
+  "93fbfbbaffe393f45f65440ac8c60c76c3805c5aa35ef448e709297e10637136": {
+    "url": "https://www.deq.virginia.gov/permits/water/ms4",
+    "state": "Virginia"
+  },
+  "19dc7faf57ef49ee7daba37f95b09f6f48b287e87942058f8f44e62dda548ebc": {
+    "url": "https://www.epa.gov/npdes-permits/virginia-npdes-permits",
+    "state": "Virginia"
+  },
+  "f47683c7bb4b4e515528ec0fa15427b0982e534f3ca87bfee6f31341ad021d7a": {
+    "url": "https://www.scc.virginia.gov/regulated-industries/utility-railroad-safety/pipeline-safety/",
+    "state": "Virginia"
+  },
+  "ec19a8ceced8122a087457bb1a8a0ebe90c9f8fa00b932fd832fd85d17dd2947": {
+    "url": "https://www.utc.wa.gov/public-safety/pipeline-safety",
+    "state": "Washington"
+  },
+  "47e60e79a7933735f9c1bab00a400c3c21a0d6382fd410100e2760de813087f0": {
+    "url": "https://ecology.wa.gov/regulations-permits/permits-certifications/air-quality-permits",
+    "state": "Washington"
+  },
+  "12dcb715ceb6570b2674cb93f11eec617df257311ff43faea79a1da08aa4d1b8": {
+    "url": "https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/clean-air-agencies",
+    "state": "Washington"
+  },
+  "581c60e11c21c0d10c388086976894bbade9f62c4ef93381d05ba1950d1a0ddb": {
+    "url": "https://pscleanair.gov/101/Permits-Registration",
+    "state": "Washington"
+  },
+  "8249d967355c347fdf0b6c3496c30146d32aa1f3f2fcea1817ad41e23cf820a6": {
+    "url": "https://spokanecleanair.org/for-business/notice-of-construction/",
+    "state": "Washington"
+  },
+  "67e5e99d1a6afcbdd88add9da147b0b0806b913ea6077b83d0ba5a4026ca1d12": {
+    "url": "https://www.yakimacleanair.org/services/forms.html",
+    "state": "Washington"
+  },
+  "c09d3e896bc287d148a8753711f03ba4b2da2677401fe3fcbc3b654d774318da": {
+    "url": "https://www.orcaa.org/",
+    "state": "Washington"
+  },
+  "008be6a63caddea66b0dd0ec89d2d93fd6b73389525dc3502bf7fdbc86d28a77": {
+    "url": "https://nwcleanairwa.gov/permits-and-services/",
+    "state": "Washington"
+  },
+  "64ea544d60defc414fa9b906b49f55189d4dd89d11903909cf11581cabb2a8d1": {
+    "url": "https://www.swcleanair.gov/permits/",
+    "state": "Washington"
+  },
+  "290f32b53c2bfbe3d701ee4d8abaeb5e1698e0f5f5c492c50cb91a956714dc2d": {
+    "url": "https://bentoncleanair.org/for-business/notice-of-construction/",
+    "state": "Washington"
+  },
+  "ccecdd3ad1cefdfa22951c5c63b343cf0aaddb2b46473c60c1935758f6e9716a": {
+    "url": "https://ecology.wa.gov/water-shorelines/water-quality/water-quality-permits",
+    "state": "Washington"
+  },
+  "8a91d4d82427d969e61a2a145f646f380cc0adfc84f875f202d36d99c61f5b34": {
+    "url": "https://www.epa.gov/npdes-permits/washington-npdes-permits",
+    "state": "Washington"
+  },
+  "a458df89f877de2cd9de73ca43313d7da3559a537702f9a4cbbb3d5c16ca57b5": {
+    "url": "https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/coastal-zone-management/federal-consistency",
+    "state": "Washington"
+  },
+  "d1ab27193a273917e7e752bf43b19d019e5d04e46a4a2aa6ebb9a93fba2bff20": {
+    "url": "https://dep.wv.gov/oil-and-gas",
+    "state": "West Virginia"
+  },
+  "7d7fe49b0663ef882f2c6b5703c6f394fc13bb5d188356010386b6025ae95370": {
+    "url": "https://dep.wv.gov/daq/permitting/",
+    "state": "West Virginia"
+  },
+  "ad2e849927207e6c6daf636e160ce5418425b26648ebdc1ab6054a7d883ab3ed": {
+    "url": "https://dep.wv.gov/WWE/permit/npdes/Pages/default.aspx",
+    "state": "West Virginia"
+  },
+  "a8a65a3ab96d683dab09a1a8471e6afc8f726b004b5cfd2136cb07d93a6a2cfb": {
+    "url": "https://www.psc.state.wv.us/div/gaspipelinesafety.htm",
+    "state": "West Virginia"
+  },
+  "4e4d5954457003254184453cdc9252a2a16fe0be23eb9f41c17380a1a9e1d4cc": {
+    "url": "https://ogcc.wv.gov/",
+    "state": "West Virginia"
+  },
+  "801793e49e0c9c9650d6f84d20b1577839104d92be07c0d3a0af691704182988": {
+    "url": "https://wvdnr.gov/lands-waters/office-of-lands-and-streams/",
+    "state": "West Virginia"
+  },
+  "da751b7bcc61d97b062a105d03aaff97a03910792413271821d98f987fa6c0d6": {
+    "url": "https://psc.wi.gov/Pages/ServiceType/Energy/PipelineSafetyProgram.aspx",
+    "state": "Wisconsin"
+  },
+  "a6b323fb3c7828512afc68c88bffb47440eda16e5047821c65b92e1b5b890cca": {
+    "url": "https://dnr.wisconsin.gov/topic/AirPermits",
+    "state": "Wisconsin"
+  },
+  "a56d8ac586c0f78c33a585b8d20e4d7fc666bf8d61bbd7d7c8cbd3e0209435cb": {
+    "url": "https://dnr.wisconsin.gov/topic/AirPermits/Options.html",
+    "state": "Wisconsin"
+  },
+  "43189196fa367e4b86ecfa8e436f01c38e77375ec53542c97847d641593917d3": {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-wisconsin",
+    "state": "Wisconsin"
+  },
+  "1a17de80bcb047972a57df98f212fd0507d01be590d1c1e05f12cd0fb9059af6": {
+    "url": "https://dnr.wisconsin.gov/topic/AirPermits/PublicInvolvement",
+    "state": "Wisconsin"
+  },
+  "060fc559328467f765239f3b9825a42404f1374f19acbdbd99289037cd56d1a2": {
+    "url": "https://dnr.wisconsin.gov/topic/Wastewater/Permits.html",
+    "state": "Wisconsin"
+  },
+  "022bf004a24c65b8156c22b1b2d192e3b8d1da640dbbce49e292a3c2e5adc671": {
+    "url": "https://dnr.wisconsin.gov/topic/Wastewater/PermitLists.html",
+    "state": "Wisconsin"
+  },
+  "a71f29dc2af900b304630d401e6390f82e95f1406e7f1ec2f7bdf6410168916a": {
+    "url": "https://www.epa.gov/npdes-permits/wisconsin-npdes-permits",
+    "state": "Wisconsin"
+  },
+  "8b76bfe408f89add31c724c5b46dc69924d0e8f2f77671ff8ca999c175d64889": {
+    "url": "https://doa.wi.gov/Pages/LocalGovtsGrants/CoastalFederalConsistency.aspx",
+    "state": "Wisconsin"
+  },
+  "32b094f0c6bc956be73b3857ca6938ca592be828d55c663be4d3e0a665cfe8eb": {
+    "url": "https://wogcc.wyo.gov",
+    "state": "Wyoming"
+  },
+  "92b3a202bdafe7e9d3763be10b631f86835da9875386c08b0adcc3dde58df1c6": {
+    "url": "https://deq.wyoming.gov/aqd/",
+    "state": "Wyoming"
+  },
+  "9a11deb6c189be432d29b173063bf3dcc6dd1522a69e3473fd1064f043566bdc": {
+    "url": "https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/",
+    "state": "Wyoming"
+  },
+  "5ff6af98eeb3bb6b19b8a28be009d7f9883533b6f8693b757aeb19b98bd3536e": {
+    "url": "https://psc.wyo.gov/pipeline",
+    "state": "Wyoming"
+  },
+  "6b1f7ea9761d102f8eccf7f611160cc23fb6affe4f202af15e20b5451967aa73": {
+    "url": "https://lands.wyo.gov/trust-land-management/mineral-leasing/oil-gas-leases",
+    "state": "Wyoming"
+  }
 }
