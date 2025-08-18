@@ -1,0 +1,26 @@
+Regulatory Monitor GPT – 300-Word Script for Descript
+
+Voiceover Script:
+
+Regulatory Monitor GPT is your AI-powered assistant for tracking oil, gas, and energy regulations — across all 50 U.S. states. Designed for compliance teams, policy analysts, and developers, it monitors hundreds of government websites so you don’t have to.
+
+Every day, agencies quietly update permitting pages, environmental rules, and safety guidance. But unless you're constantly checking — you miss critical changes. This tool automates the process end-to-end.
+
+Here’s how it works.
+
+We maintain a curated list of URLs from environmental and energy-related agencies. Our Python-based scraper checks each one, extracts the relevant content, and uses cryptographic hashing to detect updates. If something changes — even a single sentence — it’s flagged, saved, and exported.
+
+Each website is also categorized with smart tags like air, water, permits, pipeline, and more. These tags make it easy to filter, search, and report on the data that matters most to your team.
+
+Results are saved per state in JSON, CSV, or Markdown formats — and include content diffs, timestamps, and summaries. You can view changes, monitor trends, and even trigger notifications.
+
+And with our custom GPT integration, you can ask questions like:
+
+“What regulatory sites changed in Texas this week?”
+“Show me air quality updates in California.”
+
+This isn’t just a scraper — it’s a full compliance intelligence system with API access, OpenAPI integration, and GPT-native usability.
+
+Whether you’re a legal advisor, environmental officer, or regulatory analyst — Regulatory Monitor GPT helps you stay ahead of state-level compliance updates, effortlessly.
+
+Ask us for a demo, or try it right now inside ChatGPT.

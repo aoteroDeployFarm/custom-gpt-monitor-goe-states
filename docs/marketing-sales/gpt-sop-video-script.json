@@ -1,0 +1,54 @@
+{
+  "title": "Regulatory Monitor GPT — Overview",
+  "duration": "2:40",
+  "scenes": [
+    {
+      "id": "scene1",
+      "title": "Intro",
+      "start": "00:00",
+      "end": "00:20",
+      "visuals": "Logo animation, map of U.S. states with energy icons",
+      "voiceover": "Introducing Regulatory Monitor GPT — your AI-powered assistant for tracking energy, oil, and gas regulations across all 50 U.S. states. Whether you're a compliance lead, policy analyst, or developer, this tool helps you stay informed — automatically."
+    },
+    {
+      "id": "scene2",
+      "title": "Problem + Vision",
+      "start": "00:20",
+      "end": "00:45",
+      "visuals": "Real government websites, PDF docs, manual tracking tools",
+      "voiceover": "Monitoring regulatory websites is tedious. Pages change without notice, and staying compliant across multiple agencies and states is nearly impossible — until now. With Regulatory Monitor GPT, we scan key regulatory sites, detect changes, and surface exactly what matters — so your teams don’t miss a beat."
+    },
+    {
+      "id": "scene3",
+      "title": "How It Works",
+      "start": "00:45",
+      "end": "01:30",
+      "visuals": "API diagrams, terminal commands, tag-based filters, GPT interface",
+      "voiceover": "Under the hood, this system uses a combination of Python-based scrapers and a live API to monitor hundreds of URLs — from air quality boards to energy commissions. Each change is hashed, diffed, and exported in real time — with tags like air, permits, pipeline, or waste — making it searchable and reportable. And with our custom GPT assistant, you can ask questions like: 'What regulatory sites in Texas changed this week?' or 'List all updates related to water in California.' All powered by live data from your own deployment."
+    },
+    {
+      "id": "scene4",
+      "title": "Outputs + Use Cases",
+      "start": "01:30",
+      "end": "02:00",
+      "visuals": "JSON, CSV, Markdown exports; dashboard view; emails",
+      "voiceover": "Results are exported in formats your teams use — JSON, CSV, or Markdown — and stored per state with historical content and diffs. You can plug this into GitHub, Slack, or your internal dashboard to get real-time alerts when updates are detected."
+    },
+    {
+      "id": "scene5",
+      "title": "Integration + API Access",
+      "start": "02:00",
+      "end": "02:20",
+      "visuals": "GPT action config, OpenAPI spec, endpoint usage",
+      "voiceover": "Need to scale? The built-in API lets you integrate directly with your own GPT, frontend, or alert system — using a fully documented OpenAPI 3.1 spec."
+    },
+    {
+      "id": "scene6",
+      "title": "Call to Action",
+      "start": "02:20",
+      "end": "02:40",
+      "visuals": "Logo, tagline, contact link",
+      "voiceover": "Ready to bring compliance into the AI era? Ask us for a demo, or try it live in ChatGPT under Regulatory Monitor GPT. This is regulatory intelligence — automated."
+    }
+  ]
+}
