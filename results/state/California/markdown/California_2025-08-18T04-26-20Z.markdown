@@ -1,0 +1,90 @@
+## https://www.conservation.ca.gov/calgem
+- Updated: False
+- Last Checked: 2025-08-18T04:26:09.418050Z
+- Summary: No change detected
+
+## https://www.energy.ca.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:10.411966Z
+- Summary: No change detected
+
+## https://www.cpuc.ca.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:15.232619Z
+- Summary: No change detected
+
+## https://ww2.arb.ca.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:15.439120Z
+- Summary: No change detected
+
+## https://calepa.ca.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:15.774023Z
+- Summary: None
+
+## https://www.slc.ca.gov/oil-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:26:15.893028Z
+- Summary: None
+
+## https://www.dir.ca.gov/dosh/
+- Updated: True
+- Last Checked: 2025-08-18T04:26:16.250334Z
+- Summary: Updated
+
+## https://www.waterboards.ca.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:16.521146Z
+- Summary: No change detected
+
+## https://osfm.fire.ca.gov/divisions/pipeline-safety-division/
+- Updated: False
+- Last Checked: 2025-08-18T04:26:16.695427Z
+- Summary: None
+
+## http://www.aqmd.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:17.359782Z
+- Summary: No change detected
+
+## https://www.baaqmd.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:18.049630Z
+- Summary: No change detected
+
+## https://www.valleyair.org
+- Updated: False
+- Last Checked: 2025-08-18T04:26:18.454714Z
+- Summary: No change detected
+
+## http://www.airquality.org
+- Updated: False
+- Last Checked: 2025-08-18T04:26:18.934590Z
+- Summary: No change detected
+
+## https://www.sdapcd.org
+- Updated: False
+- Last Checked: 2025-08-18T04:26:19.876007Z
+- Summary: No change detected
+
+## https://www.vcapcd.org
+- Updated: False
+- Last Checked: 2025-08-18T04:26:20.087529Z
+- Summary: No change detected
+
+## https://www.ourair.org
+- Updated: False
+- Last Checked: 2025-08-18T04:26:20.292085Z
+- Summary: None
+
+## https://www.mbard.org
+- Updated: False
+- Last Checked: 2025-08-18T04:26:20.554460Z
+- Summary: No change detected
+
+## https://www.mdaqmd.ca.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:20.634941Z
+- Summary: None
+
