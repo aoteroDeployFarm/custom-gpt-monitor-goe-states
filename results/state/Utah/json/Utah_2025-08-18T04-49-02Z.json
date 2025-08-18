@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://ogm.utah.gov/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:00.804683Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://ogm.utah.gov/"
+  },
+  {
+    "url": "https://deq.utah.gov/air-quality/air-quality-permitting",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:01.055640Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://deq.utah.gov/air-quality/air-quality-permitting"
+  },
+  {
+    "url": "https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:01.297129Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program"
+  },
+  {
+    "url": "https://deq.utah.gov/water-quality/storm-water-permits-updes-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:01.423060Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://deq.utah.gov/water-quality/storm-water-permits-updes-permits"
+  },
+  {
+    "url": "https://dpu.utah.gov/pipeline-safety/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:01.972375Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://trustlands.utah.gov/work-with-us/energy-minerals/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:02.210582Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://trustlands.utah.gov/work-with-us/energy-minerals/"
+  }
+]

@@ -1,0 +1,30 @@
+## https://ogm.utah.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:49:04.210132Z
+- Summary: None
+
+## https://deq.utah.gov/air-quality/air-quality-permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:49:04.303977Z
+- Summary: None
+
+## https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program
+- Updated: False
+- Last Checked: 2025-08-18T04:49:04.515746Z
+- Summary: None
+
+## https://deq.utah.gov/water-quality/storm-water-permits-updes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:49:04.724553Z
+- Summary: None
+
+## https://dpu.utah.gov/pipeline-safety/
+- Updated: False
+- Last Checked: 2025-08-18T04:49:05.216991Z
+- Summary: No change detected
+
+## https://trustlands.utah.gov/work-with-us/energy-minerals/
+- Updated: False
+- Last Checked: 2025-08-18T04:49:05.342696Z
+- Summary: None
+
