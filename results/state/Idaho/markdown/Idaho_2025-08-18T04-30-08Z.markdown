@@ -1,0 +1,30 @@
+## https://ogcc.idaho.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:58.564700Z
+- Summary: No change detected
+
+## https://www.deq.idaho.gov/permits/air-quality-permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:30:03.231119Z
+- Summary: No change detected
+
+## https://www.deq.idaho.gov/water-quality/wastewater/permit-options/
+- Updated: False
+- Last Checked: 2025-08-18T04:30:06.924830Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/idaho-npdes-program-authorization
+- Updated: False
+- Last Checked: 2025-08-18T04:30:07.038664Z
+- Summary: No change detected
+
+## https://puc.idaho.gov/Page/Utility/8
+- Updated: False
+- Last Checked: 2025-08-18T04:30:07.188763Z
+- Summary: No change detected
+
+## https://www.idl.idaho.gov/leasing/oil-gas-leasing/
+- Updated: False
+- Last Checked: 2025-08-18T04:30:08.207965Z
+- Summary: No change detected
+
