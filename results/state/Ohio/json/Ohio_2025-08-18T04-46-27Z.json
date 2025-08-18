@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:24.377725Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas"
+  },
+  {
+    "url": "https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:24.548870Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits"
+  },
+  {
+    "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:24.726835Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application"
+  },
+  {
+    "url": "https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:24.917473Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission"
+  },
+  {
+    "url": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:25.236686Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit"
+  },
+  {
+    "url": "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:25.435434Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting"
+  },
+  {
+    "url": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:25.661604Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits"
+  },
+  {
+    "url": "https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:25.864021Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits"
+  },
+  {
+    "url": "https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:26.094083Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio"
+  },
+  {
+    "url": "https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:26.260470Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements"
+  },
+  {
+    "url": "https://www.southwestohioair.org/special_programs/permits.php",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:46:26.549499Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.clevelandhealth.org/programs/air/permitting/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:46:27.252212Z",
+    "diffSummary": "Updated"
+  }
+]

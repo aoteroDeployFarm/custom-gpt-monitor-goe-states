@@ -1,0 +1,60 @@
+## https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/division-of-oil-and-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:46:30.644692Z
+- Summary: None
+
+## https://ohiodnr.gov/wps/portal/gov/odnr/buy-and-apply/regulatory-permits/oil-and-gas-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:46:30.847687Z
+- Summary: None
+
+## https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/oil-gas/oil-gas-resources/permit-application
+- Updated: False
+- Last Checked: 2025-08-18T04:46:31.021815Z
+- Summary: None
+
+## https://ohiodnr.gov/business-and-industry/municipalities-and-public-entities/commissions-and-councils/oil-gas-land-management-commission
+- Updated: False
+- Last Checked: 2025-08-18T04:46:31.213134Z
+- Summary: None
+
+## https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit
+- Updated: False
+- Last Checked: 2025-08-18T04:46:31.450980Z
+- Summary: None
+
+## https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:46:31.648462Z
+- Summary: None
+
+## https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/npdes-general-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:46:31.832647Z
+- Summary: None
+
+## https://epa.ohio.gov/divisions-and-offices/surface-water/permitting/individual-wastewater-discharge-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:46:32.016065Z
+- Summary: None
+
+## https://puco.ohio.gov/utilities/gas/resources/natural-gas-pipeline-safety-in-ohio
+- Updated: False
+- Last Checked: 2025-08-18T04:46:32.190565Z
+- Summary: None
+
+## https://puco.ohio.gov/utilities/gas/resources/gps-reporting-requirements
+- Updated: False
+- Last Checked: 2025-08-18T04:46:32.373837Z
+- Summary: None
+
+## https://www.southwestohioair.org/special_programs/permits.php
+- Updated: False
+- Last Checked: 2025-08-18T04:46:32.581477Z
+- Summary: No change detected
+
+## https://www.clevelandhealth.org/programs/air/permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:32.774661Z
+- Summary: No change detected
+

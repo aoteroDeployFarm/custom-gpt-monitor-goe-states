@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+Air Quality - Permitting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Air Quality - Permitting:
+
+Cleveland Department of Public Health
+
+
+Cleveland Area Ozone Reclassification:
+
+
+The Cleveland area does not currently meet the 8-hour National Ambient Air Quality Standard for ozone as required by the Clean Air Act. The area is currently classified as “moderate nonattainment” and may be reclassified to “serious nonattainment” as a result of continued ozone levels. This reclassification will require rule changes in Ohio’s Administrative Code for certain stationary sources in the area, which is required by the Clean Air Act. In preparation for these potential rule changes, Ohio EPA has begun early stakeholder outreach efforts and is accepting public comment.
+
+Cleveland Division of Air Quality held two information sessions to inform residents and stakeholders on the current status of ozone in the Cleveland area and potential changes to the Ohio Administrative Code as a result. The information sessions included a presentation by the Ohio EPA Assistant Chief of the Air Pollution Control Division, Jennifer Van Vlerah.
+ 
+ 
+
+View the presentation slides Click Here!
+
+
+
+
+
+Cleveland Division of Air Quality (CDAQ) prepares Ohio EPA Air permits for stationary sources of air pollution (including power plants, gas stations, incinerators, and other fixed sources of air pollution). Permits are required to be obtained before construction begins, and to operate the source. The permits developed by the permitting section apply federal, state and local laws to control air pollution from regulated sources.  State of Ohio Air Permits are different then the City of Cleveland Air Permits which are required under the City’s Codified Ordinances.
+
+Additionally, CDAQ processes Sandblasting applications for the City of Cleveland, Asbestos Notifications for Cuyahoga County, and Open Burning Applications for Cuyahoga County.
+City of Cleveland Air Permit
+
+The City of Cleveland requires local air permits for certain types of air pollution sources in accordance with Chapters 257 and 259 of the Codified Ordinance of the City of Cleveland.  This is a different permit then the Ohio EPA issued air permits.  The local ordinance requires facilities to obtain a permit to install, a permit to modify, and a permit to operate any air contaminant source within City of Cleveland.  An owner or operator is required to apply for a permit prior to commencing installation and must renew the permit on an annual basis.
+City Permit Application
+City of Cleveland Sandblasting Application:
+
+In accordance with Section 277.11 of the City of Cleveland Air Pollution Control Ordinances, no person shall cause or allow the sandblasting and cleaning of a building or structure without first obtaining a permit to sandblast and/or clean from the Commissioner.
+Sand Blasting Application
+Cuyahoga County Open Burning:
+
+Open burning is anytime a fire is lit outdoors.  The City of Cleveland, Cuyahoga County and State of Ohio have adopted rules that place limitations what can/cannot be burned in order to protect citizens from exposure to smoke.  There are a few exceptions to the rules and permits can be obtained in certain circumstances.  The following materials can never be burned in the City of Cleveland: yard waste, materials containing rubber and/or other types of petroleum products, pressure treated or painted wood, garbage of any kind, and dead animals.
+Open Burning Applicaiton
+Notification of Demolition and Renovation/Abatement (Asbestos) – Cuyahoga County
+
+Ohio EPA requires the notification of demolition and renovation form for every facility.  The form must be submitted by the owner or operator who supervises the demolition or renovation of a facility.
+Asbestos Notification
+Do I need an Ohio EPA Air permit?
+
+Cleveland Division of Air Quality prepares Ohio EPA Air permits to stationary sources of air pollution (including power plants, gas stations, incinerators, and other fixed sources of air pollution). Permits are required to be obtained before construction begins, and to operate the source. The permits developed by the permitting section apply federal, state and local laws to control air pollution from regulated sources.
+
+
+For the Ohio EPA air permit requirement, here is the order of options that can be considered for each emissions unit (e.g., roadways, storage piles, engines, spray booths, etc.):
+
+Exemptions:
+
+ If the emissions unit meets one of the exemptions noted below, then no Ohio EPA air permit is needed.
+
+De Minimis exemption from Ohio Administrative Code (OAC) rule 3745-15-05: Click Here!
+
+This exemption basically states that if the uncontrolled maximum potential to emit based on 24 hrs/day of operation for each criteria pollutant is less than 10 lbs/day, and if hazardous air pollutants (HAP) are less than one ton/year, then no Ohio EPA air permit is needed. If the actual emissions (e.g., based on operating less than 24 hours per day) are less than 10 lbs/day and HAP is less than one ton/year, then the emissions unit could still qualify for the De Minimis exemption but the company would have to maintain daily records to prove that it qualifies for De Minimis.
+List of permanent exemptions in OAC rule 3745-31-03(B)(1): Click Here!
+
+The above document is a searchable PDF document so you can also search for the type of emissions unit to see if there is a possible permanent exemption.
+
+If the emissions unit does not qualify for one of the exemptions noted above, then it will be necessary to obtain an Ohio EPA air permit for the emissions unit.
+
+Permit by Rule:
+
+
+
+
+
+The Permit by Rule (PBR) is only available for certain types of emissions units.  At the link below, click on the “Forms and Instructions” tab to view the options that are available.  In order to qualify for the Permit by Rule option, the company would need to submit the Permit by Rule notification form which can be found at the following location:
+https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/permit-by-rule-pbr
+
+The PBR notification form should be submitted to the Cleveland Division of Air Quality for processing.  Please note that instead of a permit being issued, the company is required to comply with the permit that is established in the rule.  The Permits by Rule are currently contained in OAC rule 3745-31-03 at the link above in 1.b., but Ohio EPA is planning to create a separate chapter for the Permit by Rule.  After we receive the PBR notification form and it gets entered into Ohio EPA’s tracking system, the identification of the PBR for your facility will appear on the “Active List of Permit-By-Rule” that can be accessed at the through the link above.
+General Permit:
+
+
+
+
+If the emissions unit is not exempt and does not qualify for the Permit by Rule, then the next option to consider are the General Permits that have been developed.
+
+For the General Permit option this will result in an actual permit being issued by Ohio EPA. However, this is a very streamlined process because the General Permit terms have already been created. It could take about a month or less for the Cleveland Division of Air Quality and Ohio EPA to get a General Permit issued.   Here is a link to the Ohio EPA DAPC web page for General Permits:
+https://www.epa.ohio.gov/dapc/genpermit/genpermits
+
+In the middle of this page, click on the “Available Permits” tab.  The General Permit option is available for only certain types of emissions units.  If you click on one of the links, you will see that there are different options that are available.
+
+Regardless of which General Permit option is chosen, it will be necessary for the company to complete the Qualifying Criteria document (signed by the responsible official) and submit that with the permit application (including the EAC form). Be sure to carefully read the instructions for the General Permit application as it is not necessary to fill out the entire application.
+
+The Qualifying Criteria document and application should be sent to the Cleveland Division of Air Quality for processing.
+Regular Air Permit:
+
+
+
+If the emissions unit does not qualify for one of the exemptions, Permit by Rule, and it does not qualify for the General Permit option, then it will be necessary to obtain a regular Ohio EPA air permit.
+
+Here is a link to the Ohio EPA DAPC web page for the air permit application forms:
+https://epa.ohio.gov/divisions-and-offices/air-pollution-control/permitting/applying-for-an-air-pollution-control-permit
+
+Note that both Section 1 and Section 2 of the application need to be submitted. If the company is submitting an application for multiple emissions units, then it is only necessary to prepare Section 1 one time. Section 2 needs to be submitted for each individual emissions unit.
+
+In addition to the application form, it is necessary to include the appropriate EAC form(s) as well for each separate emissions unit. Depending on the emissions unit, it might be necessary to fill out more than one EAC form.
+
+Note that if a regular Ohio EPA air permit is needed, then the entire application and EAC forms need to be completed.
+
+In addition to the application and EAC forms, the company will need to include a process flow diagram (see application instructions) and emission calculations that identify the maximum potential to emit (both controlled and uncontrolled) as well as actual emissions. For coating operations we typically ask the company to submit the MSDS sheets for the coatings that will be used.
+
+For a regular air permit, that can take approximately two to four months to get the air permit issued, maybe longer depending on the situation.
+
+The application should be submitted to the Cleveland Division of Air Quality for processing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ About | Contacts | Home | Locations | Privacy Policy | Sitemap
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
