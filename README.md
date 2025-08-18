@@ -6,160 +6,148 @@ A modular Python project that tracks and monitors regulatory data across oil, ga
 
 ## 🚀 Features
 
-- 🔍 **Scrape** hundreds of government regulatory URLs by state
-- 🧠 **Detect changes** via hash-based comparison
-- 🧾 **Export results** in JSON, CSV, or Markdown format
-- 🧪 **Run manually**, by cron, or as an API server
-- 🤖 **Integrate with GPTs** via OpenAPI-defined action
+- 🔍 Scrape hundreds of government regulatory URLs by state
+- 🧠 Detect changes using SHA256-based content hashing
+- 🧾 Export results in JSON, CSV, or Markdown
+- 🧪 Run manually, via cron, or as an API
+- 🤖 Integrate with GPTs via OpenAPI-defined custom actions
 
----
-
-## 🗂️ Project Directory Structure
 ---
 
 ## ⚙️ Installation
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/regulatory-monitor.git
-   
-   cd regulatory-monitor
-   
-   python3 -m venv venv
-   source venv/bin/activate
-   
-   pip install -r requirements.txt
+```bash
+git clone https://github.com/your-username/regulatory-monitor.git
+cd regulatory-monitor
 
-## 🧪 Usage
-    Run the scraper via command line:
-    
-    python app/scraper.py                   # Check all states
-    python app/scraper.py --state Texas     # Check one state
-    python app/scraper.py --url https://... --state Texas
-    python app/scraper.py --format csv      # Output CSV
-    python app/scraper.py --format md       # Output Markdown
+python3 -m venv venv
+source venv/bin/activate
 
-## 🌐 API Mode
+pip install -r requirements.txt
+````
 
-    Run as a FastAPI service:
-    uvicorn app.api:app --reload --port 8000
-    GET /api/check
-    GET /api/check?state=Texas
-    GET /api/check?url=https://...
+---
+
+## 🧪 Usage (CLI)
+
+```bash
+python app/scraper.py                         # Check all states
+python app/scraper.py --state Texas           # Check one state
+python app/scraper.py --url https://... --state Texas
+python app/scraper.py --state Texas --export csv
+python app/scraper.py --state Texas --export markdown
+python app/scraper.py --only-updated          # Only export changed URLs
+```
+
+---
+
+## 🌐 API Mode (via FastAPI)
+
+Run the service locally:
+
+```bash
+uvicorn app.api:app --reload --port 8000
+```
+
+### Example Endpoints
+
+* `GET /api/check`
+* `GET /api/check?state=Texas`
+* `GET /api/check?url=https://...`
+
+---
 
 ## 🤖 GPT Integration (via Actions)
-    1. Deploy the API using Render, Railway, Fly.io, etc.
-    2. Register the OpenAPI spec in openapi/openapi.yaml via the GPT Builder.
-    3. Prompt the GPT like:
-       1. "Check for updates in Alaska's oil and gas regulations."
+
+1. Deploy the API (Render, Railway, Fly.io, etc.)
+2. Register the OpenAPI spec at `openapi/openapi.yaml` via GPT builder
+3. Use prompts like:
+
+   > "Check for updates in Alaska's oil and gas regulations."
+
+---
 
 ## 📄 Output Format
-    Each record looks like:
-        {
-          "state": "Alaska",
-          "url": "https://www.commerce.alaska.gov/web/aogcc/",
-          "updated": true,
-          "checkedAt": "2025-08-17T18:30:00Z",
-          "summary": "Change detected"
-        }
 
-## 📅 Automate It (Optional)
-    To run daily with cron:
+Each record looks like this:
 
-    crontab -e
-    # Run at 2am daily
-    0 2 * * * /path/to/venv/bin/python /path/to/regulatory-monitor/app/scraper.py
+```json
+{
+  "state": "Alaska",
+  "url": "https://www.commerce.alaska.gov/web/aogcc/",
+  "updated": true,
+  "checkedAt": "2025-08-17T18:30:00Z",
+  "summary": "Change detected"
+}
+```
+
+---
 
 ## 🧼 Caching
-    * All previously scraped content is hashed (SHA256) and stored in .cache/
-    * Prevents false positives on unchanged pages
-    * URL content hashes are stored per URL in .cache/
-    * This prevents false positives and unnecessary rescanning
 
-## 🛠️ Roadmap
-    * Slack/email alert integration
-    * HTML/text diff support
-    * Docker support for easier deployment
-    * Database to track long-term change history
-    * Frontend dashboard for monitoring
+* All scraped content is hashed with SHA256 and stored in `.cache/`
+* Reduces unnecessary network requests and false positives
+* `.cache/mapping.json` maps hashes to URLs + state
 
-## 🐳 (Optional) Docker Usage
-    Coming soon! A Dockerfile can be added to simplify deployments. Ask if you'd like it now.
+---
 
-## 👨‍💻 Contributing
-    Pull requests welcome! Fork the repo, create a branch, and submit a PR.
+## 📅 Automate It (Optional)
 
-## 📄 License
-    MIT License © Fabing Productions
+Run daily with cron:
 
-## 🙋 Questions?
-   * Open an issue
-   * Start a discussion
-  
-## 📁 Project Directory Structure
-
-```
-custom-gpt-monitor-goe-state/
-├── app
-│   ├── __init__.py
-│   ├── api.py
-│   └── scraper.py
-├── config
-│   └── state_urls.json
-├── Dockerfile
-├── init_project.sh
-├── NOTES.md
-├── openapi
-│   └── openapi.yaml
-├── README.md
-├── requirements.txt
-├── results
-│   ├── last_run.csv
-│   ├── last_run.json
-│   └── last_run.md
-├── scripts
-│   └── setup.sh
-└── setup.sh
-
-6 directories, 15 files
+```bash
+crontab -e
+# Run at 2am daily
+0 2 * * * /path/to/venv/bin/python /path/to/regulatory-monitor/app/scraper.py
 ```
 
-## 🧪 How to Build and Run with Docker
-    * From inside the regulatory-monitor/ directory:
+---
 
-## 🔨 Build the Docker image
-```
+## 🐳 Docker Usage (Optional)
+
+### 🔨 Build the Docker image
+
+```bash
 docker build -t regulatory-monitor .
 ```
 
-## ▶️ Run the container (API will start on port 8000)
-```
+### ▶️ Run the container
+
+```bash
 docker run -p 8000:8000 regulatory-monitor
-Then go to:
-http://localhost:8000/api/check
-
-Or test with:
-curl "http://localhost:8000/api/check?state=Texas"
 ```
 
-## 🚀 How to Use
-# Build and start the app
+Visit:
+
+* [http://localhost:8000/api/check](http://localhost:8000/api/check)
+* [http://localhost:8000/api/check?state=Texas](http://localhost:8000/api/check?state=Texas)
+
+---
+
+## 🧱 Docker Compose
+
+Start the app:
+
+```bash
 docker-compose up --build
-
-# Stop the app
 ```
+
+Stop the app:
+
+```bash
 docker-compose down
 ```
 
-# Then visit:
-    * 📡 http://localhost:8000 — Health check
-    * 📡 http://localhost:8000/check?url=https://www.commerce.alaska.gov/web/aogcc/&export=json 
-    * — Scraper API
+### Visit the API:
 
-## 📦 Optional: .dockerignore
-```
-Create a .dockerignore file to speed up builds and avoid copying unnecessary files:
+* 📡 [http://localhost:8000](http://localhost:8000)
+* 📡 [http://localhost:8000/api/check?url=https://www.commerce.alaska.gov/web/aogcc/](http://localhost:8000/api/check?url=https://www.commerce.alaska.gov/web/aogcc/)
 
+---
+
+## 📦 .dockerignore (Optional)
+
+```dockerignore
 __pycache__/
 *.pyc
 *.pyo
@@ -171,11 +159,85 @@ results/
 .DS_Store
 ```
 
+---
+
+## 📁 Project Directory Structure
+
+```text
+custom-gpt-monitor-goe-states/
+├── app/
+│   ├── __init__.py
+│   ├── api.py               # FastAPI app
+│   └── scraper.py           # Core scraper
+├── config/
+│   └── state_urls.json      # Source config: all 50 states
+├── openapi/
+│   └── openapi.yaml         # GPT Action spec
+├── results/
+│   └── state/
+│       └── <State>/
+│           ├── json/
+│           ├── csv/
+│           ├── md/
+│           ├── diff/
+│           └── content/
+├── .cache/                  # Content hashes + mapping.json
+│   └── mapping.json
+├── scripts/
+│   ├── setup.sh
+│   ├── generate_mapping.py
+│   ├── lookup_hash.py
+│   └── baseline_commit_all.sh
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+├── README.md
+└── NOTES.md
+```
+
+---
+
 ## 📡 API Endpoints Overview
 
-- `GET /` — Health check
-- `GET /check` — Check a single regulatory URL for updates
-- `POST /batch-check` — Check multiple URLs at once
-- Requires: Optional `token` if `API_KEY` is set (via env var)
+| Endpoint               | Description                   |
+| ---------------------- | ----------------------------- |
+| `GET /`                | Health check                  |
+| `GET /check`           | Run scraper on all URLs       |
+| `GET /check?state=...` | Scrape all URLs for a state   |
+| `GET /check?url=...`   | Scrape one URL manually       |
+| `POST /batch-check`    | Check multiple URLs (planned) |
 
-See [`docs/api.md`](docs/api.md) for full details.
+> See [`docs/api.md`](docs/api.md) for full OpenAPI schema
+
+---
+
+## 🛠️ Roadmap
+
+* [x] Per-state tracking
+* [x] JSON/CSV/Markdown exports
+* [x] Git-based baseline + commits
+* [x] Reverse lookup from SHA → URL
+* [ ] Slack/email alerts
+* [ ] HTML/text diff viewer
+* [ ] Database support (SQLite or Postgres)
+* [ ] Frontend dashboard
+
+---
+
+## 👨‍💻 Contributing
+
+Pull requests welcome!
+Please fork, branch, and submit a PR.
+
+---
+
+## 📄 License
+
+MIT License © Fabing Productions
+
+---
+
+## 🙋 Questions?
+
+* Open an issue
+* Start a discussion on GitHub
