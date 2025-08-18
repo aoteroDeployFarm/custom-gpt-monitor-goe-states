@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://wogcc.wyo.gov",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:37.302936Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://deq.wyoming.gov/aqd/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:50:37.460793Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://deq.wyoming.gov/aqd/"
+  },
+  {
+    "url": "https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:50:37.596735Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/"
+  },
+  {
+    "url": "https://psc.wyo.gov/pipeline",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:37.955487Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://lands.wyo.gov/trust-land-management/mineral-leasing/oil-gas-leases",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:38.263245Z",
+    "diffSummary": "Updated"
+  }
+]

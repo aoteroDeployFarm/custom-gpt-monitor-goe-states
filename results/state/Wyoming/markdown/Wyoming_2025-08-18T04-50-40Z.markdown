@@ -1,0 +1,25 @@
+## https://wogcc.wyo.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:50:40.165915Z
+- Summary: No change detected
+
+## https://deq.wyoming.gov/aqd/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:40.296414Z
+- Summary: None
+
+## https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:40.430397Z
+- Summary: None
+
+## https://psc.wyo.gov/pipeline
+- Updated: False
+- Last Checked: 2025-08-18T04:50:40.664004Z
+- Summary: No change detected
+
+## https://lands.wyo.gov/trust-land-management/mineral-leasing/oil-gas-leases
+- Updated: False
+- Last Checked: 2025-08-18T04:50:40.998081Z
+- Summary: No change detected
+
