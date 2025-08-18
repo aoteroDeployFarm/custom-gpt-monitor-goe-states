@@ -1,0 +1,50 @@
+## https://www.nogcc.ne.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:44:40.672534Z
+- Summary: None
+
+## https://dee.nebraska.gov/air/air-permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:44:40.891287Z
+- Summary: No change detected
+
+## https://dee.nebraska.gov/water-quality/water-quality-permitting/national-pollutant-discharge-elimination-systems-npdes-program
+- Updated: False
+- Last Checked: 2025-08-18T04:44:41.040638Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/nebraska-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:44:41.144262Z
+- Summary: No change detected
+
+## https://sfm.nebraska.gov/fuels-safety/pipeline-safety
+- Updated: False
+- Last Checked: 2025-08-18T04:44:41.292616Z
+- Summary: No change detected
+
+## https://psc.nebraska.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:44:41.419928Z
+- Summary: No change detected
+
+## https://psc.nebraska.gov/sites/default/files/doc/administration/Updated_RRs/2024_Updates/Chapter%209%20-%20Natural%20Gas%20and%20Oil%20Pipelines%20Rules%20and%20Regulations_1.pdf
+- Updated: True
+- Last Checked: 2025-08-18T04:44:41.866619Z
+- Summary: Updated
+
+## https://belf.nebraska.gov/oil_gas_leasing.html
+- Updated: False
+- Last Checked: 2025-08-18T04:44:42.184003Z
+- Summary: No change detected
+
+## https://publicworks.cityofomaha.org/oaqc-omaha-air-quality-control/
+- Updated: False
+- Last Checked: 2025-08-18T04:44:44.316010Z
+- Summary: No change detected
+
+## https://www.lincoln.ne.gov/City/Departments/Health-Department/Environmental/Air
+- Updated: True
+- Last Checked: 2025-08-18T04:44:44.574226Z
+- Summary: Updated
+

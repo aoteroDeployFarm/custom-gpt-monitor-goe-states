@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.nogcc.ne.gov/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:44:00.158156Z",
+    "error": "[ERROR] HTTPSConnectionPool(host='www.nogcc.ne.gov', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x103d5ed90>, 'Connection to www.nogcc.ne.gov timed out. (connect timeout=15)'))"
+  },
+  {
+    "url": "https://dee.nebraska.gov/air/air-permitting/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:00.509107Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dee.nebraska.gov/water-quality/water-quality-permitting/national-pollutant-discharge-elimination-systems-npdes-program",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:00.733292Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/nebraska-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:00.944571Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://sfm.nebraska.gov/fuels-safety/pipeline-safety",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:01.246030Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://psc.nebraska.gov/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:01.468658Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://psc.nebraska.gov/sites/default/files/doc/administration/Updated_RRs/2024_Updates/Chapter%209%20-%20Natural%20Gas%20and%20Oil%20Pipelines%20Rules%20and%20Regulations_1.pdf",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:02.235638Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://belf.nebraska.gov/oil_gas_leasing.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:02.502963Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://publicworks.cityofomaha.org/oaqc-omaha-air-quality-control/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:04.585152Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.lincoln.ne.gov/City/Departments/Health-Department/Environmental/Air",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:05.428671Z",
+    "diffSummary": "Updated"
+  }
+]
