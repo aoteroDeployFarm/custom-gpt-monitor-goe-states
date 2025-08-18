@@ -7,6 +7,15 @@ LOG_FILE=".baseline-progress.log"
 # Stop on error
 set -e
 
+# Parse optional flag
+FULL_MODE=false
+if [[ "$1" == "--full" ]]; then
+  FULL_MODE=true
+  echo "🔁 Running in FULL mode: all sites will be exported, regardless of update status."
+else
+  echo "🚀 Running in ONLY-UPDATED mode: only updated sites will be exported."
+fi
+
 # Create log file if it doesn't exist
 touch "$LOG_FILE"
 
@@ -32,29 +41,31 @@ for state in "${states[@]}"; do
   fi
 
   echo "🔍 Processing $state..."
-
   changes_detected=false
 
   for format in json csv markdown; do
-    echo "  📄 Exporting $format (only updated)..."
-    output=$($SCRAPER --state "$state" --export "$format" --only-updated)
+    echo "  📄 Exporting $format..."
 
-    if echo "$output" | grep -q '"updated": true'; then
-      changes_detected=true
-      echo "  ✅ Changes detected in $format. Committing..."
-      git add results/state/"$state"/"$format"/*
-      git commit -m "baseline $state initial $format export (only updated)"
-      git push
+    if [ "$FULL_MODE" = true ]; then
+      output=$($SCRAPER --state "$state" --export "$format")
     else
-      echo "  ℹ️ No changes in $format for $state."
+      output=$($SCRAPER --state "$state" --export "$format" --only-updated)
+    fi
+
+    if [ "$FULL_MODE" = true ] || echo "$output" | grep -q '"updated": true'; then
+      changes_detected=true
     fi
   done
 
   if [ "$changes_detected" = true ]; then
+    echo "  ✅ Committing all updates for $state..."
+    git add "results/state/$state/"*/**/* 2>/dev/null || true
+    git commit -m "baseline $state initial export${FULL_MODE:+ (full)}"
+    git push
     echo "$state" >> "$LOG_FILE"
-    echo "✅ Done with $state (changes committed)"
+    echo "✅ Done with $state"
   else
-    echo "⚠️ No changes found for $state — not committing"
+    echo "⚠️ No updates for $state — nothing to commit"
   fi
 
   echo "-------------------------------"
