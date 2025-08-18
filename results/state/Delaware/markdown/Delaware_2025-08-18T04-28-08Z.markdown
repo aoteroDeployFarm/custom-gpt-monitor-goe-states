@@ -1,0 +1,45 @@
+## https://depsc.delaware.gov/pipeline-safety-program/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:05.429489Z
+- Summary: No change detected
+
+## https://dnrec.delaware.gov/air/permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:05.867572Z
+- Summary: No change detected
+
+## https://dnrec.delaware.gov/air/permitting/major-air-sources/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:06.307047Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/caa-permitting-delaware
+- Updated: False
+- Last Checked: 2025-08-18T04:28:06.426012Z
+- Summary: No change detected
+
+## https://dnrec.delaware.gov/water/commercial-government/npdes/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:06.845250Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/delaware-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:28:06.964068Z
+- Summary: No change detected
+
+## https://dnrec.delaware.gov/coastal-programs/coastal-management/federal-consistency/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:07.399916Z
+- Summary: No change detected
+
+## https://dnrec.delaware.gov/dnrec-public-notices/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:07.889808Z
+- Summary: No change detected
+
+## https://den.dnrec.delaware.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:28:08.235898Z
+- Summary: No change detected
+
