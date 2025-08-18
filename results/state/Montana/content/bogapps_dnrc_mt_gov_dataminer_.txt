@@ -1,0 +1,497 @@
+
+
+
+
+	Montana Board of Oil and Gas Online Data
+
+
+
+
+
+
+
+
+
+
+
+
+        Montana Board of Oil & Gas Conservation
+
+
+
+
+
+Home
+
+
+
+GIS
+
+
+
+Wells
+
+
+
+Production
+
+
+
+UIC
+
+
+
+Leases
+
+
+
+Statistics
+
+
+
+CBM
+
+
+
+Board Orders
+
+
+
+Reference
+
+
+
+
+
+
+
+
+Search Wells
+
+
+
+
+
+Multiple Well Search
+
+
+
+
+
+Well Activity
+
+
+
+
+
+Well Formations
+
+
+
+
+
+Cores and Cuttings
+
+
+
+
+
+Orphan Wells
+
+
+
+
+
+Well Long/Lat
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Wells
+
+
+
+
+
+Direction/Horizontal Wells
+
+
+
+
+
+Well History
+
+
+
+
+
+
+
+
+
+
+
+
+
+Permits
+
+
+
+
+
+Completions
+
+
+
+
+
+Abandonments
+
+
+
+
+
+Horizontal Permits
+
+
+
+
+
+Horizontal Completions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Well Surface Long/Lat
+
+
+
+
+
+Well Subsurface Long/Lat
+
+
+
+
+
+
+
+
+
+
+
+
+
+Well Production Data
+
+
+
+
+
+Grouped Production Data
+
+
+
+
+
+Annual Production By Field
+
+
+
+
+
+Annual Production By County
+
+
+
+
+
+Monthly Total Production
+
+
+
+
+
+Cumulative Field Production
+
+
+
+
+
+Producing Formations
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monthly Production By Operator
+
+
+
+
+
+Monthly Production By Location
+
+
+
+
+
+Monthly Production By Field
+
+
+
+
+
+Monthly Production By County
+
+
+
+
+
+Annual Production By Oper-Oil
+
+
+
+
+
+Annual Production By Oper-Gas
+
+
+
+
+
+
+
+
+
+
+
+
+
+UIC Wells
+
+
+
+
+
+UIC Permit
+
+
+
+
+
+UIC IMIT
+
+
+
+
+
+UIC Monitor
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lease Wells
+
+
+
+
+
+Lease Units
+
+
+
+
+
+Lease Production
+
+
+
+
+
+Lease Purchasers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Permit Count
+
+
+
+
+
+Completion Count
+
+
+
+
+
+Horizontal Well Permit Count
+
+
+
+
+
+Horizontal Well Completion Count
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBM Wells
+
+
+
+
+
+CBM Well Production
+
+
+
+
+
+
+
+
+
+
+
+
+
+Board Orders By Field
+
+
+
+
+
+Board Orders By T-R
+
+
+
+
+
+
+
+
+
+
+
+
+
+Companies
+
+
+
+
+
+Formations
+
+
+
+
+
+Fields
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the MBOGC's Online Oil and Gas Information System
+
+
+
+
+                This system allows public access to the Board's oil & gas data. It allows query 
+                and export of basic well, production, reference, and permitting information.
+            
+
+                For Data Questions Contact the MBOGC’s Billings Office at (406) 656-0040
+            
+
+
+
+
+
+        For Data Questions, Contact the MBOGC’s Billings Office at (406) 656-0040
+    
+
+
+
+

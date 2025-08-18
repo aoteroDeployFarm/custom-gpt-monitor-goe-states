@@ -1,0 +1,35 @@
+## https://dnrc.mt.gov/bogc/
+- Updated: False
+- Last Checked: 2025-08-18T04:43:17.869508Z
+- Summary: No change detected
+
+## https://bogapps.dnrc.mt.gov/dataminer/
+- Updated: True
+- Last Checked: 2025-08-18T04:43:18.177984Z
+- Summary: Updated
+
+## https://deq.mt.gov/air/assistance
+- Updated: False
+- Last Checked: 2025-08-18T04:43:18.698385Z
+- Summary: No change detected
+
+## https://deq.mt.gov/water/assistance
+- Updated: False
+- Last Checked: 2025-08-18T04:43:19.131812Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/montana-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:43:19.247709Z
+- Summary: No change detected
+
+## https://psc.mt.gov/Public-Safety/Pipeline-Safety
+- Updated: False
+- Last Checked: 2025-08-18T04:43:19.495828Z
+- Summary: No change detected
+
+## https://dnrc.mt.gov/TrustLand/subsurface-resources/oil-gas-leasing
+- Updated: False
+- Last Checked: 2025-08-18T04:43:19.771825Z
+- Summary: No change detected
+
