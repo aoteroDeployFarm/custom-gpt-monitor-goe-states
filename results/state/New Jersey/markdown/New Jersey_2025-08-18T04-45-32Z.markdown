@@ -1,0 +1,50 @@
+## https://www.nj.gov/bpu/about/divisions/reliability
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.378157Z
+- Summary: No change detected
+
+## https://dep.nj.gov/boss/air-permitting-guidance/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.439405Z
+- Summary: No change detected
+
+## https://dep.nj.gov/boss/general-permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.511889Z
+- Summary: No change detected
+
+## https://dep.nj.gov/boss/general-permits/general-operating-permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.590620Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/clean-air-permitting-new-jersey
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.692896Z
+- Summary: No change detected
+
+## https://dep.nj.gov/dwq/wastewater/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.764481Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/new-jersey-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:45:31.875970Z
+- Summary: No change detected
+
+## https://www.nj.gov/dep/cmp/czm_federal.html
+- Updated: False
+- Last Checked: 2025-08-18T04:45:32.120019Z
+- Summary: No change detected
+
+## https://njems.nj.gov/DataMiner/Search/SearchByCategory?catName=Air+Quality+Permitting+and+Reporting&getCategory=y&isExternal=y
+- Updated: False
+- Last Checked: 2025-08-18T04:45:32.212745Z
+- Summary: No change detected
+
+## https://njems.nj.gov/DataMiner/Search/SearchByCategory
+- Updated: False
+- Last Checked: 2025-08-18T04:45:32.286230Z
+- Summary: No change detected
+
