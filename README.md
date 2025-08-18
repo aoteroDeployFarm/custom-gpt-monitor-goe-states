@@ -94,7 +94,8 @@ A modular Python project that tracks and monitors regulatory data across oil, ga
 
 ## 🙋 Questions?
    * Open an issue
-   * Start a discussion    
+   * Start a discussion
+  
 ## 📁 Project Directory Structure
 
 ```
@@ -122,3 +123,59 @@ custom-gpt-monitor-goe-state/
 
 6 directories, 15 files
 ```
+
+## 🧪 How to Build and Run with Docker
+    * From inside the regulatory-monitor/ directory:
+
+## 🔨 Build the Docker image
+```
+docker build -t regulatory-monitor .
+```
+
+## ▶️ Run the container (API will start on port 8000)
+```
+docker run -p 8000:8000 regulatory-monitor
+Then go to:
+http://localhost:8000/api/check
+
+Or test with:
+curl "http://localhost:8000/api/check?state=Texas"
+```
+
+## 🚀 How to Use
+# Build and start the app
+docker-compose up --build
+
+# Stop the app
+```
+docker-compose down
+```
+
+# Then visit:
+    * 📡 http://localhost:8000 — Health check
+    * 📡 http://localhost:8000/check?url=https://www.commerce.alaska.gov/web/aogcc/&export=json 
+    * — Scraper API
+
+## 📦 Optional: .dockerignore
+```
+Create a .dockerignore file to speed up builds and avoid copying unnecessary files:
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+results/
+.env
+.venv/
+.DS_Store
+```
+
+## 📡 API Endpoints Overview
+
+- `GET /` — Health check
+- `GET /check` — Check a single regulatory URL for updates
+- `POST /batch-check` — Check multiple URLs at once
+- Requires: Optional `token` if `API_KEY` is set (via env var)
+
+See [`docs/api.md`](docs/api.md) for full details.
