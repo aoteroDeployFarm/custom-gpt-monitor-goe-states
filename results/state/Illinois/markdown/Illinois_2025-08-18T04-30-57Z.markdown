@@ -1,0 +1,45 @@
+## https://dnr.illinois.gov/oilandgas.html
+- Updated: False
+- Last Checked: 2025-08-18T04:30:55.992928Z
+- Summary: No change detected
+
+## https://dnr.illinois.gov/oilandgas/programsandregulations.html
+- Updated: False
+- Last Checked: 2025-08-18T04:30:56.118682Z
+- Summary: No change detected
+
+## https://epa.illinois.gov/topics/forms/air-permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:30:56.237816Z
+- Summary: No change detected
+
+## https://epa.illinois.gov/topics/forms/fees/clean-air-title-v.html
+- Updated: False
+- Last Checked: 2025-08-18T04:30:56.364856Z
+- Summary: No change detected
+
+## https://epa.illinois.gov/topics/forms/water-permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:30:56.486975Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/illinois-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:30:56.593108Z
+- Summary: No change detected
+
+## https://www.illinois.gov/services/service.icc-pipeline-safety.html
+- Updated: False
+- Last Checked: 2025-08-18T04:30:56.688350Z
+- Summary: No change detected
+
+## https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=165&ChapterID=2
+- Updated: True
+- Last Checked: 2025-08-18T04:30:57.152737Z
+- Summary: Updated
+
+## https://dnr.illinois.gov/content/dam/soi/en/web/dnr/adrules/documents/62-250.pdf
+- Updated: True
+- Last Checked: 2025-08-18T04:30:57.334293Z
+- Summary: Updated
+
