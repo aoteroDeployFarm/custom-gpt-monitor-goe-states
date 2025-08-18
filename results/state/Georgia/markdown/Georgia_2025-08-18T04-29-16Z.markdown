@@ -1,0 +1,60 @@
+## https://epd.georgia.gov/chapter-391-3-13-rules-oil-and-gas-and-deep-drilling
+- Updated: False
+- Last Checked: 2025-08-18T04:29:12.938344Z
+- Summary: No change detected
+
+## https://rules.sos.ga.gov/gac/391-3-13
+- Updated: False
+- Last Checked: 2025-08-18T04:29:13.116335Z
+- Summary: None
+
+## https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:29:13.388328Z
+- Summary: No change detected
+
+## https://epd.georgia.gov/air-protection-branch-technical-guidance-0/types-air-quality-permits/title-v-permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:29:13.650275Z
+- Summary: No change detected
+
+## https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits/apply-air-permit
+- Updated: False
+- Last Checked: 2025-08-18T04:29:14.017759Z
+- Summary: No change detected
+
+## https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant
+- Updated: False
+- Last Checked: 2025-08-18T04:29:14.390877Z
+- Summary: No change detected
+
+## https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:29:14.801691Z
+- Summary: No change detected
+
+## https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant-0
+- Updated: False
+- Last Checked: 2025-08-18T04:29:15.055475Z
+- Summary: No change detected
+
+## https://psc.ga.gov/facilities-protection/pipeline-safety/
+- Updated: True
+- Last Checked: 2025-08-18T04:29:15.709246Z
+- Summary: Updated
+
+## https://rules.sos.state.ga.us/gac/515-9-3
+- Updated: False
+- Last Checked: 2025-08-18T04:29:15.881262Z
+- Summary: None
+
+## https://gspc.georgia.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:16.250633Z
+- Summary: No change detected
+
+## https://law.justia.com/codes/georgia/title-50/chapter-16/article-2/section-50-16-43/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:16.563867Z
+- Summary: No change detected
+

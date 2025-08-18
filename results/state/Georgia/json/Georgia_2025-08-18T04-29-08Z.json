@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://epd.georgia.gov/chapter-391-3-13-rules-oil-and-gas-and-deep-drilling",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:03.551157Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://rules.sos.ga.gov/gac/391-3-13",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:29:03.807410Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://rules.sos.ga.gov/gac/391-3-13"
+  },
+  {
+    "url": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:04.272182Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://epd.georgia.gov/air-protection-branch-technical-guidance-0/types-air-quality-permits/title-v-permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:04.683829Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://epd.georgia.gov/forms-permits/air-protection-branch-forms-permits/air-permits/apply-air-permit",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:05.154642Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:05.621309Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:05.931648Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://epd.georgia.gov/forms-permits/watershed-protection-branch-forms-permits/wastewater-permitting/national-pollutant-0",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:06.209429Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://psc.ga.gov/facilities-protection/pipeline-safety/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:06.941474Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://rules.sos.state.ga.us/gac/515-9-3",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:29:07.162778Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://rules.sos.state.ga.us/gac/515-9-3"
+  },
+  {
+    "url": "https://gspc.georgia.gov/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:07.745304Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://law.justia.com/codes/georgia/title-50/chapter-16/article-2/section-50-16-43/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:29:08.101471Z",
+    "diffSummary": "Updated"
+  }
+]
