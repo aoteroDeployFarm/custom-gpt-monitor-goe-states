@@ -1,0 +1,65 @@
+## https://www.utc.wa.gov/public-safety/pipeline-safety
+- Updated: False
+- Last Checked: 2025-08-18T04:50:01.084213Z
+- Summary: No change detected
+
+## https://ecology.wa.gov/regulations-permits/permits-certifications/air-quality-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:50:01.603841Z
+- Summary: No change detected
+
+## https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/clean-air-agencies
+- Updated: False
+- Last Checked: 2025-08-18T04:50:01.905768Z
+- Summary: No change detected
+
+## https://pscleanair.gov/101/Permits-Registration
+- Updated: False
+- Last Checked: 2025-08-18T04:50:03.421765Z
+- Summary: No change detected
+
+## https://spokanecleanair.org/for-business/notice-of-construction/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:03.637879Z
+- Summary: No change detected
+
+## https://www.yakimacleanair.org/services/forms.html
+- Updated: False
+- Last Checked: 2025-08-18T04:50:03.905569Z
+- Summary: No change detected
+
+## https://www.orcaa.org/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:06.061927Z
+- Summary: No change detected
+
+## https://nwcleanairwa.gov/permits-and-services/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:06.276555Z
+- Summary: None
+
+## https://www.swcleanair.gov/permits/
+- Updated: True
+- Last Checked: 2025-08-18T04:50:06.645006Z
+- Summary: Updated
+
+## https://bentoncleanair.org/for-business/notice-of-construction/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:06.890507Z
+- Summary: No change detected
+
+## https://ecology.wa.gov/water-shorelines/water-quality/water-quality-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:50:07.151874Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/washington-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:50:07.263937Z
+- Summary: No change detected
+
+## https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/coastal-zone-management/federal-consistency
+- Updated: False
+- Last Checked: 2025-08-18T04:50:07.543665Z
+- Summary: No change detected
+

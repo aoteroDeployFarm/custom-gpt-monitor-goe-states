@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://www.utc.wa.gov/public-safety/pipeline-safety",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:48.870736Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ecology.wa.gov/regulations-permits/permits-certifications/air-quality-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:49.531718Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/clean-air-agencies",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:50.342964Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://pscleanair.gov/101/Permits-Registration",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:50.871638Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://spokanecleanair.org/for-business/notice-of-construction/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:51.162375Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.yakimacleanair.org/services/forms.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:51.538369Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.orcaa.org/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:52.342981Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://nwcleanairwa.gov/permits-and-services/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:52.594361Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://nwcleanairwa.gov/permits-and-services/"
+  },
+  {
+    "url": "https://www.swcleanair.gov/permits/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:53.061689Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://bentoncleanair.org/for-business/notice-of-construction/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:53.370020Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ecology.wa.gov/water-shorelines/water-quality/water-quality-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:54.755979Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/washington-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:54.870875Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/coastal-zone-management/federal-consistency",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:55.456380Z",
+    "diffSummary": "Updated"
+  }
+]
