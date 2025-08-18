@@ -1,168 +1,117 @@
-## 📝 NOTES.md – Project Summary & Quick Recovery Guide
+# 📝 Project Notes & Roadmap — Regulatory Monitor
+
+This document tracks next steps, features in progress, and enhancement ideas for the custom GPT-powered state regulatory monitor.
 
 ---
 
-### 🛢️ Regulatory Monitor Scraper – Project Overview
+## 🚀 Suggested Next Steps
 
-This project tracks and monitors regulatory websites across **all 50 U.S. states** related to the **oil, gas, and energy** sectors. It detects content updates, outputs change logs in multiple formats, and integrates with **OpenAI Custom GPTs** through a web API defined by an OpenAPI spec.
+### 🔖 Tagging & Metadata
 
----
+- [ ] Add support for `tags` or `type` in `state_urls.json`
+  - Example: `"tags": ["air", "permits", "drilling"]`
+- [ ] Update scraper to include tags in results
+- [ ] Use tags to filter or group output in CLI/API
 
-### ✅ Core Features
-
-* Scrapes and monitors hundreds of URLs grouped by U.S. state
-* Uses SHA-256 hashes to detect changes
-* CLI interface for one-time or scheduled runs
-* FastAPI-based web API for live checking or GPT integration
-* Exports output in **JSON**, **CSV**, and **Markdown**
-* Fully containerized using Docker
-* Designed for cloud deployment or local use
+> 💡 Use tags for advanced GPT prompts, dashboard grouping, or selective monitoring.
 
 ---
 
-### 🧠 Custom GPT Integration
+### 📊 Markdown/HTML Dashboard View
 
-* Exposes `/api/check` endpoint for GPT to query update status
-* OpenAPI 3.1.0 spec available in `openapi/openapi.yaml`
-* Deployable to services like **Render**, **Railway**, **Fly.io**, or any VPS
-* GPTs can prompt with:
+- [ ] Generate a per-state summary table:
+  - State name
+  - Total sites
+  - Updated count
+  - Last check timestamp
+- [ ] Export to `results/dashboard.md` or `results/dashboard.html`
+- [ ] Optional: hyperlink to full results or diffs
 
-  > “Check for updates in Alaska’s oil and gas regulatory data.”
-
----
-
-## 🗂️ Project Directory Structure
-
-```
-custom-gpt-monitor-goe-state/
-├── app/
-│   ├── scraper.py       # Main CLI scraper logic
-│   └── api.py           # FastAPI web server
-├── config/
-│   └── state_urls.json  # URL list grouped by state
-├── results/
-│   ├── last_run.json
-│   ├── last_run.csv
-│   └── last_run.md
-├── .cache/              # Local hash cache per URL
-├── openapi/
-│   └── openapi.yaml     # Action spec for GPTs
-├── scripts/
-│   └── setup.sh         # Directory bootstrap script
-├── requirements.txt
-├── Dockerfile
-├── .gitignore
-└── README.md
-```
----
-
-### 🧪 How to Run
-
-#### CLI Mode
-
-```bash
-python app/scraper.py                     # Run all states
-python app/scraper.py --state Texas       # Run one state
-python app/scraper.py --url https://...   # Run one URL
-python app/scraper.py --format csv        # Output as CSV
-```
-
-#### API Mode (FastAPI)
-
-```bash
-uvicorn app.api:app --host 0.0.0.0 --port 8000
-```
-
-Example endpoints:
-
-* `GET /api/check`
-* `GET /api/check?state=Texas`
-* `GET /api/check?url=https://example.com`
+> 💡 Use this for internal review or stakeholder reports.
 
 ---
 
-### 🐳 Docker Usage
+### 📤 Notification System
 
-#### Build the image
+- [ ] Integrate email alerts (SMTP or Mailgun)
+- [ ] Support Slack/Discord/webhook push notifications
+- [ ] Notify only on updates (diff detected)
+- [ ] Include `state`, `url`, and diff summary
 
-```bash
-docker build -t regulatory-monitor .
-```
-
-#### Run the container
-
-```bash
-docker run -p 8000:8000 regulatory-monitor
-```
-
-Access the API:
-
-```
-http://localhost:8000/api/check
-```
+> 💡 Helpful for real-time regulatory change tracking.
 
 ---
 
-### ⚙️ Automation & Cron
+### 🧪 Testing & Reliability
 
-To run daily (e.g., 2am):
+- [ ] Add unit tests for:
+  - `extract_content()`
+  - `check_url()`
+  - `export_results()`
+- [ ] Add CLI test coverage (arg parsing, dry runs)
+- [ ] Add tests for mapping + hash lookups
 
-```bash
-crontab -e
-# Add this line:
-0 2 * * * /path/to/venv/bin/python /path/to/regulatory-monitor/app/scraper.py
-```
-
----
-
-### 📌 Remaining TODOs / Future Features
-
-* [ ] Add email or Slack alerts for updated URLs
-* [ ] Implement content diffing (before vs after)
-* [ ] Store historical change logs (file or DB)
-* [ ] Add a frontend dashboard for browsing changes
-* [ ] Add GitHub Actions for CI/CD (optional)
-* [ ] Finalize and test `openapi/openapi.yaml`
+> 💡 Use `pytest` and `unittest.mock` to simulate fetches.
 
 ---
 
-### ✅ Current Status
+### 📅 Scheduled Automation
 
-* ✅ CLI scraper works
-* ✅ API works locally and in Docker
-* ✅ JSON config of all 50 states complete
-* ✅ GPT integration via OpenAPI is prepared
-* ✅ Project is Dockerized and deployable
-
----
-
-### 📦 Hosting Recommendations
-
-* **Render** (easy Docker deploys)
-* **Railway** (easy GitHub + Docker pipeline)
-* **Fly.io** (if you want global deployments)
-* Any VPS (with Docker installed)
+- [ ] Create a GitHub Actions workflow:
+  - Run daily or hourly
+  - Commit results automatically
+- [ ] Add cron examples to README
+- [ ] Auto-generate status summary on schedule
 
 ---
 
-### 🙋‍♀️ Help / Recovery
+## 🔧 Infrastructure / Enhancements (Future Ideas)
 
-* Clone repo and run: `docker build` + `docker run`
-* Use `NOTES.md` to restore structure and commands
-* Use `setup.sh` in `scripts/` to recreate folders
-* For GPT integration, deploy `/api/check` and register `openapi.yaml`
+### 🛢️ Database Integration (Optional)
+
+- Store all change history over time
+- Allow rollback or diff across date ranges
+- SQLite or Postgres recommended
+
+### 📁 Results Index File
+
+- [ ] Maintain a central index of all exports
+  - `results/state_index.json`
+  - List last update time, exported files, URLs checked
+
+### 🔍 Search CLI Tool
+
+- [ ] CLI command to search for:
+  - URLs by tag
+  - Most recently updated sites
+  - Sites without diffs yet
+
+### 🧠 GPT Prompt Templates (Bonus)
+
+- [ ] Generate templated prompts like:
+  - “Summarize changes in environmental permits for Texas”
+  - “What changed in air quality rules in California this week?”
 
 ---
 
-Save this file and you’ll never lose context — even if your tab or session disappears. 🚀
+## ✅ Completed Milestones
+
+- [x] Scraper CLI with full per-state export
+- [x] JSON, CSV, and Markdown output support
+- [x] Per-state diff + content archiving
+- [x] SHA256 caching for change detection
+- [x] Git commit + push per state via shell script
+- [x] `.cache/mapping.json` with reverse lookup
+- [x] Docker + Compose setup
+- [x] OpenAPI + GPT Actions integration
+- [x] `lookup_hash.py` CLI tool
 
 ---
 
-Let me know if you'd like me to generate the missing pieces:
+## 🙋 Ideas? Feedback?
 
-* `api.py`
-* `openapi.yaml`
-* `Docker Compose`
-* GitHub Actions workflows
+If you'd like to brainstorm or prioritize next features:
+- Open an issue
+- Drop a TODO in this file
+- We can work together from here!
 
-I'm ready whenever you are.
