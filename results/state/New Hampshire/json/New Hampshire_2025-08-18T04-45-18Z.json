@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:17.362828Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview"
+  },
+  {
+    "url": "https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:17.448061Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program"
+  },
+  {
+    "url": "https://www.des.nh.gov/air/industrial-sources/permit-guidance",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:17.604369Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.des.nh.gov/air/industrial-sources/permit-guidance"
+  },
+  {
+    "url": "https://onlineforms.nh.gov/home/094d9dd2-c1de-4882-9414-c0807677d0ed",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:45:18.242598Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:18.524568Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/new-hampshire-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:45:18.691591Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:18.772616Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance"
+  },
+  {
+    "url": "https://www.des.nh.gov/water/coastal-waters/federal-consistency",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:18.841520Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.des.nh.gov/water/coastal-waters/federal-consistency"
+  }
+]

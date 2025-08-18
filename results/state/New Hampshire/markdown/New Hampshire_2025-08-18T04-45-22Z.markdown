@@ -1,0 +1,40 @@
+## https://www.energy.nh.gov/enforcement/pipeline-safety/pipeline-safety-overview
+- Updated: False
+- Last Checked: 2025-08-18T04:45:21.725405Z
+- Summary: None
+
+## https://www.energy.nh.gov/enforcement/pipeline-safety/enforcement-program
+- Updated: False
+- Last Checked: 2025-08-18T04:45:21.804941Z
+- Summary: None
+
+## https://www.des.nh.gov/air/industrial-sources/permit-guidance
+- Updated: False
+- Last Checked: 2025-08-18T04:45:21.912021Z
+- Summary: None
+
+## https://onlineforms.nh.gov/home/094d9dd2-c1de-4882-9414-c0807677d0ed
+- Updated: True
+- Last Checked: 2025-08-18T04:45:22.357296Z
+- Summary: Updated
+
+## https://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:45:22.430379Z
+- Summary: None
+
+## https://www.epa.gov/npdes-permits/new-hampshire-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:45:22.521861Z
+- Summary: No change detected
+
+## https://www.des.nh.gov/waste/wastewater/npdes-permits-and-compliance
+- Updated: False
+- Last Checked: 2025-08-18T04:45:22.731890Z
+- Summary: None
+
+## https://www.des.nh.gov/water/coastal-waters/federal-consistency
+- Updated: False
+- Last Checked: 2025-08-18T04:45:22.872297Z
+- Summary: None
+
