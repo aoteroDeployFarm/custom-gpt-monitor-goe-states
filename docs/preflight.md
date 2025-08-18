@@ -8,8 +8,11 @@
 * Git installed
 * A clone of this repo on your machine
 
+---
+
 1. 🧱 Project Structure
-    This assumes the repository is cloned and looks like:
+This assumes the repository is cloned and looks like:
+
 ```
 custom-gpt-monitor-goe-states/
 ├── app/
@@ -21,7 +24,7 @@ custom-gpt-monitor-goe-states/
 └── ...
 ```
 
-2. 🐍 Set Up Python Environment
+1. 🐍 Set Up Python Environment
 Option A — Use system Python (simplest)
 Run:
 ```
@@ -29,7 +32,8 @@ python3 -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
 ```
 
-Option B — Use a virtual environment (recommended)
+    Option B — Use a virtual environment (recommended)
+
 ```
 python3 -m venv .venv
 source .venv/bin/activate
@@ -42,12 +46,12 @@ Ensure the first line of app/scraper.py contains:
 #!/usr/bin/env python3
 ```
 
-Then run:
+    Then run:
 ```
 chmod +x app/scraper.py
 ```
 
-Now you can run it directly:
+    Now you can run it directly:
 ```
 ./app/scraper.py
 ```
@@ -58,7 +62,7 @@ Run with default URL in script:
 ./app/scraper.py
 ```
 
-OR check a specific URL:
+    OR check a specific URL:
 ```
 python3 app/scraper.py https://www.commerce.alaska.gov/web/aogcc/
 ```
