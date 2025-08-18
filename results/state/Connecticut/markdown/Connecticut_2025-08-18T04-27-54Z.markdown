@@ -1,0 +1,40 @@
+## https://portal.ct.gov/PURA/Gas-Pipeline-Safety/Gas-Pipeline-Safety
+- Updated: False
+- Last Checked: 2025-08-18T04:27:52.287803Z
+- Summary: No change detected
+
+## https://portal.ct.gov/deep/air/permits/air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:27:52.470372Z
+- Summary: No change detected
+
+## https://portal.ct.gov/DEEP/Air/Permits/Title-V-Operating-Permit-Program
+- Updated: False
+- Last Checked: 2025-08-18T04:27:53.074646Z
+- Summary: No change detected
+
+## https://portal.ct.gov/DEEP/Air/Permits/Air-Permitting-Assistance
+- Updated: False
+- Last Checked: 2025-08-18T04:27:53.297950Z
+- Summary: No change detected
+
+## https://portal.ct.gov/deep/permits-and-licenses/water-discharge-permits-and-general-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:27:53.523811Z
+- Summary: No change detected
+
+## https://portal.ct.gov/DEEP/Permits-and-Licenses/Factsheets-Water-Discharges/Wastewater-Discharges-Fact-Sheet
+- Updated: False
+- Last Checked: 2025-08-18T04:27:53.699619Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/connecticut-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:27:53.838380Z
+- Summary: No change detected
+
+## https://filings.deep.ct.gov/DEEPPortal/PublicSearch/PSSearchView
+- Updated: True
+- Last Checked: 2025-08-18T04:27:54.135800Z
+- Summary: Updated
+
