@@ -1,0 +1,30 @@
+## https://puc.sd.gov/pipelinesafety/
+- Updated: True
+- Last Checked: 2025-08-18T04:48:04.850480Z
+- Summary: Updated
+
+## https://danr.sd.gov/Environment/AirQuality/PermitForms/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:48:08.371547Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/caa-permitting-south-dakota
+- Updated: False
+- Last Checked: 2025-08-18T04:48:08.500300Z
+- Summary: No change detected
+
+## https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/swdpermitting/swdpermitting.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:48:08.757613Z
+- Summary: Updated
+
+## https://www.epa.gov/npdes-permits/south-dakota-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:48:08.874980Z
+- Summary: No change detected
+
+## https://danr.sd.gov/public/
+- Updated: True
+- Last Checked: 2025-08-18T04:48:12.386053Z
+- Summary: Updated
+
