@@ -1,4 +1,0 @@
-| URL | Updated | Last Checked | State | Summary |
-|-----|---------|---------------|--------|---------|
-| https://www.maricopa.gov/1818/Permits-Forms-and-Payments | ✅ Yes | 2025-08-18T03:31:57.725922Z | Arizona | Initial snapshot (no previous content)... |
-| https://www.pima.gov/439/Air-Quality-Permits | ✅ Yes | 2025-08-18T03:31:58.011160Z | Arizona | Initial snapshot (no previous content)... |
