@@ -1,0 +1,35 @@
+## https://health.hawaii.gov/cab/permit-application-forms/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:27.894777Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/clean-air-act-permitting-hawaii-and-pacific-islands
+- Updated: False
+- Last Checked: 2025-08-18T04:29:28.020854Z
+- Summary: No change detected
+
+## https://health.hawaii.gov/cab/public-notices/
+- Updated: True
+- Last Checked: 2025-08-18T04:29:28.199293Z
+- Summary: Updated
+
+## https://health.hawaii.gov/cwb/npdes-permits-and-how-to-apply/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:28.385749Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/hawaii
+- Updated: False
+- Last Checked: 2025-08-18T04:29:28.478698Z
+- Summary: No change detected
+
+## https://health.hawaii.gov/cwb/clean-water-branch-home-page/public-notices-and-updates/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:28.657233Z
+- Summary: No change detected
+
+## https://planning.hawaii.gov/czm/federal-consistency/
+- Updated: False
+- Last Checked: 2025-08-18T04:29:28.802968Z
+- Summary: No change detected
+
