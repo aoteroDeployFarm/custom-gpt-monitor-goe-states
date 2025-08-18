@@ -1,0 +1,35 @@
+## https://www.kcc.ks.gov/oil-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:34:41.701292Z
+- Summary: No change detected
+
+## https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline
+- Updated: False
+- Last Checked: 2025-08-18T04:34:42.109965Z
+- Summary: No change detected
+
+## https://www.kcc.ks.gov/natural-gas-pipeline-safety-liquid-pipeline/liquid-pipeline
+- Updated: False
+- Last Checked: 2025-08-18T04:34:42.487621Z
+- Summary: No change detected
+
+## https://www.kdhe.ks.gov/313/Permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:34:42.699403Z
+- Summary: No change detected
+
+## https://www.kdhe.ks.gov/754/Pollution-Control-Wastewater-Programs
+- Updated: False
+- Last Checked: 2025-08-18T04:34:42.864655Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/kansas-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:34:42.970131Z
+- Summary: No change detected
+
+## https://www.wycokck.org/Departments/Health/Clean-Safe-Places/Air-Quality
+- Updated: True
+- Last Checked: 2025-08-18T04:34:43.263142Z
+- Summary: Updated
+
