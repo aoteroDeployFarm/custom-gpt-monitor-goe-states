@@ -1,0 +1,35 @@
+## https://www.ogb.state.ms.us
+- Updated: True
+- Last Checked: 2025-08-18T04:42:52.263634Z
+- Summary: Updated
+
+## https://www.mdeq.ms.gov/air/
+- Updated: False
+- Last Checked: 2025-08-18T04:42:52.982157Z
+- Summary: No change detected
+
+## https://www.mdeq.ms.gov/permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:42:53.677437Z
+- Summary: No change detected
+
+## https://www.mdeq.ms.gov/permits/environmental-permits-division/applications-forms/air/
+- Updated: False
+- Last Checked: 2025-08-18T04:42:54.384248Z
+- Summary: No change detected
+
+## https://opcgis.deq.state.ms.us/ensearchonline/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:42:54.707766Z
+- Summary: No change detected
+
+## https://www.psc.ms.gov/pipeline/safety
+- Updated: False
+- Last Checked: 2025-08-18T04:42:55.078026Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/mississippi-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:55.178377Z
+- Summary: No change detected
+
