@@ -1,0 +1,35 @@
+## https://www.emnrd.nm.gov/ocd/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:45.188764Z
+- Summary: No change detected
+
+## https://www.env.nm.gov/air-quality/permitting-section-home-page/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:45.560395Z
+- Summary: No change detected
+
+## https://www.env.nm.gov/surface-water-quality/point-source-regulation-section/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:45.909638Z
+- Summary: No change detected
+
+## https://www.env.nm.gov/gwqb/permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:46.270719Z
+- Summary: No change detected
+
+## https://www.prc.nm.gov/pipeline-safety-bureau/pipeline-safety/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:46.408649Z
+- Summary: No change detected
+
+## https://www.nmstatelands.org/divisions/oil-gas-and-minerals/lease-information/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:46.532993Z
+- Summary: No change detected
+
+## https://www.cabq.gov/airquality/air-quality-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:45:46.826031Z
+- Summary: No change detected
+
