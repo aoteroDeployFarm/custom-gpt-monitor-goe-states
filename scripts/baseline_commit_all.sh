@@ -79,6 +79,13 @@ for state in "${states[@]}"; do
   fi
 
   echo "-------------------------------"
+
+  # ✅ Ask user to continue
+  read -rp "❓ Do you wish to continue to the next state? (y/n): " answer
+  if [[ "$answer" =~ ^[Nn]$ ]]; then
+    echo "🛑 Exiting on user request."
+    exit 0
+  fi
 done
 
 echo "🎉 All done!"
