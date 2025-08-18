@@ -1,0 +1,45 @@
+## https://psc.ky.gov/Home/PipelineSafety
+- Updated: False
+- Last Checked: 2025-08-18T04:36:20.761341Z
+- Summary: No change detected
+
+## https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:36:20.846136Z
+- Summary: None
+
+## https://www.epa.gov/caa-permitting/clean-air-act-permitting-kentucky
+- Updated: False
+- Last Checked: 2025-08-18T04:36:20.971078Z
+- Summary: No change detected
+
+## https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville
+- Updated: False
+- Last Checked: 2025-08-18T04:36:21.084641Z
+- Summary: None
+
+## https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees
+- Updated: False
+- Last Checked: 2025-08-18T04:36:21.173540Z
+- Summary: None
+
+## https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:36:21.279692Z
+- Summary: None
+
+## https://www.epa.gov/npdes-permits/kentucky-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:36:21.389642Z
+- Summary: No change detected
+
+## https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:36:21.495447Z
+- Summary: None
+
+## https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:36:21.597129Z
+- Summary: None
+

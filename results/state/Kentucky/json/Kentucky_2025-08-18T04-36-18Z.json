@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://psc.ky.gov/Home/PipelineSafety",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:36:17.355613Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:36:17.608476Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://eec.ky.gov/Environmental-Protection/Air/Pages/Air-Permitting.aspx"
+  },
+  {
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permitting-kentucky",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:36:17.808637Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:36:17.933654Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://louisvilleky.gov/government/air-pollution-control-district/air-pollution-permitting-louisville"
+  },
+  {
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:36:18.028182Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://louisvilleky.gov/government/air-pollution-control-district/apcd-permit-application-forms-fees"
+  },
+  {
+    "url": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:36:18.129836Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/KPDES/Pages/default.aspx"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/kentucky-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:36:18.273811Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:36:18.371977Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://eec.ky.gov/Environmental-Protection/Air/Pages/default.aspx"
+  },
+  {
+    "url": "https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:36:18.465884Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://eec.ky.gov/Environmental-Protection/Air/Pages/Permit-Required-Reporting.aspx"
+  }
+]
