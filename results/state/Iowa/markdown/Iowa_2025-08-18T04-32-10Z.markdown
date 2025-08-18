@@ -1,0 +1,60 @@
+## https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/pipeline-safety
+- Updated: False
+- Last Checked: 2025-08-18T04:32:08.326642Z
+- Summary: No change detected
+
+## https://iuc.iowa.gov/regulated-industries/pipeline-permits-certifications/hazardous-liquid-pipeline-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:32:08.561096Z
+- Summary: No change detected
+
+## https://www.iowadnr.gov/environmental-protection/air-quality/air-quality-construction-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:32:08.823888Z
+- Summary: No change detected
+
+## https://www.iowadnr.gov/environmental-protection/air-quality/operating-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:32:08.998158Z
+- Summary: No change detected
+
+## https://programs.iowadnr.gov/easyair/Public/GovEnt/Shared/Pages/Main/Login.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:32:09.204363Z
+- Summary: Updated
+
+## https://www.iowadnr.gov/environmental-protection/air-quality/eair-services
+- Updated: False
+- Last Checked: 2025-08-18T04:32:09.414140Z
+- Summary: No change detected
+
+## https://www.iowadnr.gov/environmental-protection/air-quality/local-air-quality-programs
+- Updated: False
+- Last Checked: 2025-08-18T04:32:09.629452Z
+- Summary: No change detected
+
+## https://www.linncountyiowa.gov/1429/Air-Quality
+- Updated: False
+- Last Checked: 2025-08-18T04:32:09.804677Z
+- Summary: No change detected
+
+## https://www.polkcountyiowa.gov/public-works/air-quality/
+- Updated: False
+- Last Checked: 2025-08-18T04:32:09.938945Z
+- Summary: No change detected
+
+## https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes
+- Updated: False
+- Last Checked: 2025-08-18T04:32:10.152767Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/iowa-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:32:10.299920Z
+- Summary: No change detected
+
+## https://www.iowadnr.gov/environmental-protection/water-quality/wastewater-permitting-npdes/current-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:32:10.540863Z
+- Summary: No change detected
+

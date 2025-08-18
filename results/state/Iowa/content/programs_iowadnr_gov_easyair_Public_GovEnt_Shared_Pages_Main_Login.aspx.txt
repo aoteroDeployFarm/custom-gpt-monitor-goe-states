@@ -1,0 +1,264 @@
+
+
+
+
+	EASY Air - Public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+3
+4
+
+
+
+
+
+
+
+
+  System User Guide  
+
+
+
+Public Inquiry Portal: Search for Applications and Permits Submitted in EASY Air
+
+
+
+Welcome to Iowa EASY Air, the Iowa DNR Environmental Application System for Air.
+
+
+In Iowa EASY Air you can:
+
+Search for Active Applications, Issued Construction and Title V Operating Permits, and Permits seeking public comment through the Public Inquire Portal (link above);
+Establish a user account to manage and monitor your current and historical submittals;
+Apply for air construction permits, permit modifications, registrations, determinations, pre-applications, and template permits online;
+Apply for Title V operating permits, modifications, and pre-applications online;
+Pay permit application fees and invoices (except for the annual Title V emissions fee);
+Submit Start of Construction and Start of Operation forms.
+Iowa EASY Air does not replace SLEIS for emissions inventory submittals.
+
+
+Need Assistance If you need assistance please visit our eAirServices website for useful guides and FAQs or contact the Iowa EASY Air Help Desk at:
+
+easyair@dnr.iowa.gov
+Kevin Connolly – 515-725-9569
+Jessica Reese-McIntyre – 515-725-9547
+
+Getting Started Before you begin your online application answer these four “EASY” questions:
+
+Does your facility exist in Iowa EASY Air?If this is a new facility or you don’t see your existing facility, fill out the Iowa EASY Air Facility Number & Name Change Form and email the form to easyair_fn@dnr.iowa.gov to get started.
+Do you have a Responsible Official (RO) User Account in Iowa EASY Air?Only a facility RO can submit applications in the system. ROs may use the preferred e-Verify option through EASY Air to create their account or can submit a paper Electronic Signature Agreement (ESA) and email the form to easyair@dnr.iowa.gov.
+Will someone other than the RO be completing the application in Iowa EASY Air?ROs can designate others to complete the application by granting access to their facility.  The Preparer designated by the RO must first create their account in Iowa EASY Air.
+Have you previously used SLEIS, Iowa DNR’s emissions inventory reporting system?If you have used SLEIS you already have an account in Iowa EASY Air.  To activate your account click on the "Forgot your login user name or password?" link under the login button and follow the directions to have a temporary password e-mailed to you.
+
+
+
+
+
+
+
+
+Facility/Public Login
+
+
+
+
+
+User name
+
+
+
+
+
+Password
+
+
+
+
+
+
+
+
+
+Create a new account
+Forgot your login user name or password?
+
+
+
+
+
+Release Date:  March 27, 2024
+
+
+
+
+Version:  4.0024.0327.24867
+
+
+
+
+
+
+
+
+
+
+GovOnline uses Adobe Reader for some online document viewing. Please click the following link to install Adobe Reader Plug-in software.
+
+
+
+
+
+
+
+EASY Air Website is secured by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GovOnline, Copyright ©1994-2025 enfoTech & Consulting Inc. All rights reserved.
+    
+    
+Terms of Use
+ | 
+Privacy Statement 
+
+
+    
+    ( Last modified Time: 2024-03-27 02:48 PM PID: WAVMDNRWEBP01 )
+
+Terms of Use
+
+Terms of Use
+Acceptance of Terms
+Welcome to GovOnline's website. The services that enfoTech provides to you are subject to the following Terms of Use. enfoTech reserves the right to update the Terms of Use at any time without notice to you. enfoTech makes available to you a wide range of resources including product information, download areas, communication forums and services (collectively "Services"). The Services, any updates, enhancements, new features and/or the addition of any new Web properties, are subject to the Terms of Use.
+Please read the terms of use carefully before using this website. By accessing and using this website in any way, including, without limitation, browsing the website, using any information, using any content, using any services, downloading any materials, and/or placing an order for products or services, you agree to and are bound by the terms of use described in this document.
+IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED IN THE TERMS OF USE, DO NOT USE THIS WEBSITE IN ANY MANNER. 
+Disclaimer
+The GovOnline system development company (enfoTech), its agencies, officers, or employees would dedicate their bests to protect your Trade Secret Information. However personally identifiable information privacy is a new and evolving area, and despite dedicated efforts, some mistakes and misunderstandings may result. The visitor/applicant proceeds to any web pages at their own risk. enfoTech and its agencies accept no liability from damages which may be caused by accessing the web pages, or from reliance upon any such information. 
+Use of Materials Limitations
+All materials contained in the website are the copyrighted property of enfoTech. All trademarks, logos and trade names are proprietary to enfoTech. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, software, products or services obtained from the website without the written permission from enfoTech.
+Member Account, Password and Security
+If any of the Services requires you to open an account, you must complete the registration process by providing us with current, 
+        complete and accurate information as prompted by the applicable registration form. 
+You also will be assigned a password and a user name. You are entirely responsible for maintaining the confidentiality of your password and account. 
+        Furthermore, you are entirely responsible for any and all activities that occur under your account.
+You agree to notify enfoTech immediately of any unauthorized use of your account or any other breach of security. enfoTech will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by enfoTech or another party due to someone else using your account or password. You may not use anyone else's account at any time, without the permission of the account holder. 
+Copyright Notice
+©2025 enfoTech & Consulting, Inc. All rights reserved. 
+The original works are protected by Copyright law, such as websites, photos and videos. Typically when the original work is created, the creator owns the copyright. The creator can control how someone else can use his/her original works. If someone else uses the original works without creator’s permission, it violates owner’s copyright and it is copyright infringement. 
+When you purchased the license to use GovOnline system, you have the right to use the system but you do not have the rights to make copy, distribute and make public display without enfoTech’s permission. 
+ 
+
+
+Privacy Statement
+
+Privacy Statement
+Acceptance of Terms
+Welcome to enfoTech's website. The services that enfoTech provides to you are subject to the following Terms of Use. enfoTech reserves the right to update the Terms of Use at any time without notice to you. enfoTech makes available to you a wide range of resources including product information, download areas, communication forums and services (collectively "Services"). The Services, any updates, enhancements, new features and/or the addition of any new Web properties, are subject to the Terms of Use.
+enfoTech may revise the privacy policy periodically and reserves the right to add to, update, and/or delete from the existing contents of this Site without prior notice. Upon posting of the Site content modifications, the consumer is subject to the changes. Users are responsible for keeping up-to-date with the privacy policy. We recommend consumers to periodically check the changes and updates made to the Site.
+IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED IN THE TERMS OF USE, DO NOT USE THIS WEBSITE IN ANY MANNER. 
+Information Collected
+Anyone may visit this Site without revealing any personal information that may serve as identification. We may, however, automatically collect information that does not act as a direct identification: this includes Internet domain, IP address, and the date and time you access the Site. If you choose not to disclose any information about yourself, you will be kept from using some functionalities and obtaining information from the Site. 
+For certain sections of the Site, we may collect nonpublic personal information from you when you voluntarily provide the information to use a certain functionality or purpose of the Site. The purpose of the information collection is to identify contact information when a request or question is demanded from enfoTech, determine access rights of each customer to certain functionalities of the Site, as well as maintaining a list of users who are interested in the Site. The information collected will be used for the purpose it was provided for i.e. to respond to your inquiries and requests. However, we reserve the right to use collected information for product development, research, marketing, and to provide you with useful information. 
+Use of Collected Information
+When nonpublic personal information is collected from you, we describe, at the time of the request, what the information will be used for. Unless otherwise indicated, all personally identifiable information collected will be used only for the purpose it was requested for (i.e. to respond to your inquiries and requests). Please note that any personal information is collected in compliance with sections 26(a) and 26 (b) of the Freedom of Information and Protection of Privacy Act. We do not disclose any or any part of the information provided by you to other public bodies or individuals.
+Security of Collected Information
+Personal information collected from you will only be used and/or accessed by enfoTech staff that requires your information in order to process your request or respond to your questions. To prevent your information from being used inappropriately, we maintain stringent electronic safeguards as well as physical and administrative protection. 
+Access to Collected Information
+Personally Identifiable information privacy is a new and evolving area, and despite dedicated efforts, some mistakes and misunderstandings may result. In that case, please contact us at any time to request information changes so as to retain accuracy of the information. 
+Links to Other Sites
+There may be links to websites with companies or organizations with whom we have a relationship. Opening up these links from this Site means that the privacy policy for the particular website accessed will apply. We recommend that you read the appropriate privacy policy before continuing to use the linked website. 
+Password
+When registering with a Web Forum, FAQ Center, Document Center, or Download Center, you will be provided with a User ID and Password that will allow you to access these links. Once we provide you with a password, you are responsible for maintaining the confidentiality of the password. Please note that access to these links, irrespective of the issuance of the User ID and Password, may be terminated by our discretion at any time. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
