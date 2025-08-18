@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://minerals.nv.gov/Programs/OG/OG/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:54.638827Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://puc.nv.gov/Safety/Pipeline/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:55.617885Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ndep.nv.gov/air/permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:57.111974Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ndep.nv.gov/water/water-pollution-control/permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:58.390344Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://lands.nv.gov/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:59.729002Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:44:59.877306Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.nnph.org/programs-and-services/air-quality/index.php",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:45:00.138997Z",
+    "error": "[ERROR] HTTPSConnectionPool(host='www.nnph.org', port=443): Max retries exceeded with url: /programs-and-services/air-quality/index.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))"
+  }
+]

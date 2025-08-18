@@ -1,0 +1,35 @@
+## https://minerals.nv.gov/Programs/OG/OG/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:07.756274Z
+- Summary: No change detected
+
+## https://puc.nv.gov/Safety/Pipeline/
+- Updated: True
+- Last Checked: 2025-08-18T04:45:08.739005Z
+- Summary: Updated
+
+## https://ndep.nv.gov/air/permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:45:10.240647Z
+- Summary: No change detected
+
+## https://ndep.nv.gov/water/water-pollution-control/permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:45:11.537268Z
+- Summary: No change detected
+
+## https://lands.nv.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:12.821996Z
+- Summary: No change detected
+
+## https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:45:12.929922Z
+- Summary: No change detected
+
+## https://www.nnph.org/programs-and-services/air-quality/index.php
+- Updated: False
+- Last Checked: 2025-08-18T04:45:13.038341Z
+- Summary: None
+
