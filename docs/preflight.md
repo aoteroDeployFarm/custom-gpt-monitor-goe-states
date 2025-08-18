@@ -10,7 +10,7 @@
 
 1. 🧱 Project Structure
     This assumes the repository is cloned and looks like:
-
+```
 custom-gpt-monitor-goe-states/
 ├── app/
 │   ├── scraper.py        # Scraper CLI/logic
@@ -19,6 +19,7 @@ custom-gpt-monitor-goe-states/
 │   └── state_urls.json   # Regulatory links for all 50 states
 ├── requirements.txt
 └── ...
+```
 
 2. 🐍 Set Up Python Environment
 Option A — Use system Python (simplest)
