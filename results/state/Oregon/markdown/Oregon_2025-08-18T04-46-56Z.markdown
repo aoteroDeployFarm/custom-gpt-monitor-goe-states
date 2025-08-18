@@ -1,0 +1,55 @@
+## https://www.oregon.gov/puc/safety/pages/gas-pipeline-safety.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:55.536238Z
+- Summary: No change detected
+
+## https://www.oregon.gov/deq/aq/aqpermits/pages/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:55.653012Z
+- Summary: No change detected
+
+## https://www.oregon.gov/deq/aq/aqpermits/pages/tvrule.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:55.770920Z
+- Summary: No change detected
+
+## https://www.lrapa-or.gov/air-quality-protection/permitting-lane-county-sources/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:55.970101Z
+- Summary: None
+
+## https://www.lrapa-or.gov/forms/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.158375Z
+- Summary: None
+
+## https://www.oregon.gov/deq/wq/wqpermits/pages/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.265778Z
+- Summary: No change detected
+
+## https://www.oregon.gov/deq/permits/pages/npdeswpcf-in-ydo.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.385335Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/oregon-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.502003Z
+- Summary: No change detected
+
+## https://www.oregon.gov/deq/get-involved/pages/public-notices.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.617699Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/clean-air-act-permitting-authorities-oregon
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.724534Z
+- Summary: No change detected
+
+## https://www.oregon.gov/lcd/ocmp/pages/federal-consistency.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:46:56.839127Z
+- Summary: No change detected
+
