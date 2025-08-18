@@ -1,0 +1,25 @@
+## https://www.dmr.nd.gov/oilgas/
+- Updated: True
+- Last Checked: 2025-08-18T04:46:18.803163Z
+- Summary: Updated
+
+## https://deq.nd.gov/aq/permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:19.054383Z
+- Summary: No change detected
+
+## https://deq.nd.gov/WQ/2_NDPDES_Permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:19.352808Z
+- Summary: No change detected
+
+## https://psc.nd.gov/jurisdiction/pipelines/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:19.620831Z
+- Summary: No change detected
+
+## https://www.land.nd.gov/minerals-management
+- Updated: False
+- Last Checked: 2025-08-18T04:46:20.110155Z
+- Summary: No change detected
+
