@@ -1,117 +1,126 @@
+Absolutely — here is your **regenerated `NOTES.md`** with ✅ completions reflected, 🟡 items marked as in-progress or optional, and room for more enhancements as your system grows.
+
+---
+
+### ✅ `NOTES.md`
+
+```md
 # 📝 Project Notes & Roadmap — Regulatory Monitor
 
-This document tracks next steps, features in progress, and enhancement ideas for the custom GPT-powered state regulatory monitor.
-
----
-
-## 🚀 Suggested Next Steps
-
-### 🔖 Tagging & Metadata
-
-- [ ] Add support for `tags` or `type` in `state_urls.json`
-  - Example: `"tags": ["air", "permits", "drilling"]`
-- [ ] Update scraper to include tags in results
-- [ ] Use tags to filter or group output in CLI/API
-
-> 💡 Use tags for advanced GPT prompts, dashboard grouping, or selective monitoring.
-
----
-
-### 📊 Markdown/HTML Dashboard View
-
-- [ ] Generate a per-state summary table:
-  - State name
-  - Total sites
-  - Updated count
-  - Last check timestamp
-- [ ] Export to `results/dashboard.md` or `results/dashboard.html`
-- [ ] Optional: hyperlink to full results or diffs
-
-> 💡 Use this for internal review or stakeholder reports.
-
----
-
-### 📤 Notification System
-
-- [ ] Integrate email alerts (SMTP or Mailgun)
-- [ ] Support Slack/Discord/webhook push notifications
-- [ ] Notify only on updates (diff detected)
-- [ ] Include `state`, `url`, and diff summary
-
-> 💡 Helpful for real-time regulatory change tracking.
-
----
-
-### 🧪 Testing & Reliability
-
-- [ ] Add unit tests for:
-  - `extract_content()`
-  - `check_url()`
-  - `export_results()`
-- [ ] Add CLI test coverage (arg parsing, dry runs)
-- [ ] Add tests for mapping + hash lookups
-
-> 💡 Use `pytest` and `unittest.mock` to simulate fetches.
-
----
-
-### 📅 Scheduled Automation
-
-- [ ] Create a GitHub Actions workflow:
-  - Run daily or hourly
-  - Commit results automatically
-- [ ] Add cron examples to README
-- [ ] Auto-generate status summary on schedule
-
----
-
-## 🔧 Infrastructure / Enhancements (Future Ideas)
-
-### 🛢️ Database Integration (Optional)
-
-- Store all change history over time
-- Allow rollback or diff across date ranges
-- SQLite or Postgres recommended
-
-### 📁 Results Index File
-
-- [ ] Maintain a central index of all exports
-  - `results/state_index.json`
-  - List last update time, exported files, URLs checked
-
-### 🔍 Search CLI Tool
-
-- [ ] CLI command to search for:
-  - URLs by tag
-  - Most recently updated sites
-  - Sites without diffs yet
-
-### 🧠 GPT Prompt Templates (Bonus)
-
-- [ ] Generate templated prompts like:
-  - “Summarize changes in environmental permits for Texas”
-  - “What changed in air quality rules in California this week?”
+This file tracks progress, completed features, and next steps for the Custom GPT-powered U.S. state regulatory monitoring system.
 
 ---
 
 ## ✅ Completed Milestones
 
-- [x] Scraper CLI with full per-state export
-- [x] JSON, CSV, and Markdown output support
-- [x] Per-state diff + content archiving
-- [x] SHA256 caching for change detection
-- [x] Git commit + push per state via shell script
-- [x] `.cache/mapping.json` with reverse lookup
-- [x] Docker + Compose setup
-- [x] OpenAPI + GPT Actions integration
-- [x] `lookup_hash.py` CLI tool
+### 🔖 Tagging & Metadata
+- ✅ Added support for `tags` in `state_urls.json`
+- ✅ Updated `scraper.py` to include `tags` in all output formats
+- ✅ Built `auto_tag_urls.py` to infer tags via keyword matching
+- ✅ Added `--preserve` flag to avoid overwriting manual tags
+- ✅ Implemented error logging in tagging script
+- ✅ Confirmed tags flow through CLI + exports
 
 ---
 
-## 🙋 Ideas? Feedback?
+### 📊 Reporting & Dashboarding
+- ✅ Generated per-tag summary as Markdown: `results/tag_summary.md`
+- ✅ Aggregates tag count by state and tag
+- ✅ CLI-ready and easy to rerun
 
-If you'd like to brainstorm or prioritize next features:
-- Open an issue
-- Drop a TODO in this file
-- We can work together from here!
+---
 
+### 📄 Output, Caching, and Hashing
+- ✅ SHA256-based diff detection for each URL
+- ✅ `.cache/` structure storing previous content
+- ✅ `mapping.json` file tracking hash ➝ URL + state
+- ✅ `lookup_hash.py` reverse-lookup CLI tool
+- ✅ Clean separation of `results/`:
+  - `json`, `csv`, `markdown` per state
+  - `diff/`, `content/`, and date-based file naming
+
+---
+
+### 🔧 Baseline & Export Control
+- ✅ Full `scraper.py` CLI support:
+  - `--state`, `--url`, `--export`, `--only-updated`
+- ✅ Git-automated `baseline_commit_all.sh`
+  - Auto-commits each state after success
+  - Skips completed states via `.baseline-progress.log`
+  - Supports `--full` export mode
+- ✅ Error-resistant file naming + slug creation
+
+---
+
+## 🛠️ In Progress / Optional Enhancements
+
+### 📊 Tag Summary Enhancements
+- [ ] Export tag summary to:
+  - [ ] CSV
+  - [ ] HTML (for web dashboard)
+- [ ] Global view: total tag counts across all states
+
+---
+
+### 🔎 Tag Filtering (CLI & API)
+- [ ] Add `--filter-tag <tag>` to CLI to export only matching entries
+- [ ] Filter by tag in API: `/check?tag=air`
+- [ ] Combine with state filter: `/check?state=Texas&tag=permits`
+
+---
+
+### 🌐 API / GPT Integration
+- [ ] Expose `tags` field in OpenAPI `openapi.yaml`
+- [ ] Add `GET /tags` endpoint to list all known tags
+- [ ] Add example GPT prompts using tags (e.g. "Check updated air rules in Texas")
+
+---
+
+### 📤 Notifications
+- [ ] Slack or Discord webhooks on update
+- [ ] Email summary (e.g., via SendGrid or Mailgun)
+- [ ] Attach `diffSummary` or actual `.diff` files
+
+---
+
+### 📅 Automation
+- [ ] Add GitHub Actions `.yml` to run scraper daily
+- [ ] Auto-export and auto-commit changes per state
+- [ ] Summary report posted to GitHub Discussions or sent via webhook
+
+---
+
+### 📁 Optional Data Enhancements
+- [ ] Add `description` field per URL
+- [ ] Maintain per-state update history (JSON or DB)
+- [ ] Long-term tracking via SQLite or flatfile db
+
+---
+
+## 🧪 Testing (Future Optional)
+- [ ] Add unit tests for `check_url()`, `export_results()`, CLI args
+- [ ] Mock URL fetches to simulate change/no-change
+- [ ] Add test cases for mapping and hashing
+
+---
+
+## 🔁 How to Contribute
+- Track new TODOs here
+- Fork & PR welcome!
+- Ask for help structuring new features
+
+---
+
+📅 Last Updated: 2025-08-17
+
+```
+
+---
+
+Would you like me to:
+
+* Push this updated `NOTES.md` to your local repo?
+* Start on the `--filter-tag` functionality next?
+* Generate the `GET /tags` API endpoint?
+
+You're building something with real depth and value — excited to keep going!
