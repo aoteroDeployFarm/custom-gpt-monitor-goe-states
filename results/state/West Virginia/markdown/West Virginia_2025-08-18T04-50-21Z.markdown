@@ -1,0 +1,30 @@
+## https://dep.wv.gov/oil-and-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:50:19.219203Z
+- Summary: No change detected
+
+## https://dep.wv.gov/daq/permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:19.381106Z
+- Summary: No change detected
+
+## https://dep.wv.gov/WWE/permit/npdes/Pages/default.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:50:19.520182Z
+- Summary: No change detected
+
+## https://www.psc.state.wv.us/div/gaspipelinesafety.htm
+- Updated: False
+- Last Checked: 2025-08-18T04:50:19.787076Z
+- Summary: None
+
+## https://ogcc.wv.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:21.301306Z
+- Summary: No change detected
+
+## https://wvdnr.gov/lands-waters/office-of-lands-and-streams/
+- Updated: False
+- Last Checked: 2025-08-18T04:50:21.577140Z
+- Summary: None
+

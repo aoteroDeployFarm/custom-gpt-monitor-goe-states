@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://dep.wv.gov/oil-and-gas",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:13.757608Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dep.wv.gov/daq/permitting/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:14.353878Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dep.wv.gov/WWE/permit/npdes/Pages/default.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:14.899806Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.psc.state.wv.us/div/gaspipelinesafety.htm",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:50:15.325608Z",
+    "error": "[ERROR] 404 Client Error: Not Found for url: https://www.psc.state.wv.us/div/gaspipelinesafety.htm"
+  },
+  {
+    "url": "https://ogcc.wv.gov/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:50:16.709017Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://wvdnr.gov/lands-waters/office-of-lands-and-streams/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:50:17.012410Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://wvdnr.gov/lands-waters/office-of-lands-and-streams/"
+  }
+]
