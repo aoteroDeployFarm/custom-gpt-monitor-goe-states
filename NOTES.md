@@ -1,10 +1,3 @@
-Absolutely — here is your **regenerated `NOTES.md`** with ✅ completions reflected, 🟡 items marked as in-progress or optional, and room for more enhancements as your system grows.
-
----
-
-### ✅ `NOTES.md`
-
-```md
 # 📝 Project Notes & Roadmap — Regulatory Monitor
 
 This file tracks progress, completed features, and next steps for the Custom GPT-powered U.S. state regulatory monitoring system.
@@ -112,15 +105,3 @@ This file tracks progress, completed features, and next steps for the Custom GPT
 ---
 
 📅 Last Updated: 2025-08-17
-
-```
-
----
-
-Would you like me to:
-
-* Push this updated `NOTES.md` to your local repo?
-* Start on the `--filter-tag` functionality next?
-* Generate the `GET /tags` API endpoint?
-
-You're building something with real depth and value — excited to keep going!
