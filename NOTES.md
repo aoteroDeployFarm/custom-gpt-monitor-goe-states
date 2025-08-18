@@ -33,7 +33,8 @@ This project tracks and monitors regulatory websites across **all 50 U.S. states
 
 ## 🗂️ Project Directory Structure
 
-regulatory-monitor/
+```
+custom-gpt-monitor-goe-state/
 ├── app/
 │   ├── scraper.py       # Main CLI scraper logic
 │   └── api.py           # FastAPI web server
@@ -52,7 +53,7 @@ regulatory-monitor/
 ├── Dockerfile
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ### 🧪 How to Run
