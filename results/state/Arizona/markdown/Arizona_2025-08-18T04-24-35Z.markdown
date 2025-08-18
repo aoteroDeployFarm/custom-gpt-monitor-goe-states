@@ -1,0 +1,50 @@
+## https://azogcc.az.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.019632Z
+- Summary: No change detected
+
+## https://azogcc.az.gov/permits
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.246078Z
+- Summary: No change detected
+
+## https://azcc.gov/safety/pipeline-safety/pipeline
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.613351Z
+- Summary: No change detected
+
+## https://azdeq.gov/air-permits-comp
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.708737Z
+- Summary: None
+
+## https://azdeq.gov/permits/AZPDES/IND
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.804873Z
+- Summary: None
+
+## https://azdeq.gov/SWPPermitting
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.889188Z
+- Summary: None
+
+## https://land.az.gov/applications-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:24:34.978629Z
+- Summary: None
+
+## https://www.maricopa.gov/1818/Permits-Forms-and-Payments
+- Updated: False
+- Last Checked: 2025-08-18T04:24:35.170417Z
+- Summary: No change detected
+
+## https://www.pima.gov/439/Air-Quality-Permits
+- Updated: False
+- Last Checked: 2025-08-18T04:24:35.378350Z
+- Summary: No change detected
+
+## https://www.pinal.gov/1255/Permitting
+- Updated: False
+- Last Checked: 2025-08-18T04:24:35.523758Z
+- Summary: No change detected
+

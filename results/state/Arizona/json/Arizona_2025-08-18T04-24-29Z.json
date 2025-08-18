@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://azogcc.az.gov/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:24:25.242233Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://azogcc.az.gov/permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:24:25.539030Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://azcc.gov/safety/pipeline-safety/pipeline",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:24:26.000049Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://azdeq.gov/air-permits-comp",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:24:26.169016Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://azdeq.gov/air-permits-comp"
+  },
+  {
+    "url": "https://azdeq.gov/permits/AZPDES/IND",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:24:26.274257Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://azdeq.gov/permits/AZPDES/IND"
+  },
+  {
+    "url": "https://azdeq.gov/SWPPermitting",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:24:26.382276Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://azdeq.gov/SWPPermitting"
+  },
+  {
+    "url": "https://land.az.gov/applications-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:24:26.548196Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://land.az.gov/applications-permits"
+  },
+  {
+    "url": "https://www.maricopa.gov/1818/Permits-Forms-and-Payments",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:24:27.849286Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.pima.gov/439/Air-Quality-Permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:24:29.183567Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.pinal.gov/1255/Permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:24:29.935531Z",
+    "diffSummary": "Updated"
+  }
+]
