@@ -1,0 +1,25 @@
+## https://oklahoma.gov/occ/divisions/oil-gas.html
+- Updated: False
+- Last Checked: 2025-08-18T04:46:41.396775Z
+- Summary: No change detected
+
+## https://oklahoma.gov/occ/divisions/public-utility/pipeline-safety.html
+- Updated: False
+- Last Checked: 2025-08-18T04:46:41.573664Z
+- Summary: No change detected
+
+## https://www.deq.ok.gov/air-quality-division/air-permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:41.737709Z
+- Summary: None
+
+## https://www.deq.ok.gov/water-quality-division/permitting/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:41.864484Z
+- Summary: None
+
+## https://clo.ok.gov/services/minerals-leasing/
+- Updated: False
+- Last Checked: 2025-08-18T04:46:42.043313Z
+- Summary: No change detected
+

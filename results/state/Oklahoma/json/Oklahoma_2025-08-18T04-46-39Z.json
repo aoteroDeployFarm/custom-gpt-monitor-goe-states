@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://oklahoma.gov/occ/divisions/oil-gas.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:46:37.219819Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://oklahoma.gov/occ/divisions/public-utility/pipeline-safety.html",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:46:38.999580Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.deq.ok.gov/air-quality-division/air-permits/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:39.226765Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.ok.gov/air-quality-division/air-permits/"
+  },
+  {
+    "url": "https://www.deq.ok.gov/water-quality-division/permitting/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:46:39.519055Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.deq.ok.gov/water-quality-division/permitting/"
+  },
+  {
+    "url": "https://clo.ok.gov/services/minerals-leasing/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:46:39.798882Z",
+    "diffSummary": "Updated"
+  }
+]
