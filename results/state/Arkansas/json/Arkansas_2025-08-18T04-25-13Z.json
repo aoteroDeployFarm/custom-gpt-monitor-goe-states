@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://ee.arkansas.gov/energy/oil-gas-commission/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:25:10.964983Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://ee.arkansas.gov/energy/oil-gas-commission/"
+  },
+  {
+    "url": "https://www.aogc.state.ar.us/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:25:11.087558Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.aogc.state.ar.us/"
+  },
+  {
+    "url": "https://www.adeq.state.ar.us/air/permits/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:25:11.792983Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://ee.arkansas.gov/environment/office-of-air-quality/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:25:12.032677Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://ee.arkansas.gov/environment/office-of-air-quality/"
+  },
+  {
+    "url": "https://www.adeq.state.ar.us/water/permits/npdes/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:25:12.640281Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/arkansas-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:25:12.789976Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://apsc.arkansas.gov/utilities/pipeline-safety/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:25:13.000475Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://apsc.arkansas.gov/utilities/pipeline-safety/"
+  }
+]

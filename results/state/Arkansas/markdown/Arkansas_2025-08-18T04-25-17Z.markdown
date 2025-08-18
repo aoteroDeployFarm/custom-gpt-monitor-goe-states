@@ -1,0 +1,35 @@
+## https://ee.arkansas.gov/energy/oil-gas-commission/
+- Updated: False
+- Last Checked: 2025-08-18T04:25:15.567921Z
+- Summary: None
+
+## https://www.aogc.state.ar.us/
+- Updated: False
+- Last Checked: 2025-08-18T04:25:15.657407Z
+- Summary: None
+
+## https://www.adeq.state.ar.us/air/permits/
+- Updated: True
+- Last Checked: 2025-08-18T04:25:16.213672Z
+- Summary: Updated
+
+## https://ee.arkansas.gov/environment/office-of-air-quality/
+- Updated: False
+- Last Checked: 2025-08-18T04:25:16.319506Z
+- Summary: None
+
+## https://www.adeq.state.ar.us/water/permits/npdes/
+- Updated: True
+- Last Checked: 2025-08-18T04:25:16.848763Z
+- Summary: Updated
+
+## https://www.epa.gov/npdes-permits/arkansas-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:25:16.958182Z
+- Summary: No change detected
+
+## https://apsc.arkansas.gov/utilities/pipeline-safety/
+- Updated: False
+- Last Checked: 2025-08-18T04:25:17.129031Z
+- Summary: None
+
