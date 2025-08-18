@@ -15,7 +15,7 @@ A modular Python project that tracks and monitors regulatory data across oil, ga
 ---
 
 ## 🗂️ Project Directory Structure
-
+```
 custom-gpt-monitor-goe-states/
 ├── app/
 │ ├── init.py # Makes app a package
@@ -41,8 +41,7 @@ custom-gpt-monitor-goe-states/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Ignore cache/results, etc.
 └── README.md # You're reading it!
-
-
+```
 ---
 
 ## ⚙️ Installation
