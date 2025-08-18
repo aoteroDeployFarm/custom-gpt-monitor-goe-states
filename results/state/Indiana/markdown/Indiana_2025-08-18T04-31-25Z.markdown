@@ -1,0 +1,45 @@
+## https://www.in.gov/dnr/oil-and-gas/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:23.003030Z
+- Summary: No change detected
+
+## https://www.in.gov/dnr/oil-and-gas/permits-and-forms/permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:23.288862Z
+- Summary: No change detected
+
+## https://www.in.gov/dnr/oil-and-gas/oil-and-gas-leasing-of-state-owned-lands/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:23.585513Z
+- Summary: No change detected
+
+## https://www.in.gov/idem/airpermit/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:23.902136Z
+- Summary: No change detected
+
+## https://www.in.gov/idem/airpermit/information-about/operating-permits/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:24.213872Z
+- Summary: No change detected
+
+## https://www.in.gov/idem/cleanwater/wastewater-permitting/national-pollutant-discharge-elimination-system-npdes/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:24.521155Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/indiana-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:31:24.624323Z
+- Summary: No change detected
+
+## https://www.in.gov/iurc/pipeline-safety-division/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:24.971996Z
+- Summary: No change detected
+
+## https://www.in.gov/iurc/pipeline-safety-division/regulation-of-gas-operators/
+- Updated: False
+- Last Checked: 2025-08-18T04:31:25.365531Z
+- Summary: No change detected
+
