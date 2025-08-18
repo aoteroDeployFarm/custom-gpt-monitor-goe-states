@@ -15,33 +15,6 @@ A modular Python project that tracks and monitors regulatory data across oil, ga
 ---
 
 ## 🗂️ Project Directory Structure
-```
-custom-gpt-monitor-goe-states/
-├── app/
-│ ├── init.py # Makes app a package
-│ ├── scraper.py # Main scraper logic (CLI & importable)
-│ └── api.py # FastAPI app for GPT Action integration
-│
-├── config/
-│ └── state_urls.json # JSON config with 50-state regulatory URLs
-│
-├── results/
-│ ├── last_run.json # Latest results in JSON format
-│ ├── last_run.csv # Optional CSV export
-│ └── last_run.md # Optional Markdown export
-│
-├── .cache/ # SHA256 hashes of previously seen content
-│
-├── openapi/
-│ └── openapi.yaml # OpenAPI 3.1.0 spec for GPT Action
-│
-├── scripts/
-│ └── setup.sh # Bash script to scaffold this structure
-│
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore cache/results, etc.
-└── README.md # You're reading it!
-```
 ---
 
 ## ⚙️ Installation
@@ -122,3 +95,30 @@ custom-gpt-monitor-goe-states/
 ## 🙋 Questions?
    * Open an issue
    * Start a discussion    
+## 📁 Project Directory Structure
+
+```
+custom-gpt-monitor-goe-state/
+├── app
+│   ├── __init__.py
+│   ├── api.py
+│   └── scraper.py
+├── config
+│   └── state_urls.json
+├── Dockerfile
+├── init_project.sh
+├── NOTES.md
+├── openapi
+│   └── openapi.yaml
+├── README.md
+├── requirements.txt
+├── results
+│   ├── last_run.csv
+│   ├── last_run.json
+│   └── last_run.md
+├── scripts
+│   └── setup.sh
+└── setup.sh
+
+6 directories, 15 files
+```
