@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://www.gsa.state.al.us/ogb",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:11.910357Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.gsa.state.al.us/ogb/wells",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:12.185674Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://adem.alabama.gov/air/air-permitting",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:12.739689Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://adem.alabama.gov/air",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:13.685984Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://adem.alabama.gov/water/npdes-programs/npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:14.564767Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://adem.alabama.gov/water/npdes-programs/construction-general-permit",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:14.995697Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/alabama-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:15.124932Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://psc.alabama.gov/gas-pipeline-safety/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:15.383256Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://apsc.alabama.gov/Energy/GPS/gas_pipeline_safety_section.htm",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:22:15.523715Z",
+    "error": "[ERROR] HTTPSConnectionPool(host='apsc.alabama.gov', port=443): Max retries exceeded with url: /Energy/GPS/gas_pipeline_safety_section.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:992)')))"
+  },
+  {
+    "url": "https://www.jcdh.org/SitePages/Misc/TitleVAirPermits.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:15.819800Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.jcdh.org/SitePages/Programs-Services/EnvironmentalHealth/Air-RadiationProtectionDivision/RegAirFac.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:22:16.119707Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:22:16.447377Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/"
+  },
+  {
+    "url": "https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/air-permit/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:22:16.744078Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.huntsvilleal.gov/environment/air-quality/air-quality-permits/air-permit/"
+  },
+  {
+    "url": "https://www.huntsvilleal.gov/business/licensing-permits/environment-licenses/air-permits/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:22:17.041243Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.huntsvilleal.gov/business/licensing-permits/environment-licenses/air-permits/"
+  }
+]
