@@ -1,0 +1,35 @@
+## https://www.dnr.louisiana.gov/page/permit-to-drill-applications
+- Updated: False
+- Last Checked: 2025-08-18T04:38:02.275951Z
+- Summary: No change detected
+
+## https://www.dnr.louisiana.gov/page/pd-pipeline-division
+- Updated: False
+- Last Checked: 2025-08-18T04:38:02.713770Z
+- Summary: No change detected
+
+## https://deq.louisiana.gov/page/air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:38:03.012059Z
+- Summary: No change detected
+
+## https://deq.louisiana.gov/page/lpdes
+- Updated: False
+- Last Checked: 2025-08-18T04:38:03.322582Z
+- Summary: No change detected
+
+## https://www.dnr.louisiana.gov/page/office-of-coastal-management-home-page
+- Updated: False
+- Last Checked: 2025-08-18T04:38:03.621756Z
+- Summary: No change detected
+
+## https://www.dnr.louisiana.gov/page/applying-for-a-coastal-use-permit
+- Updated: False
+- Last Checked: 2025-08-18T04:38:03.975970Z
+- Summary: No change detected
+
+## https://www.dnr.louisiana.gov/page/state-mineral-and-energy-board
+- Updated: False
+- Last Checked: 2025-08-18T04:38:04.297842Z
+- Summary: No change detected
+
