@@ -1,0 +1,70 @@
+## https://www.floridapsc.com/pscfiles/website-files/PDF/Utilities/Electricgas/GasSafety//RuleBookletCh25-2025.pdf
+- Updated: True
+- Last Checked: 2025-08-18T04:28:52.383042Z
+- Summary: Updated
+
+## https://www.floridapsc.com/pscfiles/website-files/PDF/Publications/Reports/ElectricGas/Pipeline/2023.pdf
+- Updated: True
+- Last Checked: 2025-08-18T04:28:53.279151Z
+- Summary: Updated
+
+## https://floridadep.gov/air/permitting-compliance/content/air-permit-application
+- Updated: False
+- Last Checked: 2025-08-18T04:28:53.937810Z
+- Summary: No change detected
+
+## https://floridadep.gov/air/permitting-compliance/documents/air-construction-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:28:54.460293Z
+- Summary: No change detected
+
+## https://floridadep.gov/air/permitting-compliance/documents/air-operation-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:28:54.973016Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/clean-air-act-permitting-florida
+- Updated: False
+- Last Checked: 2025-08-18T04:28:55.088515Z
+- Summary: No change detected
+
+## https://floridadep.gov/air/air-director/content/how-find-air-documents-online
+- Updated: False
+- Last Checked: 2025-08-18T04:28:55.544879Z
+- Summary: No change detected
+
+## https://prodenv.dep.state.fl.us/DepNexus/public/searchPortal
+- Updated: False
+- Last Checked: 2025-08-18T04:28:56.091772Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/florida-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:28:56.189740Z
+- Summary: No change detected
+
+## https://floridadep.gov/water/industrial-wastewater
+- Updated: False
+- Last Checked: 2025-08-18T04:28:56.630820Z
+- Summary: No change detected
+
+## https://floridadep.gov/water/stormwater
+- Updated: False
+- Last Checked: 2025-08-18T04:28:57.118678Z
+- Summary: No change detected
+
+## https://floridadep.gov/rcp/fcmp/content/federal-consistency-intergovernmental-coordination-and-review
+- Updated: False
+- Last Checked: 2025-08-18T04:28:57.684532Z
+- Summary: No change detected
+
+## https://floridadep.gov/rcp/fcmp/content/about-florida-coastal-management-program
+- Updated: False
+- Last Checked: 2025-08-18T04:28:58.125093Z
+- Summary: No change detected
+
+## https://floridadep.gov/air/air-director/content/local-program-air-contacts
+- Updated: False
+- Last Checked: 2025-08-18T04:28:58.750201Z
+- Summary: No change detected
+

@@ -1,0 +1,530 @@
+
+
+
+
+Electronic Document Search Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip Navigation
+
+
+
+
+
+
+
+
+Information Portal
+
+Nexus
+Enterprise Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+Facility and Document Search
+
+
+Facility/Site Search
+Enter at least one search criterion below to access facility-related information and documents.
+Hints: If you don't receive the results expected (e.g. no documents, no result), use different search criteria (e.g. Facility Name & County).
+You can use the wild card '%' to help expand your search results.
+
+
+
+
+
+
+Facility/Site ID:
+
+
+
+
+
+
+
+Facility Name:
+
+
+
+
+
+
+
+Facility Address:
+
+
+
+
+
+
+
+City:
+
+
+
+
+
+
+
+Regulatory District:
+
+
+
+
+Central District
+Northeast District
+Northwest District
+South District
+Southeast District
+Southwest District
+
+
+
+
+
+County:
+
+
+
+
+Alachua
+Baker
+Bay
+Bradford
+Brevard
+Broward
+Calhoun
+Charlotte
+Citrus
+Clay
+Collier
+Columbia
+Miami-Dade
+DeSoto
+Dixie
+Duval
+Escambia
+Flagler
+Franklin
+Gadsden
+Gilchrist
+Glades
+Gulf
+Hamilton
+Hardee
+Hendry
+Hernando
+Highlands
+Hillsborough
+Holmes
+Indian River
+Jackson
+Jefferson
+Lafayette
+Lake
+Lee
+Leon
+Levy
+Liberty
+Madison
+Manatee
+Marion
+Martin
+Monroe
+Nassau
+Okaloosa
+Okeechobee
+Orange
+Osceola
+Palm Beach
+Pasco
+Pinellas
+Polk
+Putnam
+St. Johns
+St. Lucie
+Santa Rosa
+Sarasota
+Seminole
+Sumter
+Suwannee
+Taylor
+Union
+Volusia
+Wakulla
+Walton
+Washington
+Non-FL Cnty
+Intl Waters
+
+
+
+
+
+                                 
+                            
+
+Show All
+Facilities Without Documents
+Facilities With Documents
+
+
+
+
+
+
+
+
+Sort Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+  
+
+
+
+Document Search
+
+Enter at least one search criterion to generate a list of documents.
+Hints: If you don't receive the results expected (e.g. no documents, no result), use different search criteria (e.g. Facility Name & County).
+You can use the wild card '%' to help expand your search results.
+
+
+
+
+
+
+
+
+Division:
+
+
+
+Air
+
+
+
+Water
+
+
+
+Waste
+
+
+
+
+Document Type:
+
+
+
+
+
+
+Taxonomy
+
+
+
+
+
+Document Date:
+
+
+From: 
+                                
+                                
+                                    
+                                To: 
+                                
+                                
+
+
+
+
+Date Received:
+
+
+From: 
+                                
+                                
+                                    
+                                To: 
+                                
+                                
+
+
+
+
+Document Subject:
+
+
+
+
+
+
+
+Facility ID:
+
+
+
+
+
+
+
+Permit/Application Number:
+
+
+
+
+
+
+
+Regulatory District:
+
+
+
+
+Central District
+Northeast District
+Northwest District
+South District
+Southeast District
+Southwest District
+
+
+
+
+
+County:
+
+
+
+
+Alachua
+Baker
+Bay
+Bradford
+Brevard
+Broward
+Calhoun
+Charlotte
+Citrus
+Clay
+Collier
+Columbia
+Miami-Dade
+DeSoto
+Dixie
+Duval
+Escambia
+Flagler
+Franklin
+Gadsden
+Gilchrist
+Glades
+Gulf
+Hamilton
+Hardee
+Hendry
+Hernando
+Highlands
+Hillsborough
+Holmes
+Indian River
+Jackson
+Jefferson
+Lafayette
+Lake
+Lee
+Leon
+Levy
+Liberty
+Madison
+Manatee
+Marion
+Martin
+Monroe
+Nassau
+Okaloosa
+Okeechobee
+Orange
+Osceola
+Palm Beach
+Pasco
+Pinellas
+Polk
+Putnam
+St. Johns
+St. Lucie
+Santa Rosa
+Sarasota
+Seminole
+Sumter
+Suwannee
+Taylor
+Union
+Volusia
+Wakulla
+Walton
+Washington
+Non-FL Cnty
+Intl Waters
+
+
+
+
+
+
+
+
+
+Sort Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+
+
+
+Disclaimer: The Florida Department of Environmental Protection (FDEP) has made a reasonable effort to ensure that the
+                information provided is up-to-date and comprehensive but cannot guarantee the accuracy or completeness of the data. Any specific,
+                missing information may be obtained through a public records request. For more information visit our
+                Public Records web site.
+            
+
+
+
+
+
+
+
+Search Sort Order
+
+
+
+
+Selectable:
+
+
+
+
+>>
+<<
+
+
+
+
+Selected:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+            
+                
+                    nexus-portal-webapp — 3.8.34.
+                    
+                    Office of Technology and Information Services
+Site
+                Map
+             —
+            For Assistance Please Contact
+             —
+            (850) 245-7555
+             —
+            Contact
+                Us
+
+
+
+
+
+
+
+
+
