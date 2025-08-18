@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:22.253202Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas"
+  },
+  {
+    "url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:22.331212Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms"
+  },
+  {
+    "url": "https://www.deq.state.mi.us/dataminer/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:42:22.952972Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.024773Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/egle/about/organization/air-quality/air-permits"
+  },
+  {
+    "url": "https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.115966Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review"
+  },
+  {
+    "url": "https://www.egle.state.mi.us/aps/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:42:23.393608Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/npdes",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.479488Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/egle/about/organization/water-resources/npdes"
+  },
+  {
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.558048Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/michigan-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:42:23.678387Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.742991Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety"
+  },
+  {
+    "url": "https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.813947Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas"
+  },
+  {
+    "url": "https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:42:23.893290Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing"
+  }
+]

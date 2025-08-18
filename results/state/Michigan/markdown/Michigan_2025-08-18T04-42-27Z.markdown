@@ -1,0 +1,60 @@
+## https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:42:25.995000Z
+- Summary: None
+
+## https://www.michigan.gov/egle/about/organization/geologic-resources-management/oil-and-gas/forms
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.061906Z
+- Summary: None
+
+## https://www.deq.state.mi.us/dataminer/
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.396129Z
+- Summary: No change detected
+
+## https://www.michigan.gov/egle/about/organization/air-quality/air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.551464Z
+- Summary: None
+
+## https://www.michigan.gov/egle/about/organization/air-quality/air-permits/new-source-review
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.624918Z
+- Summary: None
+
+## https://www.egle.state.mi.us/aps/
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.760697Z
+- Summary: No change detected
+
+## https://www.michigan.gov/egle/about/organization/water-resources/npdes
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.834599Z
+- Summary: None
+
+## https://www.michigan.gov/egle/about/organization/water-resources/npdes/general-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:26.902464Z
+- Summary: None
+
+## https://www.epa.gov/npdes-permits/michigan-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:42:27.019347Z
+- Summary: No change detected
+
+## https://www.michigan.gov/mpsc/regulatory/natural-gas/pipeline-safety
+- Updated: False
+- Last Checked: 2025-08-18T04:42:27.086267Z
+- Summary: None
+
+## https://www.michigan.gov/dnr/managing-resources/minerals/oil-and-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:42:27.161420Z
+- Summary: None
+
+## https://www.michigan.gov/dnr/faqs/minerals/oil-and-gas-leasing
+- Updated: False
+- Last Checked: 2025-08-18T04:42:27.246979Z
+- Summary: None
+
