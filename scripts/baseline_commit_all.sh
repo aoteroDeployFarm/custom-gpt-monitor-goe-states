@@ -7,6 +7,9 @@ LOG_FILE=".baseline-progress.log"
 # Stop on error
 set -e
 
+# Enable recursive globbing
+shopt -s globstar nullglob
+
 # Parse optional flag
 FULL_MODE=false
 if [[ "$1" == "--full" ]]; then
@@ -59,9 +62,16 @@ for state in "${states[@]}"; do
 
   if [ "$changes_detected" = true ]; then
     echo "  ✅ Committing all updates for $state..."
-    git add "results/state/$state/"*/**/* 2>/dev/null || true
-    git commit -m "baseline $state initial export${FULL_MODE:+ (full)}"
-    git push
+
+    git add results/state/"$state"/**/* || true
+
+    if ! git diff --cached --quiet; then
+      git commit -m "baseline $state initial export${FULL_MODE:+ (full)}"
+      git push
+    else
+      echo "⚠️  Nothing to commit for $state"
+    fi
+
     echo "$state" >> "$LOG_FILE"
     echo "✅ Done with $state"
   else
