@@ -1,0 +1,40 @@
+## https://dec.ny.gov/environmental-protection/oil-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:45:54.824153Z
+- Summary: No change detected
+
+## https://dec.ny.gov/environmental-protection/oil-gas/well-owner-and-applicants-information-center/well-permit-application-process
+- Updated: False
+- Last Checked: 2025-08-18T04:45:55.132097Z
+- Summary: No change detected
+
+## https://dec.ny.gov/regulatory/permits-licenses/air
+- Updated: False
+- Last Checked: 2025-08-18T04:45:55.489409Z
+- Summary: No change detected
+
+## https://dec.ny.gov/environmental-protection/air-quality/controlling-pollution-from-facilities/permits-registrations-fees
+- Updated: False
+- Last Checked: 2025-08-18T04:45:55.655352Z
+- Summary: No change detected
+
+## https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program
+- Updated: False
+- Last Checked: 2025-08-18T04:45:55.944532Z
+- Summary: No change detected
+
+## https://dec.ny.gov/regulatory/permits-licenses/wastewater-stormwater-water-withdrawal/spdes-permit-program/application-procedures-forms
+- Updated: False
+- Last Checked: 2025-08-18T04:45:56.127705Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/new-york-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:45:56.242031Z
+- Summary: No change detected
+
+## https://dps.ny.gov/nys-pipeline-safety-program
+- Updated: False
+- Last Checked: 2025-08-18T04:45:56.393676Z
+- Summary: No change detected
+
