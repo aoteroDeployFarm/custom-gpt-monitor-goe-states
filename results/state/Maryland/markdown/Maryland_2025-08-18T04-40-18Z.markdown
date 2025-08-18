@@ -1,0 +1,60 @@
+## https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/
+- Updated: False
+- Last Checked: 2025-08-18T04:40:14.765414Z
+- Summary: None
+
+## https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/
+- Updated: False
+- Last Checked: 2025-08-18T04:40:14.890321Z
+- Summary: None
+
+## https://mde.maryland.gov/programs/Permits/AirManagementPermits/Pages/index.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:40:15.425402Z
+- Summary: Updated
+
+## https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/permitstoconstructandoperate.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:40:16.007414Z
+- Summary: No change detected
+
+## https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/title5_issued_permits.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:40:16.377200Z
+- Summary: Updated
+
+## https://www.epa.gov/caa-permitting/caa-permitting-maryland
+- Updated: False
+- Last Checked: 2025-08-18T04:40:16.492741Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/maryland-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:40:16.597374Z
+- Summary: No change detected
+
+## https://mde.maryland.gov/programs/permits/watermanagementpermits/pages/waterpermits.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:40:16.996559Z
+- Summary: No change detected
+
+## https://mde.maryland.gov/programs/permits/pages/sb47.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:40:17.276580Z
+- Summary: No change detected
+
+## https://mdedataviewer.mde.state.md.us/Public/
+- Updated: False
+- Last Checked: 2025-08-18T04:40:17.750981Z
+- Summary: No change detected
+
+## https://mde.maryland.gov/programs/water/wetlandsandwaterways/pages/czm.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:40:18.131681Z
+- Summary: No change detected
+
+## https://dnr.maryland.gov/ccs/pages/md-coastal-zone.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:40:18.867648Z
+- Summary: No change detected
+

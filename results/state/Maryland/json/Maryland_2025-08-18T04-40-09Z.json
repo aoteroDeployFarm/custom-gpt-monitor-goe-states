@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:40:01.223464Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.psc.state.md.us/gas/natural-gas-pipeline-safety-program/"
+  },
+  {
+    "url": "https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:40:01.351516Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://www.psc.state.md.us/gas/hazardous-liquid-pipeline-safety-program/"
+  },
+  {
+    "url": "https://mde.maryland.gov/programs/Permits/AirManagementPermits/Pages/index.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:04.021519Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/permitstoconstructandoperate.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:04.792604Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://mde.maryland.gov/programs/permits/airmanagementpermits/pages/title5_issued_permits.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:05.567824Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-maryland",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:05.711490Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/maryland-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:05.855337Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://mde.maryland.gov/programs/permits/watermanagementpermits/pages/waterpermits.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:06.508896Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://mde.maryland.gov/programs/permits/pages/sb47.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:07.195319Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://mdedataviewer.mde.state.md.us/Public/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:07.808578Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://mde.maryland.gov/programs/water/wetlandsandwaterways/pages/czm.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:08.129049Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://dnr.maryland.gov/ccs/pages/md-coastal-zone.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:40:09.096195Z",
+    "diffSummary": "Updated"
+  }
+]
