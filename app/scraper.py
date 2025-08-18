@@ -10,14 +10,8 @@ import csv
 from difflib import unified_diff
 from urllib.parse import urlparse
 
-# Config paths
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), "../config/state_urls.json")
 CACHE_DIR = os.path.join(os.path.dirname(__file__), "../.cache")
-MAPPING_FILE = os.path.join(CACHE_DIR, "mapping.json")
-
-# -------------------------
-# Utility Functions
-# -------------------------
 
 def fetch_html(url):
     try:
@@ -35,24 +29,9 @@ def extract_content(html):
 def compute_hash(content):
     return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
-def slugify_url(url):
-    parsed = urlparse(url)
-    return parsed.netloc.replace(".", "_") + parsed.path.replace("/", "_")
-
 def get_cache_path(url):
-    hashed = hashlib.sha256(url.encode("utf-8")).hexdigest()
+    hashed = compute_hash(url)
     return os.path.join(CACHE_DIR, f"{hashed}.txt")
-
-def load_mapping():
-    if not os.path.exists(MAPPING_FILE):
-        return {}
-    with open(MAPPING_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-def save_mapping(mapping):
-    os.makedirs(CACHE_DIR, exist_ok=True)
-    with open(MAPPING_FILE, "w", encoding="utf-8") as f:
-        json.dump(mapping, f, indent=2)
 
 def load_last_content(url):
     path = get_cache_path(url)
@@ -67,15 +46,9 @@ def save_current_content(url, content):
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
 
-    # Save mapping
-    hashed = hashlib.sha256(url.encode("utf-8")).hexdigest()
-    mapping = load_mapping()
-    mapping[hashed] = url
-    save_mapping(mapping)
-
-# -------------------------
-# Core Logic
-# -------------------------
+def slugify_url(url):
+    parsed = urlparse(url)
+    return parsed.netloc.replace(".", "_") + parsed.path.replace("/", "_")
 
 def export_results(results, export_format="json", state=None, url=None):
     now = datetime.utcnow().strftime("%Y-%m-%dT%H-%M-%SZ")
@@ -95,21 +68,22 @@ def export_results(results, export_format="json", state=None, url=None):
     if export_format == "json":
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2)
-
     elif export_format == "markdown":
         with open(filepath, "w", encoding="utf-8") as f:
             for r in results:
                 f.write(f"## {r.get('url')}\n")
                 f.write(f"- Updated: {r.get('updated')}\n")
                 f.write(f"- Last Checked: {r.get('lastChecked')}\n")
-                f.write(f"- Summary: {r.get('diffSummary')}\n\n")
-
+                f.write(f"- Summary: {r.get('diffSummary')}\n")
+                f.write(f"- Tags: {', '.join(r.get('tags', []))}\n\n")
     elif export_format == "csv":
-        keys = ["url", "updated", "lastChecked", "diffSummary"]
+        keys = ["url", "updated", "lastChecked", "diffSummary", "tags"]
         with open(filepath, "w", encoding="utf-8", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=keys, extrasaction='ignore')
             writer.writeheader()
-            writer.writerows(results)
+            for row in results:
+                row["tags"] = ",".join(row.get("tags", []))
+                writer.writerow(row)
 
 def check_url(url, state=None):
     html = fetch_html(url)
@@ -164,17 +138,36 @@ def check_url(url, state=None):
 
     return result
 
-def check_state(state, urls, only_updated=False):
+def check_state(state, entries, only_updated=False, filter_tags=None, exclude_tags=None):
     state_results = []
-    for url in urls:
+
+    for entry in entries:
+        if isinstance(entry, dict):
+            url = entry.get("url")
+            tags = entry.get("tags", [])
+        else:
+            url = entry
+            tags = []
+
+        lower_tags = [t.lower() for t in tags]
+
+        # Apply filter
+        if filter_tags:
+            if not any(tag in lower_tags for tag in filter_tags):
+                continue
+
+        # Apply exclusion
+        if exclude_tags:
+            if any(tag in lower_tags for tag in exclude_tags):
+                continue
+
         result = check_url(url, state)
+        result["tags"] = tags
+
         if not only_updated or result.get("updated"):
             state_results.append(result)
-    return state_results
 
-# -------------------------
-# CLI Entry Point
-# -------------------------
+    return state_results
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -182,10 +175,17 @@ if __name__ == "__main__":
     parser.add_argument("--url", help="Run check for a specific URL")
     parser.add_argument("--export", help="Export format: json|csv|markdown")
     parser.add_argument("--only-updated", action="store_true", help="Export only updated results")
+    parser.add_argument("--filter-tag", help="Comma-separated list of tags to include (e.g. air,water)")
+    parser.add_argument("--exclude-tag", help="Comma-separated list of tags to exclude (e.g. permits,gas)")
+
     args = parser.parse_args()
+
+    filter_tags = [tag.strip().lower() for tag in args.filter_tag.split(",")] if args.filter_tag else None
+    exclude_tags = [tag.strip().lower() for tag in args.exclude_tag.split(",")] if args.exclude_tag else None
 
     if args.state and args.url:
         results = [check_url(args.url, args.state)]
+        results[0]["tags"] = []  # Could infer from state_urls.json
     elif args.state:
         with open(CONFIG_PATH, "r") as f:
             all_data = json.load(f)
@@ -193,13 +193,13 @@ if __name__ == "__main__":
         if not urls:
             print(f"[ERROR] No URLs found for state: {args.state}")
             exit(1)
-        results = check_state(args.state, urls, args.only_updated)
+        results = check_state(args.state, urls, args.only_updated, filter_tags, exclude_tags)
     else:
         with open(CONFIG_PATH, "r") as f:
             all_data = json.load(f)
         results = []
         for state, urls in all_data.items():
-            state_results = check_state(state, urls, args.only_updated)
+            state_results = check_state(state, urls, args.only_updated, filter_tags, exclude_tags)
             results.extend(state_results)
 
     if args.export:
