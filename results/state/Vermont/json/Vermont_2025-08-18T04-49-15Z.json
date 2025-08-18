@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://publicservice.vermont.gov/naturalgas_propane",
+    "updated": false,
+    "lastChecked": "2025-08-18T04:49:10.810969Z",
+    "error": "[ERROR] 403 Client Error: Forbidden for url: https://publicservice.vermont.gov/naturalgas_propane"
+  },
+  {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-vermont",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:11.011884Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://anrweb.vt.gov/DEC/AirFacilities/PublicSearch.aspx",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:11.914658Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://anronline.vermont.gov/Home/db48e104-7c4c-4d80-9d47-e8d05da3f707",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:12.566616Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/caa-permitting/title-v-program-evaluations-vermont",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:12.670121Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/vermont-npdes-permits",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:12.779592Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://anrweb.vt.gov/Pubdocs/DEC/ENB/ENB_V2/16329-VT%20NPDES%20PGP_Factsheet_2022.pdf",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:13.981354Z",
+    "diffSummary": "Updated"
+  },
+  {
+    "url": "https://enb.vermont.gov/",
+    "updated": true,
+    "lastChecked": "2025-08-18T04:49:15.516746Z",
+    "diffSummary": "Updated"
+  }
+]

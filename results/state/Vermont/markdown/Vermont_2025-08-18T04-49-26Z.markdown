@@ -1,0 +1,40 @@
+## https://publicservice.vermont.gov/naturalgas_propane
+- Updated: False
+- Last Checked: 2025-08-18T04:49:22.626258Z
+- Summary: None
+
+## https://www.epa.gov/caa-permitting/caa-permitting-vermont
+- Updated: False
+- Last Checked: 2025-08-18T04:49:22.730326Z
+- Summary: No change detected
+
+## https://anrweb.vt.gov/DEC/AirFacilities/PublicSearch.aspx
+- Updated: True
+- Last Checked: 2025-08-18T04:49:23.485743Z
+- Summary: Updated
+
+## https://anronline.vermont.gov/Home/db48e104-7c4c-4d80-9d47-e8d05da3f707
+- Updated: True
+- Last Checked: 2025-08-18T04:49:24.011343Z
+- Summary: Updated
+
+## https://www.epa.gov/caa-permitting/title-v-program-evaluations-vermont
+- Updated: False
+- Last Checked: 2025-08-18T04:49:24.109144Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/vermont-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:49:24.212757Z
+- Summary: No change detected
+
+## https://anrweb.vt.gov/Pubdocs/DEC/ENB/ENB_V2/16329-VT%20NPDES%20PGP_Factsheet_2022.pdf
+- Updated: True
+- Last Checked: 2025-08-18T04:49:25.259314Z
+- Summary: Updated
+
+## https://enb.vermont.gov/
+- Updated: False
+- Last Checked: 2025-08-18T04:49:26.764947Z
+- Summary: No change detected
+
