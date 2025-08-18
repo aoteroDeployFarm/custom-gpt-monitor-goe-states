@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Path to scraper
 SCRAPER="./app/scraper.py"
@@ -6,9 +6,6 @@ LOG_FILE=".baseline-progress.log"
 
 # Stop on error
 set -e
-
-# Enable recursive globbing
-shopt -s globstar nullglob
 
 # Parse optional flag
 FULL_MODE=false
@@ -62,8 +59,8 @@ for state in "${states[@]}"; do
 
   if [ "$changes_detected" = true ]; then
     echo "  ✅ Committing all updates for $state..."
-
-    git add results/state/"$state"/**/* || true
+    
+    git add results/state/"$state" || true
 
     if ! git diff --cached --quiet; then
       git commit -m "baseline $state initial export${FULL_MODE:+ (full)}"
@@ -78,14 +75,14 @@ for state in "${states[@]}"; do
     echo "⚠️ No updates for $state — nothing to commit"
   fi
 
-  echo "-------------------------------"
-
-  # ✅ Ask user to continue
-  read -rp "❓ Do you wish to continue to the next state? (y/n): " answer
-  if [[ "$answer" =~ ^[Nn]$ ]]; then
-    echo "🛑 Exiting on user request."
+  # Confirm before moving to the next state
+  read -rp "⏭️  Continue to next state? (y/n): " confirm
+  if [[ "$confirm" != "y" && "$confirm" != "Y" ]]; then
+    echo "🛑 Stopping as requested."
     exit 0
   fi
+
+  echo "-------------------------------"
 done
 
-echo "🎉 All done!"
+echo "🎉 All states processed!"
