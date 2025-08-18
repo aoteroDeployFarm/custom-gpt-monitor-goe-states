@@ -1,0 +1,87 @@
+Air and Radiation Permits, Licenses and ApprovalsMain_Content​​​​​​Quick LinksGeneral Permit to Construct Application FormsPermits to Construct and Operate Application FormsTitle V Program Application Forms and General InformationToxic Air Pollutant Regulations Assistance DocumentsAsbestos FormsX-Ray Forms and Guidance/Radioactive Materials Forms and Guidance​Emission Reduction Credits​Air Permits Program NewsElectronic Submission of Air Quality Permit ApplicationsSigned, scanned Air Quality permit applications may be submitted via email to:[email protected]​​Public Participation OpportunitiesA description of the expanded public review process for Air Quality Permits to Construct can be foundhere​.OPPORTUNITY TO REQUEST AN INFORMATIONAL MEETING​Company AddressProjectDocket #Public NoticeDeadline to request an informational meetingThere are no items to show in this view of the "OPPORTUNITY TO REQUEST AN INFORMATIONAL MEETING" list.Followjavascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });0x00x0ContentType0x011100Compliance Detailsjavascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898Document Set Version History/_layouts/15/images/versions.gif?rev=43javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520330Send To other location/_layouts/15/images/sendOtherLoc.gif?rev=43javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520350SCHEDULED INFORMATIONAL MEETINGSCompanyProjectDocket #Public NoticeMeeting DateMeeting TimeThere are no items to show in this view of the "SCHEDULED INFORMATIONAL MEETINGS" list.Followjavascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });0x00x0ContentType0x011100Compliance Detailsjavascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898Document Set Version History/_layouts/15/images/versions.gif?rev=43javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520330Send To other location/_layouts/15/images/sendOtherLoc.gif?rev=43javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520350Center_Content​OPPORTUNITY TO REQUEST A PUBLIC HEARING OR SUBMIT COMMENTSCompany AddressProjectDocket #Public NoticeExpiration date to request a hearingExpiration date to submit commentsGold Bond Building Products, LLC2301 S. Newkirk St.Baltimore, MD 21224Modification of the
+reclaim system to add one (1) 12 tph creener, one (1)
+cyclone, one (1) Entecco product collector and associated equipment.Docket 13-24Notice8/28/20259/8/2025Followjavascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });0x00x0ContentType0x011100Compliance Detailsjavascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898Document Set Version History/_layouts/15/images/versions.gif?rev=43javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520330Send To other location/_layouts/15/images/sendOtherLoc.gif?rev=43javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520350​SCHEDULED PUBLIC HEARINGS​​Company AddressProjectDocket #Public NoticeMeeting DateMeeting TimeLast Date to Submit CommentsThere are no items to show in this view of the "SCHEDULED PUBLIC HEARINGS" list.Followjavascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });0x00x0ContentType0x011100Compliance Detailsjavascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898Document Set Version History/_layouts/15/images/versions.gif?rev=43javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520330Send To other location/_layouts/15/images/sendOtherLoc.gif?rev=43javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520350​​​FINAL DETERMINATION ​​A Final Determination by the Department on the issuance, denial, renewal, or revision of a permit is subject to judicial review at the request of any person that meets the threshold standing requirements under Federal Law; anda) Is the applicant; orb) Participated in a public participation process through the submission of written or oral comments, unless an opportunity for public participation was not provided.A petition for Judicial Review must be filed with the Circuit Court for the County, unless otherwise required by statute, where the application for the permit states that the proposed activity will occur, and must be filed within 30 days after the publication of a notice of final determination.NamePermit Issue DateDocketJudicial Review Petition DeadlineW.R. Grace & Company 7500 Grace Drive Columbia MD 210446/20/2025Docket 16-23 Issued Permit to Construct7/28/2025W.R. Grace & Company 7500 Grace Drive Columbia MD 210446/20/2025Docket 16-23 Notice of Final Determination7/28/2025W.R. Grace & Company 7500 Grace Drive Columbia MD 210446/20/2025Docket 16-23 Final Determination and Response to Comments7/28/2025W.R. Grace & Company 7500 Grace Drive Columbia MD 210446/20/2025Docket 16-23 Public Hearing Transcript and Public Comments7/28/2025W.R. Grace & Company 7500 Grace Drive Columbia MD 210446/20/2025Docket 16-23 Initial and Supplemental Information7/28/2025Evans Funeral Chapel  11543 Philadelphia Rd White Marsh, MD 211627/8/2025Docket 05-23 Final Determination8/13/2025Evans Funeral Chapel  11543 Philadelphia Rd White Marsh, MD 211627/8/2025Docket 05-23 InitialsuppInfo8/13/2025Followjavascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });0x00x0ContentType0x011100Compliance Detailsjavascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898Document Set Version History/_layouts/15/images/versions.gif?rev=43javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520330Send To other location/_layouts/15/images/sendOtherLoc.gif?rev=43javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520350Alternate Public Review Procedures for Certain Sources Subject to New Source Performance Standards (NSPS)​Company AddressProjectDeadline to submit commentsApplicationThere are no items to show in this view of the "ALTERNATE NSPS PUBLIC PARTICIPATION" list.Followjavascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });0x00x0ContentType0x011100Compliance Detailsjavascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);0x00x1ContentType0x01898Document Set Version History/_layouts/15/images/versions.gif?rev=43javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520330Send To other location/_layouts/15/images/sendOtherLoc.gif?rev=43javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')0x00x0ContentType0x0120D520350A description of the alternate public review procedures can be foundhere​.Interested Parties Notifications Contact ListsInterested parties will be notified of upcoming public participation opportunities for state APA permits and federal Title V draft permits. Please contact Shannon Heafey, Public Participation Coordinator, at 410-537-4433 or[email protected]to add your contact information to onr or more Interested Parties List(s). Please provide your area of interest, such as location or type of facility, and your preferred method of contact. ​​​​​​​​Additional information regarding the expanded public participation process for Air Quality Permits to Construct applications may be obtained by contacting Shannon Heafey at[email protected]​.​​​
