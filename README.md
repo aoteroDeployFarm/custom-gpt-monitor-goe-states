@@ -17,8 +17,8 @@ A modular Python project that tracks and monitors regulatory data across oil, ga
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/regulatory-monitor.git
-cd regulatory-monitor
+git clone https://github.com/aoteroDeployFarm/custom-gpt-monitor-goe-states.git
+cd custom-gpt-monitor-goe-states
 
 python3 -m venv venv
 source venv/bin/activate
@@ -98,7 +98,7 @@ Run daily with cron:
 ```bash
 crontab -e
 # Run at 2am daily
-0 2 * * * /path/to/venv/bin/python /path/to/regulatory-monitor/app/scraper.py
+0 2 * * * /path/to/venv/bin/python /path/to/custom-gpt-monitor-goe-states/app/scraper.py
 ```
 
 ---
