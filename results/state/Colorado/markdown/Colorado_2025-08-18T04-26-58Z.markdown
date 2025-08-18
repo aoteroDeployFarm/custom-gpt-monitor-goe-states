@@ -1,0 +1,25 @@
+## https://ecmc.state.co.us
+- Updated: False
+- Last Checked: 2025-08-18T04:26:57.745769Z
+- Summary: No change detected
+
+## https://cdphe.colorado.gov/apens-and-air-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:26:57.979435Z
+- Summary: No change detected
+
+## https://cdphe.colorado.gov/water-quality
+- Updated: False
+- Last Checked: 2025-08-18T04:26:58.300996Z
+- Summary: No change detected
+
+## https://puc.colorado.gov
+- Updated: False
+- Last Checked: 2025-08-18T04:26:58.477249Z
+- Summary: No change detected
+
+## https://slb.colorado.gov/lease/oil-gas
+- Updated: False
+- Last Checked: 2025-08-18T04:26:58.715402Z
+- Summary: No change detected
+
