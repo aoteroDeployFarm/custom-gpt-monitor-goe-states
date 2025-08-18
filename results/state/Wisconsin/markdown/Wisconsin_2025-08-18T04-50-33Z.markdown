@@ -1,0 +1,45 @@
+## https://psc.wi.gov/Pages/ServiceType/Energy/PipelineSafetyProgram.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:50:31.022203Z
+- Summary: No change detected
+
+## https://dnr.wisconsin.gov/topic/AirPermits
+- Updated: False
+- Last Checked: 2025-08-18T04:50:31.304297Z
+- Summary: No change detected
+
+## https://dnr.wisconsin.gov/topic/AirPermits/Options.html
+- Updated: False
+- Last Checked: 2025-08-18T04:50:31.601017Z
+- Summary: No change detected
+
+## https://www.epa.gov/caa-permitting/clean-air-act-permitting-wisconsin
+- Updated: False
+- Last Checked: 2025-08-18T04:50:31.720679Z
+- Summary: No change detected
+
+## https://dnr.wisconsin.gov/topic/AirPermits/PublicInvolvement
+- Updated: False
+- Last Checked: 2025-08-18T04:50:32.003233Z
+- Summary: No change detected
+
+## https://dnr.wisconsin.gov/topic/Wastewater/Permits.html
+- Updated: False
+- Last Checked: 2025-08-18T04:50:32.293603Z
+- Summary: No change detected
+
+## https://dnr.wisconsin.gov/topic/Wastewater/PermitLists.html
+- Updated: False
+- Last Checked: 2025-08-18T04:50:32.588425Z
+- Summary: No change detected
+
+## https://www.epa.gov/npdes-permits/wisconsin-npdes-permits
+- Updated: False
+- Last Checked: 2025-08-18T04:50:32.678243Z
+- Summary: No change detected
+
+## https://doa.wi.gov/Pages/LocalGovtsGrants/CoastalFederalConsistency.aspx
+- Updated: False
+- Last Checked: 2025-08-18T04:50:33.003939Z
+- Summary: No change detected
+
