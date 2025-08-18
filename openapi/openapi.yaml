@@ -1,0 +1,185 @@
+openapi: 3.1.0
+info:
+  title: GOE Regulatory Monitor API
+  version: 1.3.0
+  description: |
+    Track and monitor regulatory data changes across all U.S. states 
+    in the energy, oil, and gas sectors. Supports filtering by state, tags, 
+    update status, and can be used with GPT Actions.
+
+servers:
+  - url: http://localhost:8000
+    description: Local development server
+
+tags:
+  - name: Health
+    description: Service availability and health checks
+  - name: Scraper
+    description: Check for updates by URL or state, with tag filtering
+  - name: Batch
+    description: Batch check multiple URLs
+
+paths:
+  /:
+    get:
+      tags: [Health]
+      operationId: healthCheck
+      summary: Health check endpoint
+      description: Simple check to verify the API is running
+      responses:
+        '200':
+          description: Service is online
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                  message:
+                    type: string
+
+  /api/check:
+    get:
+      tags: [Scraper]
+      operationId: checkUpdates
+      summary: Check a specific URL, a state, or all regulatory websites
+      parameters:
+        - name: state
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: url
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: only_updated
+          in: query
+          required: false
+          schema:
+            type: boolean
+            default: false
+        - name: export
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [json, csv, markdown]
+        - name: filter_tag
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: exclude_tag
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: token
+          in: query
+          required: false
+          schema:
+            type: string
+      responses:
+        '200':
+          description: A list of matching URLs and their update status
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  count:
+                    type: integer
+                  results:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        url:
+                          type: string
+                        updated:
+                          type: boolean
+                        lastChecked:
+                          type: string
+                        diffSummary:
+                          type: string
+                        tags:
+                          type: array
+                          items:
+                            type: string
+
+  /batch-check:
+    post:
+      tags: [Batch]
+      operationId: batchCheck
+      summary: Batch check multiple URLs for changes
+      parameters:
+        - name: export
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [json, csv, markdown]
+        - name: token
+          in: query
+          required: false
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: string
+      responses:
+        '200':
+          description: Results for each URL
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  results:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        url:
+                          type: string
+                        updated:
+                          type: boolean
+                        lastChecked:
+                          type: string
+                        diffSummary:
+                          type: string
+                        error:
+                          type: string
+
+  /api/tags:
+    get:
+      tags: [Scraper]
+      operationId: getAllTags
+      summary: Get all available tags
+      description: Returns a list of tags from state_urls.json for filtering.
+      parameters:
+        - name: token
+          in: query
+          required: false
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Tag list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  tags:
+                    type: array
+                    items:
+                      type: string
