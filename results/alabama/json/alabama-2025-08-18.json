@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://www.gsa.state.al.us/ogb",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:11.631067Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.gsa.state.al.us/ogb/wells",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:11.908910Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://adem.alabama.gov/air/air-permitting",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:12.526694Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://adem.alabama.gov/air",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:12.983517Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://adem.alabama.gov/water/npdes-programs/npdes-permits",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:13.518703Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://adem.alabama.gov/water/npdes-programs/construction-general-permit",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:14.016084Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/alabama-npdes-permits",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:14.196298Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://psc.alabama.gov/gas-pipeline-safety/",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:14.517349Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.jcdh.org/SitePages/Misc/TitleVAirPermits.aspx",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:15.101278Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.jcdh.org/SitePages/Programs-Services/EnvironmentalHealth/Air-RadiationProtectionDivision/RegAirFac.aspx",
+    "state": "Alabama",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:15.380781Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  }
+]

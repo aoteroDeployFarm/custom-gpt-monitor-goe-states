@@ -1,0 +1,10 @@
+--- before.txt
++++ after.txt
+@@ -4,6 +4,7 @@
+ 
+ 
+ Home
++
+ 
+ 
+ 

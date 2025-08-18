@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://depsc.delaware.gov/pipeline-safety-program/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:48.396902Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://dnrec.delaware.gov/air/permitting/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:48.929390Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://dnrec.delaware.gov/air/permitting/major-air-sources/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:49.438399Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-delaware",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:49.584083Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://dnrec.delaware.gov/water/commercial-government/npdes/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:50.005793Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/delaware-npdes-permits",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:50.119532Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://dnrec.delaware.gov/coastal-programs/coastal-management/federal-consistency/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:50.585257Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://dnrec.delaware.gov/dnrec-public-notices/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:51.319598Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://den.dnrec.delaware.gov/",
+    "state": "Delaware",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:51.861471Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  }
+]

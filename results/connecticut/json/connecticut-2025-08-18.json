@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://portal.ct.gov/PURA/Gas-Pipeline-Safety/Gas-Pipeline-Safety",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:40.131030Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://portal.ct.gov/deep/air/permits/air-permits",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:40.368462Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://portal.ct.gov/DEEP/Air/Permits/Title-V-Operating-Permit-Program",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:41.071650Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://portal.ct.gov/DEEP/Air/Permits/Air-Permitting-Assistance",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:41.291848Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://portal.ct.gov/deep/permits-and-licenses/water-discharge-permits-and-general-permits",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:41.538197Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://portal.ct.gov/DEEP/Permits-and-Licenses/Factsheets-Water-Discharges/Wastewater-Discharges-Fact-Sheet",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:41.836429Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/connecticut-npdes-permits",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:42.051092Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://filings.deep.ct.gov/DEEPPortal/PublicSearch/PSSearchView",
+    "state": "Connecticut",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:32:42.472879Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  }
+]

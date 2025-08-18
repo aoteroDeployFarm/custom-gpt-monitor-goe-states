@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://azogcc.az.gov/",
+    "state": "Arizona",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:48.218279Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://azogcc.az.gov/permits",
+    "state": "Arizona",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:48.574738Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://azcc.gov/safety/pipeline-safety/pipeline",
+    "state": "Arizona",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:48.984037Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.maricopa.gov/1818/Permits-Forms-and-Payments",
+    "state": "Arizona",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:50.808336Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.pima.gov/439/Air-Quality-Permits",
+    "state": "Arizona",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:52.378260Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.pinal.gov/1255/Permitting",
+    "state": "Arizona",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:31:52.930592Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  }
+]

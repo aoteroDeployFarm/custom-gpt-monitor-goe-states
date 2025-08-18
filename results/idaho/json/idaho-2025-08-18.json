@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://ogcc.idaho.gov/",
+    "state": "Idaho",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:33:48.718291Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.deq.idaho.gov/permits/air-quality-permitting/",
+    "state": "Idaho",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:33:52.519288Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.deq.idaho.gov/water-quality/wastewater/permit-options/",
+    "state": "Idaho",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:33:56.291299Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.epa.gov/npdes-permits/idaho-npdes-program-authorization",
+    "state": "Idaho",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:33:56.524436Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://puc.idaho.gov/Page/Utility/8",
+    "state": "Idaho",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:33:56.714722Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  },
+  {
+    "url": "https://www.idl.idaho.gov/leasing/oil-gas-leasing/",
+    "state": "Idaho",
+    "updated": true,
+    "lastChecked": "2025-08-18T03:33:57.743790Z",
+    "diffSummary": "Initial snapshot (no previous content)"
+  }
+]
